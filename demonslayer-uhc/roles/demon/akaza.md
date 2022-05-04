@@ -10,7 +10,7 @@ order: 850
 Akaza est la 3ème lune supérieure et un artiste martial très puissant
 ```
 
-!!!info 
+!!!primary
 Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes
 Il connaît l'identité du Muzan
 !!!
