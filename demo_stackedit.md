@@ -1,6 +1,7 @@
-=====
+---
+label: Pizza Time
 icon: ":pizza:"
-=====
+---
  
  # Welcome to StackEdit!
 
