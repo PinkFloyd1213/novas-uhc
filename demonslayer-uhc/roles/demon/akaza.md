@@ -12,6 +12,7 @@ Akaza est la 3ème lune supérieure et un artiste martial très puissant
 
 !!!info 
 Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes
+Il connaît l'identité du Muzan
 !!!
 
 !!!success Effets
@@ -26,7 +27,7 @@ Le compas peut être utilisé **une fois tous les deux épisodes** et pendant un
 !!!
 
 +++ Compas général
-Lors de l'activation de la compétence, génère un cercle de **40 blocs de rayon** centré sur la position actuelle de Akaza. Celle-ci délimitée par des **particules bleues** uniquement visible par Akaza (sauf en mode dégats)
+Lors de l'activation de la compétence, génère un cercle de **40 blocs de rayon** centré sur la position actuelle d'Akaza. Celle-ci délimitée par des **particules bleues** uniquement visible par Akaza (sauf en mode dégats)
 +++ Mode détection 
 Tous les **non-démons** présents dans la zone du compas seront marqués par des **particules bleues** au dessus de leur têtes
 +++ Mode dégats
@@ -39,3 +40,5 @@ Tous les **non-démons** présents dans la zone du compas seront marqués par de
 - Akaza **repousse au loin** ses ennemis quand il les frappe à **mains nues**
 - Il peut détecter les **rôles féminins** en discernant le "Parfum" qu'elles émettent sous forme de particules derrière elles, pendant leurs déplacements
 !!!
+
+
