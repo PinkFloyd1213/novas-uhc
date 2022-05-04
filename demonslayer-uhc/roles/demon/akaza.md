@@ -21,13 +21,14 @@ Comme toute les lunes supérieures il possède l'effet weakness 2 à proximité 
 !!!
 
 !!!warning Items
-
+À l'annonce des rôles Akaza reçoit un flocon qui lui permet d'activer sa compétence "Compas" :
 !!!
 
-!!!danger Commandes
-
-!!!
++++ Compas
+description
++++
 
 !!!light Particularités
-
+- Akaza repousse au loin ses ennemis quand il les frappe à mains nues
+- Il peut détecter les rôles féminins en discernant le "Parfum" qu'elles émettent sous forme de particules derrière elles, pendant leurs déplacements
 !!!
