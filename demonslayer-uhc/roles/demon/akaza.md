@@ -22,7 +22,7 @@ Il connaît l'identité du [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/d
 !!!
 
 !!!warning Items
-À l'annonce des rôles Akaza reçoit un **Flocon** qui lui permet d'activer sa compétence "**Compas**"
+À l'annonce des rôles Akaza reçoit un **Flocon** qui lui permet d'activer sa compétence "**Compas**" <br>
 Le compas peut être utilisé **une fois tous les deux épisodes** et pendant une durée de **1 min**
 !!!
 
