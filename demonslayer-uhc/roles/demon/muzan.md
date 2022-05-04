@@ -16,7 +16,7 @@ Peut régénérer sa vie lentement si sa barre de nourriture est pleine
 !!!
 
 !!!success Effets
-- Il ne possède pas d'effets de jour et obtient **Force 2** et **Résistance 1** de nuit
+Il ne possède pas d'effets de jour et obtient **Force 2** et **Résistance 1** de nuit
 !!!
 
 !!!warning Items
