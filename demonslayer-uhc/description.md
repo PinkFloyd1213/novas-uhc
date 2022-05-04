@@ -1,7 +1,7 @@
 ---
 label: Éxplications
 icon: ":notebook:"
-order: 100
+order: 200
 ---
 
 # Éxplications du mode de jeu
