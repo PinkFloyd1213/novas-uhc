@@ -1,17 +1,17 @@
 input: ./
 output: .retype
-url: retype.com
+url: docs.n0vas.fr
 
 branding:
   logo: /static/retype-logo.svg
   logoDark: /static/retype-logo-dark.svg
-  label: v2.3
+  label: v0.1
 
 meta:
-  title: " - Generate, publish, and share documentation"
+  title: " - Documentation des modes de jeux NOVAS"
 
 edit:
-  repo: github.com/retypeapp/retype
+  repo: github.com/PinkFloyd1213/novas-uhc
 
 links:
   - text: Home
