@@ -24,7 +24,11 @@ Comme toute les lunes supérieures il possède l'effet weakness 2 à proximité 
 À l'annonce des rôles Akaza reçoit un flocon qui lui permet d'activer sa compétence "Compas" :
 !!!
 
-+++ Compas
++++ Compas général
+description
++++ Compas détection 
+description
++++ Compas dégats
 description
 +++
 
