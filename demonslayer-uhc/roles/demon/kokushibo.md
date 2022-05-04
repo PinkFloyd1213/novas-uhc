@@ -12,7 +12,8 @@ Kokushibo est la lune n°1 et le plus puissant des démons après Muzan
 
 !!!primary 
 Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes <br>
-Il connaît l'identité du Muzan
+Il connaît l'identité du Muzan <br>
+Il peux recevoir des messages du [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/)
 !!!
 
 !!!success Effets
