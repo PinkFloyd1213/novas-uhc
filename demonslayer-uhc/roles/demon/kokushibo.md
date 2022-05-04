@@ -7,7 +7,7 @@ order: 950
 # Kokushibo
 
 ```txt
-Kokushibo est la lune n°1 et le plus puissant des démons après Muzan  1
+Kokushibo est la lune n°1 et le plus puissant des démons après Muzan
 ```
 
 !!!info 
