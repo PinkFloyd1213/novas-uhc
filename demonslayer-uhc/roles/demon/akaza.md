@@ -11,7 +11,7 @@ Akaza est la 3ème lune supérieure et un artiste martial très puissant
 ```
 
 !!!primary
-Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes <br>
+Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si Muzan change de camp <br>
 Il connaît l'identité du [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/)
 !!!
 
