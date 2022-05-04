@@ -5,7 +5,7 @@ url: docs.n0vas.fr
 branding:
   logo: /static/novas.png
   logoDark: /static/novas.png
-  label: v0.1
+  label: v1.0
 
 meta:
   title: " - Documentation des modes de jeux NOVAS"
@@ -15,22 +15,8 @@ edit:
 
 links:
   - text: Home
-    link: /README.md
+    link: https://n0vas.fr/
     icon: home
-
-  - text: Pricing
-    link: /pro
-    icon: star
-
-  - text: Issues
-    link: https://github.com/retypeapp/retype/issues
-    icon: issue-opened
-    target: blank
-
-  - text: Discussions
-    link: https://github.com/retypeapp/retype/discussions
-    icon: comment-discussion
-    target: blank
 
   - text: Twitter
     link: https://twitter.com/retypeapp/
@@ -38,7 +24,7 @@ links:
     target: blank
 
 footer:
-  copyright: © Copyright {{ year }} – [Retype](https://retype.com/) – All rights reserved
+  copyright: © Copyright {{ year }} – [NOVAS](https://n0vas.fr/) – All rights reserved
   links:
     - text: About
       link: about.md
