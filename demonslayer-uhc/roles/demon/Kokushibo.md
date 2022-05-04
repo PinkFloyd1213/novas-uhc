@@ -15,9 +15,9 @@ Comme toute les lunes supérieures il possède l'effet weakness 2 à proximité 
 !!!
 
 !!!success Effets
-Il possède l'effet **Weakness 1** de jour et **Force 2** la nuit
-Kokushibo possède l'effet **Speed 1** quand il est à plus de 3.5 coeurs et **Résistance 1** en dessous de 3.5 coeurs
-Lors de la pleine lune sa **Force 2** devient **Force 3**
+- Il possède l'effet **Weakness 1** de jour et **Force 2** la nuit
+- Kokushibo possède l'effet **Speed 1** quand il est à plus de 3.5 coeurs et **Résistance 1** en dessous de 3.5 coeurs
+- Lors de la pleine lune sa **Force 2** devient **Force 3**
 !!!
 
 !!!warning Items
