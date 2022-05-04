@@ -2,6 +2,7 @@
 label: NOMDUROLE
 icon: ""
 order: 
+visibility: hidden
 ---
 
 # NOMDUROLE
