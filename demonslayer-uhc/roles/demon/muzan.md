@@ -20,8 +20,8 @@ Il ne possède pas d'effets de jour et obtient **Force 2** et **Résistance 1** 
 !!!
 
 !!!warning Items
-À l'annonce des rôles il obtient une **Griffe** permettant d'infecter un slayer <br>
-L'infection dure 20 minutes et les démons sont informés qu'un joueur (anonyme) à rejoint leur camp à la réussite de celle-ci
+À l'annonce des rôles il obtient une **Griffe** permettant d'**infecter** un slayer <br>
+L'infection dure **20 minutes** et les démons sont informés qu'un joueur (anonyme) à rejoint leur camp à la réussite de celle-ci
 !!!
 
 !!!danger Commandes
@@ -31,10 +31,10 @@ Il ne peut effectuer cette commande qu'une seule fois **entre la 20ème et la 45
 
 +++ Bounty Pseudo
 Le démon choisit doit tuer le **joueur** indiqué par son contrat <br>
-Il sera récompensé par une augmentation d'un niveau son effet de **Speed**
+Il sera récompensé par une augmentation d'un niveau de son effet de **Speed**
 +++ Bounty Rôle 
 Le démon choisit doit tuer le joueur ayant le **rôle** indiqué par son contrat <br>
-Il sera récompensé par une augmentation d'un niveau son effet de **Résistance**
+Il sera récompensé par une augmentation d'un niveau de son effet de **Résistance**
 +++ 
 
 
