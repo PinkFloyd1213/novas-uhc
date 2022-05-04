@@ -1,6 +1,6 @@
 ---
 label: NOMDUROLE
-icon: home
+icon: ":hourglass_flowing_sand:"
 order: 1
 visibility: hidden
 ---
@@ -24,5 +24,9 @@ visibility: hidden
 !!!
 
 !!!danger Commandes
+
+!!!
+
+!!!light Particularités
 
 !!!
