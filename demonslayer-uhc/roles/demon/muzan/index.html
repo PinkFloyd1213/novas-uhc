@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.705019585520" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.705020544372" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.705019585520" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.705020544372" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.705019585520" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.705020544372" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -246,7 +246,7 @@
         <div class="pr-5 ml-3 w-full">
             <h5>Items</h5>
 <p>À l&#x27;annonce des rôles il obtient une <strong>Griffe</strong> permettant d&#x27;infecter un slayer <br>
-L&#x27;infection dure 20 minutes</p>
+L&#x27;infection dure 20 minutes et les démons sont informés qu&#x27;un joueur (anonyme) à rejoint leur camp à la réussite de celle-ci</p>
         </div>
     </div>
 </div>
@@ -263,18 +263,21 @@ L&#x27;infection dure 20 minutes</p>
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>Commandes</h5>
-<p>Bounty</p>
+<p>Muzan possède la commande <code v-pre>/ds bounty &lt;pseudo démon&gt; &lt;pseudo ou rôle slayer&gt;</code> qui lui permet d&#x27;affecter un contrat à un démon avec une récompense à la clée <br>
+Il ne peut effectuer cette commande qu&#x27;une seule fois <strong>entre la 20ème et la 45ème minute</strong> de la partie</p>
         </div>
     </div>
 </div>
 <doc-tabs>
-<doc-tab id="tab-1">
-<template #title>Tab 1</template>
-<p>Description</p>
+<doc-tab id="bounty-pseudo">
+<template #title>Bounty Pseudo</template>
+<p>Le démon choisit doit tuer le <strong>joueur</strong> indiqué par son contrat <br>
+Il sera récompensé par une augmentation d&#x27;un niveau son effet de <strong>Speed</strong></p>
 </doc-tab>
-<doc-tab id="tab-2">
-<template #title>Tab 2</template>
-<p>Description</p>
+<doc-tab id="bounty-rôle">
+<template #title>Bounty Rôle</template>
+<p>Le démon choisit doit tuer le joueur ayant le <strong>rôle</strong> indiqué par son contrat <br>
+Il sera récompensé par une augmentation d&#x27;un niveau son effet de <strong>Résistance</strong></p>
 </doc-tab>
 </doc-tabs>
 <div class="flex mb-6">
