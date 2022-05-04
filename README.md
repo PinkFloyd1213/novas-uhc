@@ -1,3 +1,4 @@
+# Page d'acceuil
 ---
 label: Welcome
 icon: home
