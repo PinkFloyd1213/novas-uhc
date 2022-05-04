@@ -11,7 +11,7 @@ visibility: hidden
 
 ```
 
-!!!info 
+!!!primary
 
 !!!
 
