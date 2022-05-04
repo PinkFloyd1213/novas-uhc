@@ -11,7 +11,7 @@ Akaza est la 3ème lune supérieure et un artiste martial très puissant
 ```
 
 !!!info 
-Comme toute les lunes supérieures il possède l'effet weakness 2 à proximité d'autres lunes
+Comme toute les lunes supérieures il possède l'effet **Weakness 2** à proximité d'autres lunes
 !!!
 
 !!!success Effets
@@ -21,7 +21,7 @@ Comme toute les lunes supérieures il possède l'effet weakness 2 à proximité 
 !!!
 
 !!!warning Items
-À l'annonce des rôles Akaza reçoit un flocon qui lui permet d'activer sa compétence "Compas" :
+À l'annonce des rôles Akaza reçoit un **Flocon** qui lui permet d'activer sa compétence "**Compas**"
 !!!
 
 +++ Compas général
@@ -33,6 +33,6 @@ description
 +++
 
 !!!light Particularités
-- Akaza repousse au loin ses ennemis quand il les frappe à mains nues
-- Il peut détecter les rôles féminins en discernant le "Parfum" qu'elles émettent sous forme de particules derrière elles, pendant leurs déplacements
+- Akaza repousse au loin ses ennemis quand il les frappe à **mains nues**
+- Il peut détecter les **rôles féminins** en discernant le "Parfum" qu'elles émettent sous forme de particules derrière elles, pendant leurs déplacements
 !!!
