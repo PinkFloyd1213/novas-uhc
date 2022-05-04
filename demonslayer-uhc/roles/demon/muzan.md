@@ -39,7 +39,7 @@ Il sera récompensé par une augmentation d'un niveau son effet de **Résistance
 
 
 !!!warning Particularités
-Muzan change de camp si il tue **Nezuko** ou si il trouve "**l'Amaryllis bleue**" <br>
+Muzan change de camp si il tue **Nezuko** ou le porteur "**l'Amaryllis bleue**" <br>
 Si l'une des deux conditions est remplie alors Muzan obtiendra les effets **Force 3** et **Résistance 2** de nuit comme de jour et devra gagner seul <br>
 Le malus de **Weakness** entre démons est également retiré de toutes les lunes encore en vie
 !!!
