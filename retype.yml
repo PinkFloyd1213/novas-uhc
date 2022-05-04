@@ -3,8 +3,8 @@ output: .retype
 url: docs.n0vas.fr
 
 branding:
-  logo: /static/novas.png
-  logoDark: /static/novas.png
+  logo: /static/Logo_noir.svg
+  logoDark: /static/Logo_blanc.svg
   label: v1.0
 
 meta:
