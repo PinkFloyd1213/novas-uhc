@@ -1,21 +1,23 @@
 ---
-label: NOMDUROLE
-icon: ""
-order: 
+label: Akaza
+icon: ":new_moon:"
+order: 850
 ---
 
-# Kokushibo
+# Akaza
 
 ```txt
-
+Akaza est la 3ème lune supérieure et un artiste martial très puissant
 ```
 
 !!!info 
-
+Comme toute les lunes supérieures il possède l'effet weakness 2 à proximité d'autres lunes
 !!!
 
 !!!success Effets
-
+- Il possède l'effet **Weakness 1** de jour et **Force 2** la nuit
+- Akaza perd son effet de **Force** pendant 5 secondes si il vient à frapper un rôle féminin
+- Il obtient les effets **Résistance 3** et **Speed 1** en dessous de 3.5 coeurs
 !!!
 
 !!!warning Items
@@ -23,5 +25,9 @@ order:
 !!!
 
 !!!danger Commandes
+
+!!!
+
+!!!light Particularités
 
 !!!
