@@ -11,7 +11,7 @@ Akaza est la 3ème lune supérieure et un artiste martial très puissant
 ```
 
 !!!info 
-Comme toute les lunes supérieures il possède l'effet **Weakness 2** à proximité d'autres lunes
+Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes
 !!!
 
 !!!success Effets
@@ -22,17 +22,20 @@ Comme toute les lunes supérieures il possède l'effet **Weakness 2** à proximi
 
 !!!warning Items
 À l'annonce des rôles Akaza reçoit un **Flocon** qui lui permet d'activer sa compétence "**Compas**"
+Le compas peut être utilisé **une fois tous les deux épisodes** et pendant une durée de **1 min**
 !!!
 
 +++ Compas général
-description
-+++ Compas détection 
-description
-+++ Compas dégats
-description
+Lors de l'activation de la compétence, génère un cercle de **40 blocs de rayon** centré sur la position actuelle de Akaza. Celle-ci délimitée par des **particules bleues** uniquement visible par Akaza (sauf en mode dégats)
++++ Mode détection 
+Tous les **non-démons** présents dans la zone du compas seront marqués par des **particules bleues** au dessus de leur têtes
++++ Mode dégats
+- Akaza a le choix n'importe quand dans la partie d'activer ou non le **mode dégats** du **Compas** avec la commande ```/ds compas```
+- En mode dégats (qui se combine avec la détection) **les particules** de la zone du Compas deviennent **visibles** aux joueurs présents dans la zone.
+- Tout joueur présent dans une **zone de 5 blocs** de rayon **autour d'Akaza** se verra infligé des **dégats périodiques**
 +++
 
 !!!light Particularités
-- Akaza repousse au loin ses ennemis quand il les frappe à **mains nues**
+- Akaza **repousse au loin** ses ennemis quand il les frappe à **mains nues**
 - Il peut détecter les **rôles féminins** en discernant le "Parfum" qu'elles émettent sous forme de particules derrière elles, pendant leurs déplacements
 !!!
