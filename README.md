@@ -17,7 +17,7 @@ A new Retype powered website can be up and running within seconds once Retype is
 
 ---
 
-## Quick start
+## Quick start çA MET A JOUR ??? 
 
 You can install Retype using `npm`, `yarn`, or the `dotnet` CLI.
 
