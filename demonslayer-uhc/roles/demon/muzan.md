@@ -20,7 +20,7 @@ Connaît l'identité de toutes les **lunes supérieures**
 
 !!!warning Items
 À l'annonce des rôles il obtient une **Griffe** permettant d'infecter un slayer
-- L'infection dure 20 minutes
+L'infection dure 20 minutes 
 !!!
 
 !!!danger Commandes
