@@ -1,6 +1,6 @@
 ---
 label: Kokushibo 
-icon: ":new_moon:"
+icon: ":small_red_triangle:"
 order: 950
 ---
 
