@@ -30,6 +30,10 @@ Reçoit les **coordonnées et rôles** de **3 slayers** désignés aléatoiremen
 Peut être utilisé **2 fois** dans la partie
 +++
 
+!!!danger Commandes
+Peut effectuer la réunion des lunes supérieures quand elle est à proximité de [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/) avec la commande ```/ds réu```
+!!!
+
 !!!light Particularités
 Possède les effets **Speed 1**, **Force 2** et **Résistance 1** dans le "**Château de l'infini**" mais ses **items** sont **désactivés**
 !!!
