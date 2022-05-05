@@ -12,7 +12,7 @@ Muzan est l'empereur de tous les démons et est l'ennemi n°1 des Slayers
 
 !!!primary
 Connaît l'identité de toutes les **lunes supérieures** <br>
-Peut régénérer sa vie lentement si sa barre de nourriture est pleine
+Muzan régénère 5 coeurs à chaque kill
 !!!
 
 !!!success Effets
@@ -46,9 +46,7 @@ Le malus de **Weakness** entre démons est également retiré de toutes les lune
 !!!
 
 
-
-
-
+/* test */ 
 
 
 
