@@ -18,7 +18,7 @@ Muzan est l'empereur de tous les démons et est l'ennemi n°1 des Slayers
 ```
 
 !!!primary
-Connaît l'identité de toutes les **lunes supérieures**
+Connaît l'identité de toutes les **lunes supérieures** <br>
 Peut régénérer sa vie lentement si sa barre de nourriture est pleine
 !!!
 
