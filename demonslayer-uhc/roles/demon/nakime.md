@@ -11,8 +11,8 @@ Nakime est la 4ème lune supérieure de remplacement et est plus connue sous le 
 ```
 
 !!!primary
-Comme toute les lunes supérieures elle possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/) change de camp <br>
-Elle connaît l'identité du [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/)
+Comme toute les lunes supérieures elle possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](./muzan/) change de camp <br>
+Elle connaît l'identité du [Muzan](./muzan/)
 !!!
 
 !!!success Effets
@@ -31,7 +31,7 @@ Peut être utilisé **2 fois** dans la partie
 +++
 
 !!!danger Commandes
-Peut effectuer la réunion des lunes supérieures quand elle est à proximité de [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/) avec la commande ```/ds reunion``` une fois dans la partie
+Peut effectuer la réunion des lunes supérieures quand elle est à proximité de [Muzan](./muzan/) avec la commande ```/ds reunion``` une fois dans la partie
 !!!
 
 !!!light Particularités
