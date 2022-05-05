@@ -46,7 +46,11 @@ Le malus de **Weakness** entre démons est également retiré de toutes les lune
 !!!
 
 
-<div id='buff' style='visibility: hidden'>texte non visible</div>
+<div id='buff' style='visibility: hidden'>
+  
+Si Muzan a besoin d'un buff -> chance d'infliger wither à chaque coup 
+
+</div>
 
 
 
