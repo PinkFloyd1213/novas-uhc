@@ -22,7 +22,7 @@ Si Doma "dévore" une **femme** il gagne **un coeur** supplémentaire ainsi qu'u
 
 !!!warning Items
 À l'annonce des rôles Doma reçoit un **Flocon** qui lui permet d'utiliser sa compétence "**Blizzard**", le Blizzard peut être utilisé **deux fois** dans la partie <br> 
-Il reçoit également un **Glaçon** permettant d'utiliser sa compétence "**Pantins de glace**". Au cours de la partie Doma peut invoquer **4 pantins** individuellement
+Il reçoit également un **Glaçon** permettant d'utiliser sa compétence "**Pantins de glace**". Au cours de la partie, Doma peut invoquer **4 pantins** individuellement
 !!!
 
 +++ Blizzard
