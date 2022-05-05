@@ -20,7 +20,8 @@ Hantengu possède l'effet **Weakness 1** de jour et **Force 1** la nuit
 !!!
 
 !!!warning Items
-À l'annonce des rôles, Hantengu reçoit une "**Poupée**" qui lui permet d'**alterner les modes** de ses effets, peut être utilisée toute les **15 minutes**
+À l'annonce des rôles, Hantengu reçoit une "**Poupée**" qui lui permet d'**alterner les modes** de ses effets
+Ce pouvoir peut être utilisé toute les **15 minutes**
 !!!
 
 +++ Mode division
