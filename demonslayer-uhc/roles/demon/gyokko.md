@@ -11,8 +11,8 @@ Gyokko est la 5ème lune supérieure
 ```
 
 !!!primary
-Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/) change de camp <br>
-Il connaît l'identité du [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/)
+Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](./muzan/) change de camp <br>
+Il connaît l'identité du [Muzan](./muzan/)
 !!!
 
 !!!success Effets
@@ -22,7 +22,7 @@ Il possède également **7 coeurs**
 
 !!!info
 À sa **mort**, Gyokko est re-téléporté à l'un des **parterres de fleurs** encore présent sur la carte, **3 fois** dans la partie mais **perd 1 coeur maximum** à chaque réaparition <br>
-Si tous les **parterres de fleurs** viennent à être détruits, Gyokko respawnera alors directement sur [Doma](/demonslayer-uhc/roles/demon/doma/). Si [Doma](./doma/) est déjà mort à ce moment, Gyokko respawnera aléatoirement sur la map
+Si tous les **parterres de fleurs** viennent à être détruits, Gyokko respawnera alors directement sur [Doma](./doma/). Si [Doma](./doma/) est déjà mort à ce moment, Gyokko respawnera aléatoirement sur la map
 !!!
 
 !!!danger Commandes
