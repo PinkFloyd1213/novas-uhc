@@ -1,6 +1,6 @@
 ---
 label: Muzan
-icon: ":brain:"
+icon: ":squid:"
 order: 1000
 ---
 
