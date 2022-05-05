@@ -16,19 +16,19 @@ Il connaît l'identité du Muzan
 !!!
 
 !!!success Effets
-Doma possède l'effet **Weakness 1** de jour et **Force 2** la nuit
+Doma possède l'effet **Weakness 1** de jour et **Force 2** la nuit <br>
 Si Doma "dévore" une **femme** il gagne **un coeur** supplémentaire ainsi qu'un bonus de **2% de Force**
 !!!
 
 !!!warning Items
-À l'annonce des rôles Doma reçoit un **flocon** qui lui permet d'utiliser sa compétence "**Blizzard**", le Blizzard peut être utilisé **deux fois** dans la partie <br> 
-Il reçoit également un **glaçon** permettant d'utiliser sa compétence "**Pantins de glace**", au cours de la partie Doma peut invoquer **4 pantins** individuellement
+À l'annonce des rôles Doma reçoit un **Flocon** qui lui permet d'utiliser sa compétence "**Blizzard**", le Blizzard peut être utilisé **deux fois** dans la partie <br> 
+Il reçoit également un **Glaçon** permettant d'utiliser sa compétence "**Pantins de glace**", au cours de la partie Doma peut invoquer **4 pantins** individuellement
 !!!
 
 +++ Blizzard
 Lors de l'utilisation de la compétence, inflige les effets **Wither 1** et **Blindness 1** pendant **20 secondes** au joueur ciblé 
 +++ Pantins
-Lors de son invoquation le Pantin de glace **attaquera en continu** le **joueur ciblé** pendant **30 secondes**
+Lors de son invoquation, le Pantin de glace **attaquera en continu** le **joueur ciblé** pendant **30 secondes**
 +++
 
 !!!light Particularités
