@@ -39,7 +39,7 @@ Il reçoit également un ""**Poisson**"" permettant d'activer son "**Jet de pois
 
 +++ Cage d'eau
 Forme une bulle d'eau de **15 blocs** de rayon autour du **joueur ciblé** <br>
-**tous les joueurs** présents dans la cage se voient affligés des effets **Slowness 1** et **Blindness 1**, excepté Gyokko <br>
+**Tous les joueurs** présents dans la cage se voient affligés des effets **Slowness 1** et **Blindness 1**, excepté Gyokko <br>
 La cage dure 1 minute
 +++ Jet de poissons 
 Crée une **vague déferlante** de poissons **infligeant des dégats** sur son passage
