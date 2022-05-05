@@ -1,7 +1,7 @@
 ---
 label: Nakime
 icon: ":new_moon:"
-order: 1
+order: 750
 ---
 
 # Nakime
