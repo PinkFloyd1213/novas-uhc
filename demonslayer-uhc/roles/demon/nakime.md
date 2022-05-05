@@ -25,7 +25,7 @@ Nakime possède l'effet **Weakness 1** de jour et **Force 2** la nuit
 
 +++ Biwa
 Permet de **disperser** tous les joueurs autour d'elle **2 fois** dans la partie
-+++ Oeuil 
++++ Oeil 
 Reçoit les **coordonnées et rôles** de **3 slayers** désignés aléatoirement <br>
 Peut être utilisé **2 fois** dans la partie
 +++
