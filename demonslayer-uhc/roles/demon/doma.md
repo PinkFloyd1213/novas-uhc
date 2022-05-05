@@ -27,7 +27,7 @@ Il reçoit également un **glaçon** permettant d'utiliser sa compétence "**Pan
 
 +++ Blizzard
 Lors de l'utilisation de la compétence, inflige les effets **Wither 1** et **Blindness **1 pendant **20 secondes** au joueur ciblé 
-+++ Tab 2 
++++ Pantins
 Lors de son invoquation le Pantin de glace **attaquera en continu** le **joueur ciblé** pendant **30 secondes**
 +++
 
