@@ -31,7 +31,7 @@ Peut être utilisé **2 fois** dans la partie
 +++
 
 !!!danger Commandes
-Peut effectuer la réunion des lunes supérieures quand elle est à proximité de [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/) avec la commande ```/ds réu```
+Peut effectuer la réunion des lunes supérieures quand elle est à proximité de [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/) avec la commande ```/ds réu``` une fois dans la partie
 !!!
 
 !!!light Particularités
