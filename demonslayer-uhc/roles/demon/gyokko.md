@@ -21,7 +21,7 @@ Il possède également **7 coeurs**
 !!!
 
 !!!info
-À sa **mort**, Gyokko est re-téléporté à l'un des **parterres de fleurs** encore présent sur la carte, **3 fois** dans la partie mais **perd 1 coeur maximum** à chaque réaparition <br>
+À sa **mort**, Gyokko est re-téléporté à l'un des **parterres de fleurs** encore présent sur la carte, **3 fois** dans la partie mais **perd 1 coeur permanant** à chaque réaparition <br>
 Si tous les **parterres de fleurs** viennent à être détruits, Gyokko respawnera alors directement sur [Doma](./doma/). Si [Doma](./doma/) est déjà mort à ce moment, Gyokko respawnera aléatoirement sur la map
 !!!
 
