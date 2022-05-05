@@ -1,6 +1,6 @@
 ---
 label: Doma
-icon: ":new_moon:"
+icon: ":small_red_triangle:"
 order: 900
 ---
 
