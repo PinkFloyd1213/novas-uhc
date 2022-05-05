@@ -11,27 +11,30 @@ Nakime est la 4ème lune supérieure de remplacement et est plus connue sous le 
 ```
 
 !!!primary
-
+Comme toute les lunes supérieures elle possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/) change de camp <br>
+Elle connaît l'identité du [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/)
 !!!
 
 !!!success Effets
-
+Nakime possède l'effet **Weakness 1** de jour et **Force 2** la nuit
 !!!
 
 !!!warning Items
-
+À l'annonce des rôles, Nakime reçoit un "**Biwa**" et un "**Oeil**"
 !!!
 
-+++ Tab 1
-Description
-+++ Tab 2 
-Description
++++ Biwa
+Permet de **disperser** tous les joueurs autour d'elle **2 fois** dans la partie
++++ Oeuil 
+Reçoit les **coordonnées et rôles** de **3 slayers** désignés aléatoirement <br>
+Peut être utilisé **2 fois** dans la partie
 +++
 
-!!!danger Commandes
-
-!!!
-
 !!!light Particularités
-
+Possède les effets **Speed 1**, **Force 2** et **Résistance 1** dans le "**Château de l'infini**" mais ses **items** sont **désactivés**
 !!!
+
+
+
+
+
