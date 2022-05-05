@@ -6,13 +6,6 @@ order: 1000
 
 # Muzan
 
-<br><br><br>
-
-***COMMANDE MUZAN !!!***
-
-<br><br><br>
-
-
 ```txt
 Muzan est l'empereur de tous les démons et est l'ennemi n°1 des Slayers
 ```
@@ -32,7 +25,8 @@ L'infection dure **20 minutes** et les démons sont informés qu'un joueur (anon
 !!!
 
 !!!danger Commandes
-Muzan possède la commande ```/ds bounty <pseudo démon> <pseudo ou rôle slayer>``` qui lui permet d'affecter un **contrat** à un démon avec une récompense à la clée <br>
+Muzan peut envoyer des messages à Kokushibo via la commande ```/ds msg <message>```  <br>
+Muzan possède également la commande ```/ds bounty <pseudo démon> <pseudo ou rôle slayer>``` qui lui permet d'affecter un **contrat** à un démon avec une récompense à la clée <br>
 Il ne peut effectuer cette commande qu'une seule fois **entre la 20ème et la 45ème minute** de la partie
 !!!
 
