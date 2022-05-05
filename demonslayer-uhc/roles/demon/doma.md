@@ -11,8 +11,8 @@ Doma est la 2ème lune supérieure et est un démon très jovial
 ```
 
 !!!primary
-Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si Muzan change de camp <br>
-Il connaît l'identité du Muzan
+Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/) change de camp <br>
+Il connaît l'identité du [Muzan](https://docs.n0vas.fr/demonslayer-uhc/roles/demon/muzan/)
 !!!
 
 !!!success Effets
