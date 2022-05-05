@@ -1,14 +1,13 @@
 ---
 label: Hantengu
-icon: ":hourglass_flowing_sand:"
-order: 1
-visibility: hidden
+icon: ":new_moon:"
+order: 800
 ---
 
 # Hantengu
 
 ```txt
-
+Hantengu est la 4ème lune supérieure et est un démon de nature craintif
 ```
 
 !!!primary
