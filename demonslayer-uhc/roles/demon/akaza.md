@@ -1,6 +1,6 @@
 ---
 label: Akaza
-icon: ":new_moon:"
+icon: ":small_red_triangle:"
 order: 850
 ---
 
