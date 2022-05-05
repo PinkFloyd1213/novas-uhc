@@ -11,23 +11,23 @@ Kaigaku est la 6ème lune supérieure de remplacement et est un ancien élève d
 ```
 
 !!!primary
-À l’annonce des rôles, Kaigaku doit choisir entre le camp des <d style="color:red;">démons</d> ou des slayer <br>
+À l’annonce des rôles, Kaigaku doit choisir entre le camp des <d style="color:red;">démons</d> ou des <d style="color:green;">slayers</d> <br>
 <br>
-S'il choisit le camp des démons : <br>
+S'il choisit le camp des <d style="color:red;">démons</d> : <br>
 - Il possède l'effet **Weakness 1** à proximité d'autres lunes supérieures mais n'as plus effet si [Muzan](./muzan) change de camp <br>
 - Il connaît l'identité du [Muzan](./muzan)
 !!!
 
 !!!info
-Si Kaigaku choisit le camp slayer, il aura la possibilité de crafter un "**Sabre du soleil**" <br>
+Si Kaigaku choisit le camp <d style="color:green;">slayers</d>, il aura la possibilité de crafter un "**Sabre du soleil**" <br>
 <br>
-Si Kaigaku choisit le camp démon, il sera pris pour cible par [Jigoro](../slayer/jigoro)
+Si Kaigaku choisit le camp <d style="color:red;">démons</d>, il sera pris pour cible par [Jigoro](../slayer/jigoro)
 !!!
 
 !!!success Effets
-Camp slayer : possède l’effet **Speed 2** permanant <br>
+Camp <d style="color:green;">slayers</d> : possède l’effet **Speed 2** permanant <br>
 <br>
-Camp démon : possède l'effet **Weakness 1** et **Speed 1** de jour ainsi que **Force 2** et **Speed 1** la nuit
+Camp <d style="color:red;">démons</d> : possède l'effet **Weakness 1** et **Speed 1** de jour ainsi que **Force 2** et **Speed 1** la nuit
 !!!
 
 !!!warning Items
@@ -37,11 +37,11 @@ Il reçoit également un "**Éclair**" qui lui permet d'activer différents pouv
 
 +++ Zone de Combat
 Tous les joueurs, excepté Kaigaku, prennent des **dégats en continu** dans une zone de **40 blocs de rayon**, centrée sur Kaigaku à son activation <br>
-La zone inflige davantage de dégats si Kaigaku choisit le camp démon
+La zone inflige davantage de dégats si Kaigaku choisit le camp <d style="color:red;">démons</d>
 +++ Éclair
-Camp slayer : peut “**foudroyer**” un joueur au choix, **3 fois** dans la partie <br>
+Camp <d style="color:green;">slayers</d> : peut “**foudroyer**” un joueur au choix, **3 fois** dans la partie <br>
 <br>
-Camp démon : peut "**foudroyer**" tous les slayers autour de lui dans un zone de **10 blocs de rayon**, une fois dans la partie
+Camp <d style="color:red;">démons</d> : peut "**foudroyer**" tous les slayers autour de lui dans un zone de **10 blocs de rayon**, une fois dans la partie
 +++
 
 
