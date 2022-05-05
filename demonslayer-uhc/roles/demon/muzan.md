@@ -46,7 +46,7 @@ Le malus de **Weakness** entre démons est également retiré de toutes les lune
 !!!
 
 
-/* test */ 
+<div id='buff' style='visibility: hidden'>texte non visible</div>
 
 
 
