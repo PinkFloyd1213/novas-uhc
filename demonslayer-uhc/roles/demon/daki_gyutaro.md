@@ -1,7 +1,7 @@
 ---
 label: Daki & Gyutaro 
 icon: ":small_red_triangle:"
-order: 600
+order: 650
 ---
 
 # Daki & Gyutaro 
