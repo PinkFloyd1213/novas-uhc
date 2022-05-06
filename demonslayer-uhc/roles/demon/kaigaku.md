@@ -11,7 +11,7 @@ Kaigaku est la 6ème lune supérieure de remplacement et est un ancien élève d
 ```
 
 !!!primary
-À l’annonce des rôles, Kaigaku doit choisir entre le camp des <d style="color:red;">démons</d> ou des <d style="color:green;">slayers</d> <br>
+À l’annonce des rôles, Kaigaku doit choisir entre le camp des démons ou des slayers <br>
 <br>
 S'il choisit le camp des <d style="color:red;">démons</d> : <br>
 - Il possède l'effet **Weakness 1** à proximité d'autres lunes supérieures mais n'as plus effet si [Muzan](./muzan) change de camp <br>
