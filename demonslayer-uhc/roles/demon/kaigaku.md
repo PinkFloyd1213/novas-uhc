@@ -1,7 +1,7 @@
 ---
 label: Kaigaku
 icon: ":small_red_triangle:"
-order: 650
+order: 600
 ---
 
 # Kaigaku
