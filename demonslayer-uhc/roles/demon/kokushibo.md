@@ -27,5 +27,5 @@ Il peux recevoir des messages du [Muzan](./muzan/)
 !!!
 
 !!!danger Commandes
-Kokushibo possède la commande ```/ds lune``` qui lui permet d'invoquer la pleine lune à la prochaine nuit 
+Kokushibo possède la commande ```/ds lune``` qui lui permet d'invoquer la pleine lune à la prochaine nuit. Utilisable **2 fois** dans la partie
 !!!
