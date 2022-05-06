@@ -24,7 +24,7 @@ Pour les **vaincre**, il est nécéssaire de les tuer dans **ce laps de temps**
 Daki & Gyutaro possèdent l'effet **Weakness 1** de jour et **Force 2** la nuit <br>
 Ils obtiennent également l'effet **Résistance 1** à proximité l'un de l'autre <br>
 <br>
-<d style="color:green;">Gyutaro</d> possède **Speed 1** de nuit <br>
+<d style="color:lime;">Gyutaro</d> possède **Speed 1** de nuit <br>
 <br>
 <d style="color:fuchsia;">Daki</d> possède **Speed 1** si elle se trouve éloignée de Gyutaro
 !!!
