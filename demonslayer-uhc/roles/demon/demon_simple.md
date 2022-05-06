@@ -21,9 +21,9 @@ Les Démons Simples possèdent l'effet **Weakness 1** de jour et **Force 1** la 
 
 !!!info 
 À l’annonce des rôles, les démons simples se voient chacun attribués une "**personalité**" aléatoire : <br>
-- “**Sekido**” la colère <br>
-- “**Karaku**” la sérénité <br>
-- “**Urogi**” la jovialité
+- “**Sekido**” : la colère <br>
+- “**Karaku**” : la sérénité <br>
+- “**Urogi**” : la jovialité
 !!!
 
 +++ Sekido
