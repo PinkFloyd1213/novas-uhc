@@ -13,7 +13,7 @@ Kokushibo est la lune n°1 et le plus puissant des démons après Muzan
 !!!primary 
 Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](./muzan/) change de camp <br>
 Il connaît l'identité du [Muzan](./muzan/) <br>
-Il peux recevoir des messages du [Muzan](./muzan/)
+Il peut recevoir les messages du [Muzan](./muzan/)
 !!!
 
 !!!success Effets
@@ -23,9 +23,9 @@ Il peux recevoir des messages du [Muzan](./muzan/)
 !!!
 
 !!!warning Items
-À l'annonce des rôles, Kokushibo reçoit son "Sabre de la lune". Celui-ci lui permet de faire une attaque à distance avec un clic droit
+À l'annonce des rôles, Kokushibo reçoit son "**Sabre de la lune**". Celui-ci lui permet de faire une attaque à distance avec un clic droit
 !!!
 
 !!!danger Commandes
-Kokushibo possède la commande ```/ds lune``` qui lui permet d'invoquer la pleine lune à la prochaine nuit. Utilisable **2 fois** dans la partie
+Kokushibo possède la commande ```/ds lune``` qui lui permet d'invoquer la pleine lune à la **prochaine nuit**. Utilisable **2 fois** dans la partie
 !!!
