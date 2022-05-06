@@ -11,7 +11,7 @@ Daki & Gyutaro sont "la" 6ème lune supérieure
 ```
 
 !!!primary
-Comme toute les lunes supérieures ils possèdent l'effet **Weakness 1** à proximité d'autres lunes (sauf entre eux), mais n'as plus effet si [Muzan](./muzan) change de camp <br>
+Comme toute les lunes supérieures ils possèdent l'effet **Weakness 1** à proximité d'autres lunes (sauf entre eux), mais n'ont plus effet si [Muzan](./muzan) change de camp <br>
 Ils se connaissent entre eux et sont informés de l'identité du [Muzan](./muzan)
 !!!
 
@@ -48,7 +48,7 @@ Le joueur mort peut envoyer des messages à son duo avec la commande ```/ds mort
 !!!light Particularités
 <d style="color:lime;">Gyutaro</d> a **25% de chance** d'infliger l'effet **Wither 1** pendant 1 seconde à **chaque coup** <br>
 <br>
-<d style="color:fuchsia;">Daki</d> gagne **un coeur permanant** à chaque **kill**
+<d style="color:fuchsia;">Daki</d> gagne **un coeur permanant** à chaque **kill** qu'elle effectue 
 !!!
 
 
