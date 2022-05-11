@@ -1,0 +1,30 @@
+---
+label: Kagaya
+icon: ":bacon:"
+order: 1
+visibility: hidden
+---
+
+# Kagaya
+
+```txt
+Kagaya a eu une mauvaise expérience avec un friteuse
+```
+
+!!!primary
+À l’annonce des rôles, Kagaya reçoit la **liste** des pseudos de tous les **Piliers** <br>
+Il a également la possibilité de crafter un "**Sabre du soleil**"
+!!!
+
+!!!success Effets
+Kagaya possède l'effet **Weakness 1** de jour comme de nuit
+Il est également limité à **7 coeurs** permanant
+!!!
+
+!!!light Particularités
+Kagaya connaît l'identité de tout joueur ayant **tué un Pilier**
+!!!
+
+
+
+
