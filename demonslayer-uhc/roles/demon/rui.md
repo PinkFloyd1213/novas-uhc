@@ -28,3 +28,6 @@ Inflige des **dégats** et **rapproche** le joueur ciblé. Utilisable **une fois
 **Propulse** le joueur dans la direction du **bloc ciblé**. Utilisable **une fois par minute**
 +++
 
+<div id='buff' style='visibility: hidden'>
+  compétence "marquage" qui avec une commande révèle les coordonnées du joueur marqué
+  </div>
