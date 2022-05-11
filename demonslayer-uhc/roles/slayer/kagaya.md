@@ -16,7 +16,7 @@ Il a également la possibilité de crafter un "**Sabre du soleil**"
 !!!
 
 !!!success Effets
-Kagaya possède l'effet **Weakness 1** de jour comme de nuit
+Kagaya possède l'effet **Weakness 1** de jour comme de nuit <br>
 Il est également limité à **7 coeurs** permanant
 !!!
 
