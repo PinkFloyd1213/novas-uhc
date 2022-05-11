@@ -1,8 +1,7 @@
 ---
 label: Kagaya
 icon: ":bacon:"
-order: 1
-visibility: hidden
+order: 1000
 ---
 
 # Kagaya
