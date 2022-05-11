@@ -7,7 +7,7 @@ order: 1000
 # Kagaya
 
 ```txt
-Kagaya a eu une mauvaise expérience avec un friteuse
+Kagaya a eu une mauvaise expérience avec une friteuse
 ```
 
 !!!primary
