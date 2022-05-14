@@ -1,6 +1,6 @@
 ---
 label: Susamaru
-icon: ":small_red_triangle_down:"
+icon: ":small_orange_diamond:"
 order: 400
 ---
 
