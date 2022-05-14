@@ -1,6 +1,6 @@
 ---
 label: Gyomei
-icon: ":large_green_diamond:"
+icon: ":large_blue_diamond:"
 order: 950
 ---
 
