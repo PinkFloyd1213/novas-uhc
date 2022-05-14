@@ -19,7 +19,7 @@ Sanemi possède l'effet **Speed 2** et **NoFall** permanant
 !!!
 
 !!!warning Items
-À l’annonce des rôles, Sanemi reçoit sa "**Brise**" ainsi que 3 "**Grenades incendiaires**"
+À l’annonce des rôles, Sanemi reçoit sa "**Brise**" ainsi que **3** "**Grenades incendiaires**"
 !!!
 
 +++ Brise
