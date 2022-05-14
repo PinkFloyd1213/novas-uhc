@@ -31,7 +31,3 @@ Provoque une **explosion** et **enflamme** tous les **blocs et joueurs** dans so
 !!!danger Commandes
 Sanemi a la possibilité d'**activer/désactiver** sa **Speed 2** avec la commande ```/ds speed```
 !!!
-
-!!!light Particularités
-
-!!!
