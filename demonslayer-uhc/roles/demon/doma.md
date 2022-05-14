@@ -1,6 +1,6 @@
 ---
 label: Doma
-icon: ":small_red_triangle:"
+icon: ":large_orange_diamond:"
 order: 900
 ---
 
