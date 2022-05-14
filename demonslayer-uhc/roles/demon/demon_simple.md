@@ -1,6 +1,6 @@
 ---
 label: Démons Simples
-icon: ":small_red_triangle_down:"
+icon: ":small_orange_diamond:"
 order: 550
 ---
 
