@@ -1,6 +1,6 @@
 ---
 label: Nakime
-icon: ":small_red_triangle:"
+icon: ":large_orange_diamond:"
 order: 750
 ---
 
