@@ -12,7 +12,7 @@ Muzan est l'empereur de tous les démons et est l'ennemi n°1 des Slayers
 
 !!!primary
 Connaît l'identité de toutes les **lunes supérieures** <br>
-Muzan régénère 5 coeurs à chaque kill
+Muzan **régénère 5 coeurs** à chaque **kill**
 !!!
 
 !!!success Effets
