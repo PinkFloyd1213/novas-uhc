@@ -7,7 +7,7 @@ order: 850
 # Obanai
 
 ```txt
-Obanai est le pilier du serpent
+Obanai est le pilier du Serpent
 ```
 
 !!!primary
