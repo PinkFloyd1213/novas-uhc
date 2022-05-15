@@ -1,6 +1,6 @@
 ---
 label: Kyojuro
-icon: ":hourglass_flowing_sand:"
+icon: ":large_blue_diamond:"
 order: 800
 ---
 
