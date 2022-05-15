@@ -1,13 +1,13 @@
 ---
 label: Inosuke
-icon: ":hourglass_flowing_sand:"
+icon: ":small_blue_diamond:"
 order: 400
 ---
 
 # Inosuke
 
 ```txt
-
+Inosuke est un adepte du soufle de la bête et ami de Tanjiro
 ```
 
 !!!primary
