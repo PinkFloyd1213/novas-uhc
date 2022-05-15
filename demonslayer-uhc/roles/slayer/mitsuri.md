@@ -17,23 +17,22 @@ Mitsuri a la possibilité de crafter un "**Sabre du soleil**" <br>
 !!!
 
 !!!success Effets
-Mitsuri possède les effets force 1 et résistance 1 en présence de son couple
+Mitsuri possède les effets **Force 1** et **Résistance 1** en présence de son couple
 !!!
 
 !!!warning Items
-À l’annonce des rôles,
+Le Sabre du soleil de Mitsuri est plus résistant que les autres <br>
+<br>
+À l’annonce des rôles, Mitsuri reçoit son "**Fouet**" utilisable **1 fois** par épisode
 !!!
 
-+++ Tab 1
-Description
-+++ Tab 2 
-Description
++++ Fouet
+Ocroie **Force 1** au détriment **d'un coeur permanant en moins** au joueur frappé. <br>
+L'effet dure **30 secondes** <br>
+Au terme de l'effet du fouet, le **coeur manquant revient remplit**
 +++
 
 !!!danger Commandes
 Mistsuri possède un chat privé avec son amant avec la commande ```/ds couple <message> ```
 !!!
 
-!!!light Particularités
-
-!!!
