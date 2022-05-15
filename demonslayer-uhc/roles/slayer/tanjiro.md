@@ -27,12 +27,12 @@ L'ordre de priorité des auras est de gauche à droite dans le tableau ci-dessou
 +++ Danse du dieu du feu
 **Enflamme** tous les **démons** autour de Tanjiro <br>
 Octroie également l'effet **Force 2** à Tanjiro pendant la durée de l'effet <br>
-Pour toute la partie Tanjiro a un quota de **10 minutes** de danse qu'il gère par lui-même <br>
+Pour toute la partie, Tanjiro a un quota de **10 minutes** de danse qu'il gère par lui-même <br>
 <br>
-À la fin de chaque danse Tanjiro obtient les malus : **7 coeurs maximum**, **Weakness 1** et **Slowness 1** pendant la même durée dans laquelle il est resté en danse <br>
-Si **une danse est relancée** pendant l'effet du malus, ceux-ci seront **retirés temporairement**. Mais à la fin de la danse, les malus seront alors stackés <br>
+À la fin de chaque danse Tanjiro obtient les malus suivants : **7 coeurs maximum**, **Weakness 1** et **Slowness 1** actifs pendant la même durée dans laquelle il est resté en danse <br>
+Si **une danse est relancée** durant les malus, ceux-ci seront **retirés temporairement**; Mais à la fin de la danse, les malus seront alors cumulés <br>
 <br>
-Si Tanjiro **dépasse le quota** des 10 minutes, il perdra **1 coeur permanant** toutes les **10 secondes** pendant la durée de la danse
+Si Tanjiro **dépasse son quota** de 10 minutes, il perdra alors **1 coeur permanant** toutes les **10 secondes** pendant la durée de la danse et/ou jusqu'à sa mort
 +++ Aura noire
 [Muzan](../demon/muzan) ou [Genya](../solo/genya) ou [Kagaya](./kagaya)
 +++ Aura bleue
