@@ -25,3 +25,12 @@ Il reçoit également son "**Coeur de flammes**" utilisable **1 fois** tous les 
 Octroie également l'effet **Speed 1** à Kyojuro pendant la durée de l'effet <br>
 Dure **1 minute**
 +++
+
+!!!danger Commandes
+Kyojuro peut choisir un joueur à **inspirer** à sa mort, avec la commande ```/ds inspiration <nom du joueur>``` <br>
+**À la mort de Kyojuro** le joueur inspiré recevra **2 coeurs permanant** supplémentaires
+!!!
+
+
+
+
