@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.705972485876" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.705973580512" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.705972485876" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.705973580512" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.705972485876" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.705973580512" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -194,7 +194,7 @@
     </h1>
 </doc-anchor-target>
 <div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none">Tanjiro est le héros principal du manga Demon Slayer</code></pre>
+<pre class="language-none"><code v-pre class="language-none">Tanjiro est le héros principal du manga Demon Slayer et il maîtrise le souffle de l'eau chaude</code></pre>
 </doc-codeblock></div>
 <div class="flex mb-6">
     <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
@@ -226,7 +226,7 @@
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>Items</h5>
-<p>À l’annonce des rôles, Tanjiro reçoit l&#x27;item : “<strong>Danse du dieu du feu</strong>”, utilisable <strong>3 fois</strong> dans la partie</p>
+<p>À l’annonce des rôles, Tanjiro reçoit l&#x27;item : “<strong>Danse du dieu du feu</strong>” pour <strong>activer/désactiver</strong> la Danse du dieu du feu</p>
         </div>
     </div>
 </div>
@@ -244,7 +244,7 @@
         <div class="pr-5 ml-3 w-full">
             <h5>Commandes</h5>
 <p>Tanjiro a accès, <strong>1 fois</strong> dans la partie à partir <strong>de 45 minutes de jeu</strong>, à la commande <code v-pre>/ds aura </code> pour détecter les <strong>auras des joueurs</strong> aux alentours, sous forme de <strong>particules</strong> de différentes <strong>couleurs</strong>, pendant <strong>20 secondes</strong>
-(s&#x27;ils en possède une) <br>
+(s&#x27;ils en possèdent une) <br>
 L&#x27;ordre de priorité des auras est de gauche à droite dans le tableau ci-dessous</p>
         </div>
     </div>
@@ -254,10 +254,12 @@ L&#x27;ordre de priorité des auras est de gauche à droite dans le tableau ci-d
 <template #title>Danse du dieu du feu</template>
 <p><strong>Enflamme</strong> tous les <strong>démons</strong> autour de Tanjiro <br>
 Octroie également l&#x27;effet <strong>Force 2</strong> à Tanjiro pendant la durée de l&#x27;effet <br>
-Tanjiro a la possibilité à tous moment de <strong>stopper la danse</strong> pour <strong>minimiser ses malus</strong> <br>
-<strong>Au maximum</strong> la danse peut durer <strong>2 minutes</strong> <br>
-Les malus sont : <strong>7 coeurs maximum</strong>, <strong>Weakness 1</strong> et <strong>Slowness 1</strong>, qui peuvent durer au maximum <strong>10 minutes</strong> <br>
-Si Tanjiro <strong>met fin à la danse</strong> prématurément les <strong>malus</strong> seront <strong>minimisés proportionnellement</strong></p>
+Pour toute la partie Tanjiro a un quota de <strong>10 minutes</strong> de danse qu&#x27;il gère par lui-même <br>
+<br>
+À la fin de chaque danse Tanjiro obtient les malus : <strong>7 coeurs maximum</strong>, <strong>Weakness 1</strong> et <strong>Slowness 1</strong> pendant la même durée dans laquelle il est resté en danse <br>
+Si <strong>une danse est relancée</strong> pendant l&#x27;effet du malus, ceux-ci seront <strong>retirés temporairement</strong>. Mais à la fin de la danse, les malus seront alors stackés <br>
+<br>
+Si Tanjiro <strong>dépasse le quota</strong> des 10 minutes, il perdra <strong>1 coeur permanant</strong> toutes les <strong>10 secondes</strong> pendant la durée de la danse</p>
 </doc-tab>
 <doc-tab id="aura-noire">
 <template #title>Aura noire</template>
