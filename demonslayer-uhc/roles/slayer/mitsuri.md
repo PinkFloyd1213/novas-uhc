@@ -1,6 +1,6 @@
 ---
 label: Mitsuri
-icon: ":sos:"
+icon: ":large_blue_diamond:"
 order: 600
 ---
 
