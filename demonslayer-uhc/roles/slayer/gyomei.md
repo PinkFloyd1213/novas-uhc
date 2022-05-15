@@ -20,13 +20,13 @@ Gyomei possède l'effet **Resistance 1** permanant
 
 !!!warning Items
 À l’annonce des rôles, Gyomei reçoit son "**Fléau**" qui, en effectuant un **clic gauche**, active la compétence "**Hook**" 
-et la compétence "**xxxx**" avec **clic droit**
+et la compétence "**Lancer de rocher**" avec **clic droit**
 !!!
 
 +++ Hook
 **Ramène** le joueur ciblé directement **en face de Gyomei** <br>
 Utilisable **1 fois** par épisode
-+++ xxxx
-Description
++++ Lancer de rocher
+**Projette un rocher** en avant et **inflige des dégats** s'il heurte un joueur
 +++
 
