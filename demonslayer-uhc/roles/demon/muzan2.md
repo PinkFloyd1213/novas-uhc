@@ -36,10 +36,10 @@ Le démon choisit doit tuer le joueur ayant le **rôle** indiqué par son contra
 Il sera récompensé par une augmentation d'un niveau de son effet de **Résistance**
 +++ Infection
 Lors de son infection le joueur est **téléporté** aléatoirement sur la map. Il est **immobilisé pendant 3 minutes**. <br>
-Après les **3 minutes** le joueur se voit affecté le rôle "**infection**" définit à la composition de la partie parmis les démons inférieurs <br>
+Après les **3 minutes**, le joueur se voit affecté le rôle "**Infection**". Ce rôle est définit dans la composition de la partie et choisit parmis les démons mineurs <br>
 Il perd également tout item et effets liés à son précédent rôle <br>
-Si le **Muzan meurt** pendant ces **3 minutes**, alors le joueur infecté se voit attribuer **tous les effets** et **commandes** que le **Muzan** possédait avant sa mort, 
-le rôle du joueur sera alors : "**Démon supérieur**"
+Si le **Muzan meurt** pendant ces **3 minutes**, alors le joueur infecté se voit attribuer **tous les effets** et que le **Muzan** possédait avant sa mort, 
+le rôle du joueur sera alors : "**Démon supérieur**" et devra gagner en solo
 +++
 
 !!!warning Particularités
