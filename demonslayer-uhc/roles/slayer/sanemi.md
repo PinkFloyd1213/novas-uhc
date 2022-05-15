@@ -23,7 +23,8 @@ Sanemi possède l'effet **Speed 2** et **NoFall** permanant
 !!!
 
 +++ Brise
-**Repousse** au loin **tous les joueurs** à **proximité** de Sanemi
+**Repousse** au loin **tous les joueurs** à **proximité** de Sanemi <br>
+Utilisable **1 fois** tous les **deux épisodes**
 +++ Grenades incendiaires
 Provoque une **explosion** et **enflamme** tous les **blocs et joueurs** dans son rayon
 +++
