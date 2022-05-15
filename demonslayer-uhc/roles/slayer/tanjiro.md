@@ -32,13 +32,13 @@ Tanjiro a la possibilité à tous moment de **stopper la danse** pour **minimise
 Les malus sont : **7 coeurs maximum**, **Weakness 1** et **Slowness 1**, qui peuvent durer au maximum **10 minutes** <br>
 Si Tanjiro **met fin à la danse** prématurément les **malus** seront **minimisés proportionnellement** 
 +++ Aura noire
-**Muzan** ou **Genya** ou **Kagaya**
+[Muzan](../demon/muzan) ou [Genya](../solo/genya) ou [Kagaya](./kagaya)
 +++ Aura bleue
 Porteur de l'**Amaryllis bleue**
 +++ Aura rouge
 **Lune supérieure** ou **Pilier** ou **Démon ayant effectué un kill**
 +++ Aura jaune
-**Nezuko** ou **Kaigaku** ou **Jigoro**
+[Nezuko](./nezuko) ou [Kaigaku](../demon/kaigaku) ou [Jigoro](./jigoro)
 +++
 
 !!!light Particularités
