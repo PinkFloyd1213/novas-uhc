@@ -1,6 +1,6 @@
 ---
 label: Muichiro
-icon: ":sos:"
+icon: ":large_blue_diamond:"
 order: 700
 ---
 
