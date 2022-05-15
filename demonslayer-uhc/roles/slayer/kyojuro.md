@@ -7,7 +7,7 @@ order: 800
 # Kyojuro
 
 ```txt
-
+Kyojuro est le pilier de la Flamme
 ```
 
 !!!primary
