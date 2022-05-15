@@ -20,7 +20,7 @@ Il possède également **Speed 3** en dessous de **3.5 coeurs**
 !!!
 
 !!!warning Items
-À l’annonce des rôles, Zenitsu rçoit un "**Éclair**" utilisable **une fois** par épisode
+À l’annonce des rôles, Zenitsu reçoit un "**Éclair**" utilisable **une fois** par épisode
 !!!
 
 +++ Éclair
