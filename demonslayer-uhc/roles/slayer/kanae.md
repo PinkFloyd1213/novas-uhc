@@ -1,6 +1,6 @@
 ---
 label: Kanae
-icon: ":hourglass_flowing_sand:"
+icon: ":sos:"
 order: 350
 ---
 
