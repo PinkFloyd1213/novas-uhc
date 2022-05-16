@@ -7,7 +7,7 @@ order: 400
 # Inosuke
 
 ```txt
-Inosuke est un adepte du soufle de la bête et ami de Tanjiro
+Inosuke est un adepte du souffle de la bête et ami de Tanjiro
 ```
 
 !!!primary
