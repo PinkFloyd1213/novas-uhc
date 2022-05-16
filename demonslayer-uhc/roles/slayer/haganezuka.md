@@ -15,8 +15,8 @@ Haganezuka a la possibilité de crafter un "**Sabre du soleil**"
 !!!
 
 !!!success Effets
-Haganezuka possède l'effets **Force 1** à proximité d'un joueur avec un sabre du soleil brisé <br>
-Cet effet se transforme en **Force 2** si 3 joueurs ou plus ont un sabre du soleil brisé à proximité
+Haganezuka possède l'effets **Force 1** à proximité d'**un joueur** avec un sabre du soleil **brisé** <br>
+Cet effet se transforme en **Force 2** si **3 joueurs** ou plus ont un sabre du soleil **brisé** à proximité
 !!!
 
 !!!warning Items
