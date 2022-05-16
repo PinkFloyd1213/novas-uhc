@@ -23,11 +23,11 @@ Kanao  obtient l'effet **Speed 1** en présence de [Kanae](./kanae) ou [Shinobu]
 !!!
 
 +++ Oeil vermillon
-Ocroie les effets **Speed 3** et **Force 1**
-Dure **3 minutes**
-À la fin de la compétence, Kanao obtient les malus suivants : **7 coeurs maximum** pendant **2 minutes** et **Blindness 1** pendant **30 secondes**
+Ocroie les effets **Speed 3** et **Force 1** <br>
+Dure **3 minutes** <br>
+À la fin de la compétence, Kanao obtient les malus suivants : **7 coeurs maximum** pendant **2 minutes** et **Blindness 1** pendant **30 secondes** <br>
 +++
 
 !!!light Particularités
-Elle connaît le pseudo du tueur de [Shinobu](./shinobu)
+Kanao connaît le pseudo du tueur de [Shinobu](./shinobu)
 !!!
