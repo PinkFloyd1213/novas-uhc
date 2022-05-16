@@ -34,7 +34,7 @@ Utilisable **1 fois** tous les deux épisodes
 
 !!!light Particularités
 Jigoro connaît l'identité de [Kaigaku](../demon/kaigaku) si celui-ci choisit le camp démon. <br>
-Il disposera alors de **40 minutes** pour **le tuer**, sans quoi **Jigoro** sera limité à **un coeur permanant** et obtiendra en contrepartie **9 coeurs d'absorption** à durée infinie. Ces **malus** dureront jusqu'à la **mort de kaigaku**
+Il disposera alors de **40 minutes** pour **le tuer**, sans quoi **Jigoro** sera limité à **un coeur permanant** et obtiendra **9 coeurs d'absorption** à durée infinie en contrepartie. Ces **malus** dureront jusqu'à la **mort de kaigaku**
 !!!
 
 
