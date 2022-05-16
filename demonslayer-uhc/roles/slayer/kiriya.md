@@ -1,6 +1,6 @@
 ---
 label: Kiriya
-icon: ":hourglass_flowing_sand:"
+icon: ":small_blue_diamond:"
 order: 50
 ---
 
