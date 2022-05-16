@@ -30,7 +30,7 @@ Octroie également l'effet **Force 2** à Tanjiro pendant la durée de l'effet <
 Pour toute la partie, Tanjiro a un quota de **10 minutes** de danse qu'il gère par lui-même <br>
 <br>
 À la fin de chaque danse Tanjiro obtient les malus suivants : **7 coeurs maximum**, **Weakness 1** et **Slowness 1** actifs pendant la même durée dans laquelle il est resté en danse <br>
-Si **une danse est relancée** durant les malus, ceux-ci seront **retirés temporairement**; mais à la fin de la danse, les malus seront alors cumulés <br>
+Si **une danse est relancée** durant les malus, ceux-ci seront **retirés temporairement**.Cempendant, à la fin de la danse, les malus seront alors cumulés <br>
 <br>
 Si Tanjiro **dépasse son quota** de 10 minutes, il perdra alors **1 coeur permanant** toutes les **10 secondes** pendant la durée de la danse et/ou jusqu'à sa mort
 +++ Aura noire
