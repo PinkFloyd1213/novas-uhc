@@ -33,5 +33,5 @@ Description
 !!!
 
 !!!light Particularités
-Elle connaît le pseudo du tueur de [Kanao](./kanao)
+Kanae connaît le pseudo du tueur de [Kanao](./kanao)
 !!!
