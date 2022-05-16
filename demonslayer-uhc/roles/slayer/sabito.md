@@ -7,7 +7,7 @@ order: 150
 # Sabito
 
 ```txt
-Sabito est l'un des disciple d'Urokodaki ayant participé à la sélection finale
+Sabito est l'un des disciples d'Urokodaki ayant participé à la sélection finale
 ```
 
 !!!primary
