@@ -27,12 +27,13 @@ Octroie l'effet **Force 1** permanant
 +++ Forme foudre
 Octroie l'effet **Speed 2** permanant
 +++ Vélocité de l'éclair
-Octroie **Speed 3** pendant 45 secondes
+Octroie **Speed 3** pendant 45 secondes <br>
 Utilisable **1 fois** tous les deux épisodes
 +++
 
 !!!light Particularités
-Jigoro connaît l'identité de [Kaigaku](../demon/kaigaku) si celui-ci choisit le camp démon. Il dispose alors de **40 minutes** pour **le tuer**, sans quoi ce sera **Jigoro qui mourra** passé ce délai
+Jigoro connaît l'identité de [Kaigaku](../demon/kaigaku) si celui-ci choisit le camp démon. <br>
+Il dispose alors de **40 minutes** pour **le tuer**, sans quoi ce sera **Jigoro qui mourra** passé ce délai
 !!!
 
 
