@@ -7,15 +7,15 @@ order: 350
 # Kanae
 
 ```txt
-
+Kanae est l'ancien pilier de la fleur et est la seur de Shinobu
 ```
 
 !!!primary
-
+Kanae a la possibilité de crafter un "Sabre du soleil"
 !!!
 
 !!!success Effets
-
+Kanae obtient l'effet **Speed 1** en présence de Shinobu ou Kanao
 !!!
 
 !!!warning Items
