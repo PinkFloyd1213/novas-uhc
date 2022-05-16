@@ -27,7 +27,7 @@ Kiriya **prend le contrôle** d'un corbeau qui peut **entendre** les joueurs mai
 **Le corps de Kiriya** est laissé à la position d'invoquation et **émet des sons répétés**. Ces sons sont **de plus en plus fort** à mesure que kiriya reste en forme de corbeau <br>
 <br>
 La forme de corbeau peut être **interrompue** de quatre façons : <br>
-- **Kiriya stoppe** l'invoquation en effectuant la commande ```/ds corbeau ```<br>
+- **Kiriya stoppe** l'invoquation en effectuant la commande ```/ds corbeau```<br>
 - **Le jour se lève** <br>
 - **Le corbeau est tué par un joueur** <br>
 - **Le corps de kiriya subit des dégats** <br>
@@ -36,6 +36,6 @@ Kiriya peut **parler** en forme de corbeau dans le "**Château de l'infini**"
 +++ 
 
 !!!danger Commandes
-Kiriya a accès à la commande ```/ds corbeau ``` pour **stopper** à tout moment sa forme de corbeau
+Kiriya a accès à la commande ```/ds corbeau``` pour **stopper** à tout moment sa forme de corbeau
 !!!
 
