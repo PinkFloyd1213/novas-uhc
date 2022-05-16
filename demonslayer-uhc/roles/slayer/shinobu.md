@@ -24,5 +24,5 @@ L'effet passe à **50% de chances** en présence de [Kanae](./kanae) ou [Kanao](
 <br>
 Si Shinobu vient à **être tuée** par un **démon**, il obtiendra les effets **Weakness 1** et **Slowness 1** pendant **3 minutes** <br>
 <br>
-Elle connaît le pseudo du tueur de [Kanae](./kanae)
+Shinobu connaît le pseudo du tueur de [Kanae](./kanae)
 !!!
