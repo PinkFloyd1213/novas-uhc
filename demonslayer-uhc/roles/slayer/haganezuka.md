@@ -24,5 +24,6 @@ Cet effet se transforme en **Force 2** si **3 joueurs** ou plus ont un sabre du 
 !!!
 
 !!!light Particularités
-À l’annonce des rôles, Haganezuka reçoit les **coordonnées** de l'entrée du "**Village des forgerons**"
+À l’annonce des rôles, Haganezuka reçoit les **coordonnées** de l'entrée du "**Village des forgerons**" <br>
+De plus, il connaît en temps réel le **nombre de démons** présents dans le "**Village des forgerons**"
 !!!
