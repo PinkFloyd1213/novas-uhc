@@ -19,7 +19,7 @@ Jigoro possède l'effet **Speed 1** permanant
 !!!
 
 !!!warning Items
-À l’annonce des rôles, Jigoro reçoit un "**Éclair**" pour **alterner** les formes de son soufle avec **clic gauche** et un délai de **10 secondes** entre les changement de formes <br>
+À l’annonce des rôles, Jigoro reçoit un "**Éclair**" pour **alterner** les formes de son soufle avec **clic gauche** et un délai de **10 secondes** entre les changements de formes <br>
 Il peut également activer sa "**Vélocité de l'éclair**" en effectuant un **clic droit** avec son "**Éclair**"
 !!!
 
