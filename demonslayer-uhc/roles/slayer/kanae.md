@@ -15,8 +15,8 @@ Kanae a la possibilité de crafter un "Sabre du soleil"
 !!!
 
 !!!success Effets
-Kanae obtient l'effet **Speed 1** en présence de Shinobu ou Kanao
-!!!
+Kanae obtient l'effet **Speed 1** en présence de [Shinobu](./shinobu) ou [Kanao](./kanao)
+!!![
 
 !!!warning Items
 
