@@ -1,7 +1,8 @@
 ---
 label: Muzan
 icon: ":squid:"
-order: 1000
+order: 1050
+visibility: hidden
 ---
 
 # Muzan
