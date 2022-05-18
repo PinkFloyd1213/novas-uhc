@@ -36,6 +36,9 @@ Obtient l'effet **Force 2** permanant
 +++ Muzan (solo)
 [Muzan](../demon/muzan) <br>
 Obtient l'effet **Force 3** permanant
++++ Démon Ultime
+(Infection puis mort du Muzan pendant l'infection)
+Obtient l'effet **Force +1** permanant
 +++ Kokushibo
 [Kokushibo](../demon/kokushibo) <br>
 Reçoit les **messages du Muzan** <br>
@@ -53,6 +56,7 @@ Genya **repousse au loin** ses ennemis quand il les frappe à **mains nues**
 [Hantengu](../demon/hantengu) <br>
 Obtient **Résistance 1** de nuit <br>
 Les flèches de son arc **immobilisent les joueurs** touchés pendant **1 seconde**
++++
 +++ Nakime
 [Nakime](../demon/nakime) <br>
 Au moment où Genya **tue Nakime**, il obtient les **coordonnées d'une autre lune** aléatoire <br>
@@ -60,7 +64,6 @@ Possède les effets **Speed 1**, **Force 1** et **Résistance 1** dans le "**Ch�
 +++ Gyokko
 [Gyokko](../demon/Gyokko) <br>
 Si Genya **tue Gyokko définitivement** il pourra **réapparaître 1 fois** dans la partie (est retéléporté aléatoirement à sa mort)
-+++
 +++ Daki & Gyutaro
 [Daki & Gyutaro](../demon/daki_gyutaro) <br>
 Genya **outrepasse la réapartion** de Daki & Gyutaro et **les tue définitivement** <br>
