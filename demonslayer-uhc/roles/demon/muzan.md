@@ -40,7 +40,7 @@ Lors de son infection le joueur est **téléporté** aléatoirement sur la map. 
 Après les **3 minutes**, le joueur se voit affecté le rôle "**Infection**". Ce rôle est définit dans la composition de la partie et choisit parmis les démons mineurs <br>
 Il perd également tout item et effets liés à son précédent rôle <br>
 Si le **Muzan meurt** pendant ces **3 minutes**, alors le joueur infecté se voit attribuer **tous les effets** que le **Muzan** possédait avant sa mort.
-Le rôle du joueur sera alors : "**Démon supérieur**" et devra gagner en solo
+Le rôle du joueur sera alors : "**Démon Ultime**" et devra gagner en solo
 +++
 
 !!!warning Particularités
