@@ -54,7 +54,7 @@ Possède les effets **Speed 1**, **Force 1** et **Résistance 1** dans le "**Ch�
 +++
 +++ Gyokko
 [Gyokko](../demon/Gyokko) <br>
-Peut **réapparaître 1 fois** dans la partie (est retéléporté aléatoirement à sa mort)
+Si Genya **tue Gyokko définitivement** il pourra **réapparaître 1 fois** dans la partie (est retéléporté aléatoirement à sa mort)
 +++ Daki & Gyutaro
 [Daki & Gyutaro](../demon/daki_gyutaro) <br>
 Genya **outrepasse la réapartion** de Daki & Gyutaro et **les tue définitivement** <br>
