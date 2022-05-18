@@ -62,7 +62,7 @@ Si Genya tue Daki il gagnera **1 coeur permanant** à **chaque kill** <br>
 Si Genya tue Gyutaro aura **15% de chances** d'infliger l'effet **Wither 1** pendant 1 seconde à **chaque coup**
 +++ Kaigaku
 [Kaigaku](../demon/Kaigaku) <br>
-__**Uniquement si Kaigaku choisit la camp Démon**__ <br>
+**__Uniquement si Kaigaku choisit le camp Démon__** <br>
 Obtient l'effet **Force 2** permanant
 +++ Démons inférieurs
 Genya obtient un bonus de **1% de Force** à chaque **Démon inférieur tué**
