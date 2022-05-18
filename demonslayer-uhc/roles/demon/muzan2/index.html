@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.706225349288" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.706225678258" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.706225349288" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.706225678258" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.706225349288" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.706225678258" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -249,7 +249,8 @@ Muzan <strong>régénère 5 coeurs</strong> à chaque <strong>kill</strong></p>
 Il possède également la commande <code v-pre>/ds bounty &lt;pseudo démon&gt; &lt;pseudo ou rôle slayer&gt;</code> qui lui permet d&#x27;affecter un <strong>contrat</strong> à un démon avec une récompense à la clée <br>
 Il ne peut effectuer cette commande qu&#x27;une seule fois <strong>entre la 20ème et la 45ème minute</strong> de la partie <br>
 <br>
-À la <strong>mort d&#x27;un joueur</strong> (causée par un démon), Muzan a, pendant une <strong>dixaine de secondes</strong>, la possibilité de l&#x27;<strong>infecter</strong> en <strong>cliquant sur le message</strong> dans le chat</p>
+À la <strong>mort d&#x27;un joueur</strong> (causée par un démon), Muzan a, pendant une <strong>dixaine de secondes</strong>, la possibilité de l&#x27;<strong>infecter</strong> en <strong>cliquant sur le message</strong> dans le chat <br>
+Muzan <strong>ne peut plus infecter</strong> si il devient <strong>SOLO</strong></p>
         </div>
     </div>
 </div>
@@ -269,8 +270,8 @@ Il sera récompensé par une augmentation d&#x27;un niveau de son effet de <stro
 <p>Lors de son infection le joueur est <strong>téléporté</strong> aléatoirement sur la map. Il est <strong>immobilisé pendant 3 minutes</strong>. <br>
 Après les <strong>3 minutes</strong>, le joueur se voit affecté le rôle &quot;<strong>Infection</strong>&quot;. Ce rôle est définit dans la composition de la partie et choisit parmis les démons mineurs <br>
 Il perd également tout item et effets liés à son précédent rôle <br>
-Si le <strong>Muzan meurt</strong> pendant ces <strong>3 minutes</strong>, alors le joueur infecté se voit attribuer <strong>tous les effets</strong> et que le <strong>Muzan</strong> possédait avant sa mort,
-le rôle du joueur sera alors : &quot;<strong>Démon supérieur</strong>&quot; et devra gagner en solo</p>
+Si le <strong>Muzan meurt</strong> pendant ces <strong>3 minutes</strong>, alors le joueur infecté se voit attribuer <strong>tous les effets</strong> que le <strong>Muzan</strong> possédait avant sa mort.
+Le rôle du joueur sera alors : &quot;<strong>Démon supérieur</strong>&quot; et devra gagner en solo</p>
 </doc-tab>
 </doc-tabs>
 <div class="flex mb-6">
