@@ -1,7 +1,7 @@
 ---
-label: Muzan V2
+label: Muzan
 icon: ":squid:"
-order: 999
+order: 1000
 ---
 
 # Muzan
