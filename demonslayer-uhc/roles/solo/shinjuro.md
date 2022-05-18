@@ -1,6 +1,6 @@
 ---
 label: Shinjuro
-icon: ":hourglass_flowing_sand:"
+icon: ":fire:"
 order: 950
 ---
 
