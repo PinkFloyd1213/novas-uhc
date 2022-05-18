@@ -19,7 +19,8 @@ Kiriya possède l'effet **Weakness 1** en permanance
 !!!
 
 !!!warning Items
-À l’annonce des rôles, Kiriya reçoit son "**Corbeau**", qu'il peut activer **3 fois** dans la partie et en **illimité** dans le "**Château de l'infini**"
+À l’annonce des rôles, Kiriya reçoit son "**Corbeau**", qu'il peut activer **3 fois** dans la partie **durant la nuit** <br>
+Ce pouvoir peut également être activé en **illimité** dans le "**Château de l'infini**"
 !!!
 
 +++ Corbeau
