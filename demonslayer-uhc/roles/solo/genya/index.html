@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.706223583654" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.706223898849" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.706223583654" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.706223898849" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.706223583654" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.706223898849" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -263,7 +263,7 @@ Genya obtient l&#x27;effet <strong>Hunger 1</strong> à proximité de <strong>d�
         <div class="pr-5 ml-3 w-full">
             <h5>Particularité</h5>
 <p>Lorsque Genya <strong>tue un démon</strong>, il s&#x27;accapare de <strong>ses povoirs</strong> et obtient divers <strong>effets</strong> selon <strong>le démon tué</strong> <br>
-Ces effets sont par ailleurs cumulables sauf contre-indication <br>
+Ces effets sont par ailleurs <strong>cumulables</strong> sauf contre-indication <br>
 Liste des différents effets <span class="docs-emoji">&#x2B07;&#xFE0F;</span></p>
         </div>
     </div>
@@ -271,43 +271,51 @@ Liste des différents effets <span class="docs-emoji">&#x2B07;&#xFE0F;</span></p
 <doc-tabs>
 <doc-tab id="kokushibo">
 <template #title>Kokushibo</template>
-<p>Reçoit les messages du Muzan <br>
+<p><a href="../../demon/kokushibo/">Kokushibo</a>
+Reçoit les messages du Muzan <br>
 Régénère 2 coeurs à chaque kill</p>
 </doc-tab>
 <doc-tab id="doma">
 <template #title>Doma</template>
-<p>Genya est immunisé à toute forme de poison <br>
+<p><a href="../demon/demon">Doma</a>
+Genya est immunisé à toute forme de poison <br>
 Genya peut détecter les rôles féminins en discernant le &quot;Parfum&quot; qu&#x27;elles émettent sous forme de particules derrière elles, pendant leurs déplacements <br>
 Si genya tue une femme il gagne un coeur supplémentaire ainsi qu&#x27;un bonus de 2% de Force</p>
 </doc-tab>
 <doc-tab id="akaza">
 <template #title>Akaza</template>
-<p>Genya obtient les effets Résistance +1 et Speed 1 en dessous de 3.5 coeurs <br>
+<p><a href="../../demon/akaza/">Akaza</a>
+Genya obtient les effets Résistance +1 et Speed 1 en dessous de 3.5 coeurs <br>
 Genya repousse au loin ses ennemis quand il les frappe à mains nues</p>
 </doc-tab>
 <doc-tab id="hantengu">
 <template #title>Hantengu</template>
-<p>Obtient Résistance 1 de nuit <br>
+<p><a href="../../demon/hantengu/">Hantengu</a>
+Obtient Résistance 1 de nuit <br>
 Les flèches de son arc immobilisent les joueurs touchés pendant 1 secondes</p>
 </doc-tab>
 <doc-tab id="nakime">
 <template #title>Nakime</template>
-<p>Au moment où Genya tue Nakime, il obtient les coordonnées d&#x27;une autre lune aléatoire <br>
+<p><a href="../../demon/nakime/">Nakime</a>
+Au moment où Genya tue Nakime, il obtient les coordonnées d&#x27;une autre lune aléatoire <br>
 Possède les effets Speed 1, Force 1 et Résistance 1 dans le &quot;Château de l&#x27;infini&quot;</p>
 </doc-tab>
 <doc-tab id="gyokko">
 <template #title>Gyokko</template>
-<p>Peut réapparaître 1 fois dans la partie (est retéléporté aléatoirement à sa mort)</p>
+<p><a href="../../demon/gyokko/">Gyokko</a>
+Peut réapparaître 1 fois dans la partie (est retéléporté aléatoirement à sa mort)</p>
 </doc-tab>
 <doc-tab id="daki-gyutaro">
 <template #title>Daki &amp; Gyutaro</template>
-<p>Genya outrepasse la réapartion de Daki &amp; Gyutaro et les tue définitivement <br>
+<p><a href="../../demon/daki_gyutaro/">Daki &amp; Gyutaro</a>
+Genya outrepasse la réapartion de Daki &amp; Gyutaro et les tue définitivement <br>
 Si Genya tue Daki il gagnera 1 coeur permanant à chaque kill <br>
 Si Genya tue Gyutaro aura 15% de chance d&#x27;infliger l&#x27;effet Wither 1 pendant 1 seconde à chaque coup</p>
 </doc-tab>
 <doc-tab id="kaigaku">
 <template #title>Kaigaku</template>
-<p>&quot;<strong>Uniquement si Kaigaku choisit la camp Démon</strong>&quot;
+<p><a href="../../demon/kaigaku/">Kaigaku</a>
+&quot;<strong>Uniquement si Kaigaku choisit la camp Démon</strong>&quot; <br>
 Obtient l&#x27;effet <strong>Force 2</strong> permanant</p>
 </doc-tab>
 <doc-tab id="démons-inférieurs">
