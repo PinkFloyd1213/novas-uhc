@@ -30,6 +30,12 @@ Ces effets sont par ailleurs **cumulables** sauf contre-indication <br>
 Liste des différents effets :arrow_down:
 !!!
 
++++ Muzan
+[Muzan](../demon/muzan) <br>
+Obtient l'effet **Force 2** permanant
++++ Muzan (solo)
+[Muzan](../demon/muzan) <br>
+Obtient l'effet **Force 3** permanant
 +++ Kokushibo
 [Kokushibo](../demon/kokushibo) <br>
 Reçoit les **messages du Muzan** <br>
@@ -51,10 +57,10 @@ Les flèches de son arc **immobilisent les joueurs** touchés pendant **1 second
 [Nakime](../demon/nakime) <br>
 Au moment où Genya **tue Nakime**, il obtient les **coordonnées d'une autre lune** aléatoire <br>
 Possède les effets **Speed 1**, **Force 1** et **Résistance 1** dans le "**Château de l'infini**"
-+++
 +++ Gyokko
 [Gyokko](../demon/Gyokko) <br>
 Si Genya **tue Gyokko définitivement** il pourra **réapparaître 1 fois** dans la partie (est retéléporté aléatoirement à sa mort)
++++
 +++ Daki & Gyutaro
 [Daki & Gyutaro](../demon/daki_gyutaro) <br>
 Genya **outrepasse la réapartion** de Daki & Gyutaro et **les tue définitivement** <br>
@@ -63,7 +69,7 @@ Si Genya tue Gyutaro aura **15% de chances** d'infliger l'effet **Wither 1** pen
 +++ Kaigaku
 [Kaigaku](../demon/Kaigaku) <br>
 **__Uniquement si Kaigaku choisit le camp Démon__** <br>
-Obtient l'effet **Force 2** permanant
+Obtient l'effet **Speed 1** permanant
 +++ Démons inférieurs
 Genya obtient un bonus de **1% de Force** à chaque **Démon inférieur tué**
 +++
