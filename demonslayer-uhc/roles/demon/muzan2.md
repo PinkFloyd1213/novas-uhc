@@ -25,7 +25,8 @@ Muzan peut envoyer des messages à Kokushibo via la commande ```/ds msg <message
 Il possède également la commande ```/ds bounty <pseudo démon> <pseudo ou rôle slayer>``` qui lui permet d'affecter un **contrat** à un démon avec une récompense à la clée <br>
 Il ne peut effectuer cette commande qu'une seule fois **entre la 20ème et la 45ème minute** de la partie <br>
 <br>
-À la **mort d'un joueur** (causée par un démon), Muzan a, pendant une **dixaine de secondes**, la possibilité de l'**infecter** en **cliquant sur le message** dans le chat
+À la **mort d'un joueur** (causée par un démon), Muzan a, pendant une **dixaine de secondes**, la possibilité de l'**infecter** en **cliquant sur le message** dans le chat <br>
+Muzan **ne peut plus infecter** si il devient **SOLO**
 !!!
 
 +++ Bounty Pseudo
@@ -38,8 +39,8 @@ Il sera récompensé par une augmentation d'un niveau de son effet de **Résista
 Lors de son infection le joueur est **téléporté** aléatoirement sur la map. Il est **immobilisé pendant 3 minutes**. <br>
 Après les **3 minutes**, le joueur se voit affecté le rôle "**Infection**". Ce rôle est définit dans la composition de la partie et choisit parmis les démons mineurs <br>
 Il perd également tout item et effets liés à son précédent rôle <br>
-Si le **Muzan meurt** pendant ces **3 minutes**, alors le joueur infecté se voit attribuer **tous les effets** et que le **Muzan** possédait avant sa mort, 
-le rôle du joueur sera alors : "**Démon supérieur**" et devra gagner en solo
+Si le **Muzan meurt** pendant ces **3 minutes**, alors le joueur infecté se voit attribuer **tous les effets** que le **Muzan** possédait avant sa mort.
+Le rôle du joueur sera alors : "**Démon supérieur**" et devra gagner en solo
 +++
 
 !!!warning Particularités
