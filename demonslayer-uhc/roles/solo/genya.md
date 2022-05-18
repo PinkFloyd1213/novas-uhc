@@ -51,6 +51,7 @@ Les flèches de son arc **immobilisent les joueurs** touchés pendant **1 second
 [Nakime](../demon/nakime)
 Au moment où Genya **tue Nakime**, il obtient les **coordonnées d'une autre lune** aléatoire <br>
 Possède les effets **Speed 1**, **Force 1** et **Résistance 1** dans le "**Château de l'infini**"
++++
 +++ Gyokko
 [Gyokko](../demon/Gyokko)
 Peut **réapparaître 1 fois** dans la partie (est retéléporté aléatoirement à sa mort)
