@@ -1,6 +1,6 @@
 ---
 label: Genya
-icon: ":hourglass_flowing_sand:"
+icon: ":o:"
 order: 1000
 ---
 
