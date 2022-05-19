@@ -20,6 +20,9 @@ Un Sabre du soleil se craft ainsi :
 INSÉRER UNE IMAGE ICI
 
 Chaque joueur ne peut crafter qu'un seul sabre pour toute la durée de la partie <br>
-La couleur de la lame est définie aléatoirement une fois le sabre pris en main pour la première fois
-
+La couleur de la lame est définie aléatoirement une fois le sabre pris en main pour la première fois <br>
+<br>
+<br>
+<br>
+Note : <br>
 Ce sabre n'est pas une arme à utiliser, ce n'est qu'un indicateur des effets qu'il offre
