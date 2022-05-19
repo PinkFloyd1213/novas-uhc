@@ -12,7 +12,7 @@ Kagaya a eu une mauvaise expérience avec une friteuse
 
 !!!primary
 À l’annonce des rôles, Kagaya reçoit la **liste** des pseudos de tous les **Piliers** <br>
-Il a également la possibilité de crafter un "**Sabre du soleil**"
+Il a également la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
