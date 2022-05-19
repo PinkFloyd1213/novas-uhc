@@ -1,6 +1,6 @@
 ---
 label: Nezuko
-icon: ":small_blue_diamond:"
+icon: ":sos:"
 order: 475
 ---
 
