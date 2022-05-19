@@ -11,7 +11,7 @@ Kanae est l'ancien pilier de la fleur et est la seur de Shinobu
 ```
 
 !!!primary
-Kanae a la possibilité de crafter un "**Sabre du soleil**"
+Kanae a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
