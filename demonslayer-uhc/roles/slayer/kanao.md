@@ -11,7 +11,7 @@ Kanao est une adepte du souffle de la fleur et est la petite soeur de Shinobu et
 ```
 
 !!!primary
-Kanao a la possibilité de crafter un "**Sabre du soleil**"
+Kanao a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
