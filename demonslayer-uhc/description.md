@@ -20,6 +20,7 @@ Le mode de jeu voit s'affronter 3 camps :
 
 À l'annonce des rôles à 20 minutes de jeu, chaque joueur se voit attribué un rôle et son objectif est de survivre jusqu'à la fin de la partie et faire gagner son camp
 
+Certain rôles sont également autorisés à crafter un "[Sabre du soleil](./divers/sabre)"
 
 Des événements sont également présents afin de pimenter la partie : <br>
 - [La lame d'éradication](./divers/eradication)
