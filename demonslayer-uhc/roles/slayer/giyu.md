@@ -11,7 +11,7 @@ Giyu est le pilier de l'Eau
 ```
 
 !!!primary
-Giyu a la possibilité de crafter un "**Sabre du soleil**"
+Giyu a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
