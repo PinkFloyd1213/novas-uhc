@@ -11,7 +11,7 @@ Inosuke est un adepte du souffle de la bête et ami de Tanjiro
 ```
 
 !!!primary
-Inosuke a la possibilité de crafter un "**Sabre du soleil**"
+Inosuke a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
