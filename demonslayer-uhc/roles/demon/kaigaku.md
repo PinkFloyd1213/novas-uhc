@@ -19,7 +19,7 @@ S'il choisit le camp des <d style="color:red;">démons</d> : <br>
 !!!
 
 !!!info
-Si Kaigaku choisit le camp <d style="color:lime;">slayers</d>, il aura la possibilité de crafter un [Sabre du soleil](.../divers/sabre/) <br>
+Si Kaigaku choisit le camp <d style="color:lime;">slayers</d>, il aura la possibilité de crafter un [Sabre du soleil](.././divers/sabre/) <br>
 <br>
 Si Kaigaku choisit le camp <d style="color:red;">démons</d>, il sera pris pour cible par [Jigoro](../slayer/jigoro)
 !!!
@@ -43,18 +43,3 @@ Camp <d style="color:lime;">slayers</d> : peut “**foudroyer**” un joueur au 
 <br>
 Camp <d style="color:red;">démons</d> : peut "**foudroyer**" tous les slayers autour de lui dans un zone de **10 blocs de rayon**, une fois dans la partie
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
