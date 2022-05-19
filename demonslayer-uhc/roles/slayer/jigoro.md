@@ -11,7 +11,7 @@ Jigoro est l'ancien pilier de la foudre
 ```
 
 !!!primary
-Jigoro a la possibilité de crafter un "**Sabre du soleil**" <br>
+Jigoro a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre) <br>
 !!!
 
 !!!success Effets
