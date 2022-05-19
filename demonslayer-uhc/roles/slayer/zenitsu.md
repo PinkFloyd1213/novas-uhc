@@ -11,7 +11,7 @@ Zenitsu est un adepte du souffle de la foudre et ami de Tanjiro
 ```
 
 !!!primary
-Zenitsu a la possibilité de crafter un "**Sabre du soleil**"
+Zenitsu a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
