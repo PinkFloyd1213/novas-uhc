@@ -11,7 +11,7 @@ Mitsuri est le pilier de l'amour
 ```
 
 !!!primary
-Mitsuri a la possibilité de crafter un "**Sabre du soleil**" <br>
+Mitsuri a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre) <br>
 <br>
 À l’annonce des rôles, Mitsuri se voit attribuée un amant, parmis les piliers
 !!!
