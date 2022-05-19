@@ -11,7 +11,7 @@ Sanemi est le pilier du Vent
 ```
 
 !!!primary
-Sanemi a la possibilité de crafter un "**Sabre du soleil**"
+Sanemi a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
