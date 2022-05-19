@@ -33,18 +33,8 @@ Les morts sont gardées secrètes tout au long de la partie, le message de mort 
 ```<nom du joueur> est mort, il incarnait <nom du rôle>```
 
 
-Page en cours de création
 
 Notes :
-Force niveau 3 =/= Force 3 <br>
-
-ex : niveau 1 : 6%    2 : 12%     3 : 16% <br>
-
-
-
-évents :
-Lame d’éradication -> Tôris aux 4 coins de la map <br>
-si joueur mort la lame retourne à un Tôri aléatoire <br>
-“attaque du village de forgerons” -> les slayers y réparent leur lame + si les démon le détruisent -> toutes les lames de slayer 
+Les puissances des effets ne sont qu'une indication pour les comparer entre eux et ne sont donc pas les valeurs du jeu vanilla
 
 
