@@ -11,7 +11,7 @@ Kiriya est le fils héritier de Kagaya
 ```
 
 !!!primary
-Kiriya a la possibilité de crafter un "**Sabre du soleil**"
+Kiriya a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
