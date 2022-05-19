@@ -11,7 +11,7 @@ Obanai est le pilier du Serpent
 ```
 
 !!!primary
-Obanai a la possibilité de crafter un "**Sabre du soleil**"
+Obanai a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
