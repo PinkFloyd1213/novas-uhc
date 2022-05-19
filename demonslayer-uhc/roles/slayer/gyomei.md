@@ -11,7 +11,7 @@ Gyomei est le pilier de la Roche
 ```
 
 !!!primary
-Gyomei a la possibilité de crafter un "**Sabre du soleil**"
+Gyomei a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
