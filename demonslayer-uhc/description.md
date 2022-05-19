@@ -6,7 +6,7 @@ order: 200
 
 # Éxplications du mode de jeu
 
-Demon Slayer UHC est un mode jeu jeu minecraft sur le thème du manga et anime : Demon Slayer
+Demon Slayer UHC est un mode jeu jeu minecraft sur le thème du manga et anime : Demon Slayer <br>
 Le mode de jeu se déroule sur un format d'UHC
 
 Pour communiquer, les joueurs sont obligés de se connecter sur le logiciel Mumble afin d'avoir leur voix localisées dans le jeu
@@ -20,21 +20,24 @@ Le mode de jeu voit s'affronter 3 camps :
 
 À l'annonce des rôles à 20 minutes de jeu, chaque joueur se voit attribué un rôle et son objectif est de survivre jusqu'à la fin de la partie et faire gagner son camp
 
-Certain rôles sont également autorisés à crafter un "[Sabre du soleil](./divers/sabre)"
+Les morts sont gardées secrètes tout au long de la partie, le message de mort d'un joueur sera sous la forme : <br>
+```<nom du joueur> est mort, il incarnait <nom du rôle>```
 
-Des événements sont également présents afin de pimenter la partie : <br>
+Certain rôles sont également autorisés à crafter un "[Sabre du soleil](./divers/sabre)" <br>
+<br>
+<br>
+Des événements sont aussi présents afin de pimenter la partie : <br>
 - [La lame d'éradication](./divers/eradication)
 - [Le village des forgerons](./divers/village)
 - [Le château de l'infini](./divers/cdi)
 
 
 
-Les morts sont gardées secrètes tout au long de la partie, le message de mort d'un joueur sera sous la forme : <br>
-```<nom du joueur> est mort, il incarnait <nom du rôle>```
 
 
 
-Notes :
+
+Notes : <br>
 Les puissances des effets ne sont qu'une indication pour les comparer entre eux et ne sont donc pas les valeurs du jeu vanilla
 
 
