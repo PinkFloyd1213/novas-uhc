@@ -11,7 +11,7 @@ Urokodaki est l'ancien pilier de l'Eau et actuel enseignant du souffle de l'eau
 ```
 
 !!!primary
-Urokodaki a la possibilité de crafter un "**Sabre du soleil**"
+Urokodaki a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
