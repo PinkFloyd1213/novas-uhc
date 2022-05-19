@@ -11,7 +11,7 @@ Tengen est le pilier du Son
 ```
 
 !!!primary
-Tengen a la possibilité de crafter un "**Sabre du soleil**"
+Tengen a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
