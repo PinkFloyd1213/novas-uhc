@@ -19,7 +19,7 @@ S'il choisit le camp des <d style="color:red;">démons</d> : <br>
 !!!
 
 !!!info
-Si Kaigaku choisit le camp <d style="color:lime;">slayers</d>, il aura la possibilité de crafter un [Sabre du soleil](....../divers/sabre/) <br>
+Si Kaigaku choisit le camp <d style="color:lime;">slayers</d>, il aura la possibilité de crafter un [Sabre du soleil](demonslayer-uhc/divers/sabre/) <br>
 <br>
 Si Kaigaku choisit le camp <d style="color:red;">démons</d>, il sera pris pour cible par [Jigoro](../slayer/jigoro)
 !!!
