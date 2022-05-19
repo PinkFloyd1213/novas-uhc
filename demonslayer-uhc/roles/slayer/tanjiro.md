@@ -11,7 +11,7 @@ Tanjiro est le héros principal du manga Demon Slayer et il maîtrise le souffle
 ```
 
 !!!primary
-Tanjiro a la possibilité de crafter un "**Sabre du soleil**"
+Tanjiro a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!warning Items
