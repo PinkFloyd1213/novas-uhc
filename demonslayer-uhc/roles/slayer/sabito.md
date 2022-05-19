@@ -11,7 +11,7 @@ Sabito est l'un des disciples d'Urokodaki ayant participé à la sélection fina
 ```
 
 !!!primary
-Sabito a la possibilité de crafter un "**Sabre du soleil**"
+Sabito a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
