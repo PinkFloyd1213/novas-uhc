@@ -26,7 +26,7 @@ Les morts sont gardées secrètes tout au long de la partie, le message de mort 
 Certain rôles sont également autorisés à crafter un "[Sabre du soleil](./divers/sabre)" <br>
 <br>
 <br>
-Des événements sont aussi présents afin de pimenter la partie : <br>
+Des événements sont aussi présents afin de pimenter la partie :
 - [La lame d'éradication](./divers/eradication)
 - [Le village des forgerons](./divers/village)
 - [Le château de l'infini](./divers/cdi)
