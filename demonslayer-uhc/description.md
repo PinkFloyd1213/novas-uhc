@@ -22,9 +22,9 @@ Le mode de jeu voit s'affronter 3 camps :
 
 
 Des événements sont également présents afin de pimenter la partie : <br>
-- [La lame d'éradication](./eradication)
-- [Le village des forgerons](./)
-- [Le château de l'infini]()
+- [La lame d'éradication](./divers/eradication)
+- [Le village des forgerons](./divers/village)
+- [Le château de l'infini](./divers/cdi)
 
 
 
