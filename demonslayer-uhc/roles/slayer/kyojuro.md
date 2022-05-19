@@ -11,7 +11,7 @@ Kyojuro est le pilier de la Flamme
 ```
 
 !!!primary
-Kyojuro a la possibilité de crafter un "**Sabre du soleil**"
+Kyojuro a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!warning Items
