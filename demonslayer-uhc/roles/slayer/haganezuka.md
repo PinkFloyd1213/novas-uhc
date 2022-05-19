@@ -11,7 +11,7 @@ Haganezuka est le forgeur de sabre du soleil attitré à Tanjiro
 ```
 
 !!!primary
-Haganezuka a la possibilité de crafter un "**Sabre du soleil**"
+Haganezuka a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
