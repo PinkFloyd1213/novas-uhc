@@ -11,7 +11,7 @@ Muichiro est le pilier de la brume
 ```
 
 !!!primary
-Muichiro a la possibilité de crafter un "**Sabre du soleil**"
+Muichiro a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!warning Items
