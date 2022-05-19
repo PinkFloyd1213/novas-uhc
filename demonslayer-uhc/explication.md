@@ -4,7 +4,7 @@ icon: ":notebook:"
 order: 200
 ---
 
-# Éxplications du mode de jeu
+# Explications du mode de jeu
 
 Demon Slayer UHC est un mode jeu jeu minecraft sur le thème du manga et anime : Demon Slayer <br>
 Le mode de jeu se déroule sur un format d'UHC
