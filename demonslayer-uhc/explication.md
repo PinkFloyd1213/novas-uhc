@@ -24,6 +24,7 @@ Les morts sont gardées secrètes tout au long de la partie, le message de mort 
 ```<nom du joueur> est mort, il incarnait <nom du rôle>```
 
 Certain rôles sont également autorisés à crafter un "[Sabre du soleil](./divers/sabre)" <br>
+Tous les items de rôles, Sabres du soleil et bottes de [Giyu](./roles/slayer/giyu), [Sabito](./roles/slayer/sabito), [Urokodaki](./roles/slayer/urokodaki) et [Gyokko](./roles/demon/gyokko) sont supprimés à la mort de leur détenteurs
 <br>
 <br>
 Des événements sont aussi présents afin de pimenter la partie :
