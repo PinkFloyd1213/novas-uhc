@@ -23,3 +23,5 @@ En conséquence l'objectif des **Slayers** est de **protéger les forgerons** du
 Si un **Démon pénètre dans le village**, les **Piliers** en seront informés **10 secondes plus tard**
 
 Seuls **2 Démons** et **4 Slayers** peuvent se trouver en même temps dans le village. Si **un autre Démon ou Slayer** pénètre dans le village, **un joueur du même camp sera expulsé** (de préférence celui qui est resté le plus longtemps dans le village). Les joueurs **SOLO ne sont pas affectés** par cette limite
+
+Pour **sortir du village** il suffit de **repasser par le Toori de l'entrée** et le joueur sera **retéléporté aléatoirement** sur la map
