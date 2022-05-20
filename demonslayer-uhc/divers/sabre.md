@@ -9,7 +9,7 @@ order: 1000
 
 Certains rôles offrent la possibilité de crafter un **Sabre du soleil**
 
-Ces armes exceptionnelles offrent chacune un ***effet différent** selon la **couleur de leur lame** :
+Ces armes exceptionnelles offrent chacune un **effet différent** selon la **couleur de leur lame** :
 - Lame **Noire** : **Force +1**
 - Lame **Grise** : **Résistance +1**
 - Lame **Jaune** : **Speed +1 + NoFall**
