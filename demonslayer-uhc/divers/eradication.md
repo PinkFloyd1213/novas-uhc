@@ -1,6 +1,6 @@
 ---
 label: Lame d'éradication
-icon: ":hammer_and_pick:"
+icon: ":shinto_shrine:"
 order: 950
 ---
 
