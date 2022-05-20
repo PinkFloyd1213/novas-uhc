@@ -11,32 +11,31 @@ Nakime est la 4ème lune supérieure de remplacement et est plus connue sous le 
 ```
 
 !!!primary
-Comme toute les lunes supérieures elle possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](./muzan/) change de camp <br>
-Elle connaît l'identité du [Muzan](./muzan/)
+Comme toute les lunes supérieures elle possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](./muzan) change de camp <br>
+Elle connaît l'identité du [Muzan](./muzan)
 !!!
 
 !!!success Effets
-Nakime possède l'effet **Weakness 1** de jour et **Force 2** la nuit
+Nakime possède l'effet **Weakness 1** de jour et **Force 2** la nuit <br>
+<br>
+Elle possède également les effets **Speed 1**, **Force 2** et **Résistance 1** dans le [Château de l'infini](/demonslayer-uhc/divers/cdi)
 !!!
 
 !!!warning Items
-À l'annonce des rôles, Nakime reçoit un "**Biwa**" et un "**Oeil**"
+À l’annonce des rôles, Nakime reçoit son "**Biwa**" qui, en effectuant un **clic gauche**, active la compétence "**Disperse**" et la compétence "**Oeil de Nakime**" avec **clic droit**
 !!!
 
-+++ Biwa
++++ Disperse
 Permet de **disperser** tous les joueurs autour d'elle **2 fois** dans la partie
-+++ Oeil 
-Reçoit les **coordonnées et rôles** de **3 slayers** désignés aléatoirement <br>
++++ Oeil de Nakime
+Nakime reçoit les **coordonnées et rôles** de **3 slayers** désignés aléatoirement <br>
 Peut être utilisé **2 fois** dans la partie
 +++
 
 !!!danger Commandes
-Peut effectuer la réunion des lunes supérieures quand elle est à proximité de [Muzan](./muzan/) avec la commande ```/ds reunion``` une fois dans la partie
+Nakime peut effectuer la **réunion des lunes supérieures** quand elle est à proximité de [Muzan](./muzan) avec la commande ```/ds reunion``` une fois dans la partie à partir de **1H** de jeu
 !!!
 
-!!!light Particularités
-Possède les effets **Speed 1**, **Force 2** et **Résistance 1** dans le "**Château de l'infini**" mais ses **items** sont **désactivés**
-!!!
 
 
 
