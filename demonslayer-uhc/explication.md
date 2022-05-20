@@ -21,7 +21,8 @@ Le mode de jeu voit s'affronter 3 camps :
 À l'annonce des rôles à 20 minutes de jeu, chaque joueur se voit attribué un rôle et son objectif est de survivre jusqu'à la fin de la partie et faire gagner son camp
 
 Les morts sont gardées secrètes tout au long de la partie, le message de mort d'un joueur sera sous la forme : <br>
-```<nom du joueur> est mort, il incarnait <nom du rôle>```
+```<nom du joueur> est mort, il incarnait <nom du rôle>``` <br>
+Les groupes de joueurs sont limités à 4 personnes puis 3 personnes lorsqu'il ne reste plus que 10 joueurs ou moins
 
 Certain rôles sont également autorisés à crafter un [Sabre du soleil](./divers/sabre) <br>
 Tous les items de rôles, Sabres du soleil et bottes de [Giyu](./roles/slayer/giyu), [Sabito](./roles/slayer/sabito), [Urokodaki](./roles/slayer/urokodaki) et [Gyokko](./roles/demon/gyokko) sont supprimés à la mort de leur détenteurs
