@@ -6,7 +6,7 @@ order: 950
 
 # Lame d'éradication
 
-Au bout de 45 minutes de jeu l'événement Lame d'éradication se déclenche <br>
+Au bout de 45 minutes de jeu l'événement : "Lame d'éradication" se déclenche <br>
 <br>
 L'événement fait apparaître un Toori au dessus d'un coffre contenant la lame en question <br>
 Le Toori apparaît aléatoirement à des coordonnées précise : soit en 400|400, -400|400, 400|-400 ou -400|-400 <br>
