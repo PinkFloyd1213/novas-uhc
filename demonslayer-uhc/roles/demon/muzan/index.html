@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.706376312594" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.706381165467" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.706376312594" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.706381165467" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.706376312594" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.706381165467" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -244,13 +244,12 @@ Muzan <strong>régénère 5 coeurs</strong> à chaque <strong>kill</strong></p>
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>Commandes</h5>
-<p>Muzan peut envoyer des messages à Kokushibo via la commande <code v-pre>/ds msg &lt;message&gt;</code>  <br>
+<p>Muzan peut envoyer des messages à <a href="../kokushibo/">Kokushibo</a> via la commande <code v-pre>/ds msg &lt;message&gt;</code>  <br>
 <br>
 Il possède également la commande <code v-pre>/ds bounty &lt;pseudo démon&gt; &lt;pseudo ou rôle slayer&gt;</code> qui lui permet d&#x27;affecter un <strong>contrat</strong> à un démon avec une récompense à la clée <br>
 Il ne peut effectuer cette commande qu&#x27;une seule fois <strong>entre la 20ème et la 45ème minute</strong> de la partie <br>
 <br>
-À la <strong>mort d&#x27;un joueur</strong> (causée par un démon), Muzan a, pendant une <strong>dixaine de secondes</strong>, la possibilité de l&#x27;<strong>infecter</strong> en <strong>cliquant sur le message</strong> dans le chat <br>
-Muzan <strong>ne peut plus infecter</strong> si il devient <strong>SOLO</strong></p>
+À la <strong>mort d&#x27;un joueur</strong> (causée par un démon), Muzan a, pendant une <strong>dixaine de secondes</strong>, la possibilité de l&#x27;<strong>infecter</strong> en <strong>cliquant sur le message</strong> dans le chat <br></p>
         </div>
     </div>
 </div>
@@ -258,20 +257,19 @@ Muzan <strong>ne peut plus infecter</strong> si il devient <strong>SOLO</strong>
 <doc-tab id="bounty-pseudo">
 <template #title>Bounty Pseudo</template>
 <p>Le démon choisit doit tuer le <strong>joueur</strong> indiqué par son contrat <br>
-Il sera récompensé par une augmentation d&#x27;un niveau de son effet de <strong>Speed</strong></p>
+Il sera récompensé par un effet de <strong>Speed +1</strong></p>
 </doc-tab>
 <doc-tab id="bounty-rôle">
 <template #title>Bounty Rôle</template>
 <p>Le démon choisit doit tuer le joueur ayant le <strong>rôle</strong> indiqué par son contrat <br>
-Il sera récompensé par une augmentation d&#x27;un niveau de son effet de <strong>Résistance</strong></p>
+Il sera récompensé par un effet de <strong>Résistance +1</strong></p>
 </doc-tab>
 <doc-tab id="infection">
 <template #title>Infection</template>
 <p>Lors de son infection le joueur est <strong>téléporté</strong> aléatoirement sur la map. Il est <strong>immobilisé pendant 3 minutes</strong>. <br>
-Après les <strong>3 minutes</strong>, le joueur se voit affecté le rôle &quot;<strong>Infection</strong>&quot;. Ce rôle est définit dans la composition de la partie et choisit parmis les démons mineurs <br>
+Après les <strong>3 minutes</strong>, le joueur se voit affecté le rôle &quot;<strong>Infection</strong>&quot;. Ce rôle est définit dans la composition de la partie et choisit parmis les démons inférieurs <br>
 Il perd également tout item et effets liés à son précédent rôle <br>
-Si le <strong>Muzan meurt</strong> pendant ces <strong>3 minutes</strong>, alors le joueur infecté se voit attribuer <strong>tous les effets</strong> que le <strong>Muzan</strong> possédait avant sa mort.
-Le rôle du joueur sera alors : &quot;<strong>Démon Ultime</strong>&quot; et devra gagner en solo</p>
+Si le <strong>Muzan meurt</strong> pendant ces <strong>3 minutes</strong>, alors le joueur infecté se voit attribuer le rôle : &quot;<strong>Démon Ultime</strong>&quot; et obtiendra <strong>tous les effets</strong> que le <strong>Muzan</strong> possédait avant sa mort. Il devra également gagner en SOLO</p>
 </doc-tab>
 </doc-tabs>
 <div class="flex mb-6">
@@ -287,9 +285,10 @@ Le rôle du joueur sera alors : &quot;<strong>Démon Ultime</strong>&quot; et de
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>Particularités</h5>
-<p>Muzan devient solitaire si il tue <strong>Nezuko</strong> ou le porteur &quot;<strong>l&#x27;Amaryllis bleue</strong>&quot; <br>
-Si l&#x27;une des deux conditions est remplie alors Muzan obtiendra les effets <strong>Force 3</strong> et <strong>Résistance 2</strong> de nuit comme de jour et devra gagner seul <br>
-Le malus de <strong>Weakness</strong> entre démons est également retiré de toutes les lunes encore en vie</p>
+<p>Muzan devient solitaire si il tue <a href="../../slayer/nezuko/">Nezuko</a> ou le porteur &quot;<strong>l&#x27;Amaryllis bleue</strong>&quot; <br>
+Si l&#x27;une des deux conditions est remplie alors Muzan obtiendra les effets <strong>Force 3</strong> et <strong>Résistance 2</strong> <strong>permanants</strong>, et devra gagner seul <br>
+Le malus de <strong>Weakness</strong> entre démons est également retiré de toutes les Lunes encore en vie
+Muzan <strong>ne peut plus infecter</strong> si il devient <strong>SOLO</strong></p>
         </div>
     </div>
 </div>
