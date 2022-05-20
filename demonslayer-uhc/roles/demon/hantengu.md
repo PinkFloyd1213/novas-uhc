@@ -20,7 +20,7 @@ Hantengu possède l'effet **Weakness 1** de jour et **Force 1** la nuit
 !!!
 
 !!!warning Items
-À l'annonce des rôles, Hantengu reçoit une "**Poupée**" qui lui permet d'**alterner les modes** de ses effets
+À l'annonce des rôles, Hantengu reçoit une "**Poupée**" qui lui permet d'**alterner les modes** de ses effets <br>
 Ce pouvoir peut être utilisé toute les **15 minutes**
 !!!
 
@@ -31,8 +31,8 @@ Hantengu obtient les effets **Résistance 2** et **Force 2** de nuit et octroie 
 +++
 
 !!!light Particularités
-Si tous les [Démons simples](./demon_simple) sont vaincus, Hantengu perd sa **Force** de nuit ainsi que son item "**Poupée**"
-En contrepartie il pourra devenir **invisible de nuit** en enlevant son armure 
+Si tous les [Démons simples](./demon_simple) sont vaincus, Hantengu perd sa **Force** de nuit ainsi que son item "**Poupée**"<br>
+En contrepartie il pourra devenir **invisible de nuit** en enlevant son armure <br>
 De plus il obtiendra l'effet **Speed 2** permanant
 !!!
 
