@@ -11,7 +11,7 @@ Genya est l'un des pourfendeurs ayant réussit l'épreuve de la sélection final
 ```
 
 !!!primary
-Genya a la possibilité de crafter un "**Sabre du soleil**"
+Genya a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre)
 !!!
 
 !!!success Effets
