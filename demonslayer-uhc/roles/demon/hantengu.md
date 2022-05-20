@@ -11,8 +11,8 @@ Hantengu est la 4ème lune supérieure et est un démon de nature craintif
 ```
 
 !!!primary
-Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](./muzan/) change de camp <br>
-Il connaît l'identité du [Muzan](./muzan/)
+Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](./muzan) change de camp <br>
+Il connaît l'identité du [Muzan](./muzan)
 !!!
 
 !!!success Effets
@@ -25,14 +25,15 @@ Ce pouvoir peut être utilisé toute les **15 minutes**
 !!!
 
 +++ Mode division
-Hantengu obtient l'effet **Speed 2** et octroie les effets **Résistance 1**, **Force 2** et **NoFall** aux [Démons simples](./demon_simple)
+Hantengu obtient l'effet **Speed 2** de nuit et octroie les effets **Résistance 1**, **Force 2** et **NoFall** de nuit aux [Démons simples](./demon_simple)
 +++ Mode concentration
-Hantengu obtient les effets **Résistance 2** et **Force 2** et octroie l'effet **Speed 2** aux [Démons simples](./demon_simple)
+Hantengu obtient les effets **Résistance 2** et **Force 2** de nuit et octroie l'effet **Speed 1** de nuit aux [Démons simples](./demon_simple)
 +++
 
 !!!light Particularités
-Si tous les [Démons simples](./demon_simple) sont vaincus, Hantengu peut devenir **invisible de nuit** en enlevant son armure mais n'a plus de **Force 1** et perd son item "**Poupée**" <br> 
-En revanche il obtient l'effet **Speed 2** permanant
+Si tous les [Démons simples](./demon_simple) sont vaincus, Hantengu perd sa **Force** de nuit ainsi que son item "**Poupée**"
+En contrepartie il pourra devenir **invisible de nuit** en enlevant son armure 
+De plus il obtiendra l'effet **Speed 2** permanant
 !!!
 
 
