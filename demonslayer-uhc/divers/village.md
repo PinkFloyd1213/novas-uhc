@@ -10,7 +10,7 @@ Le village des forgerons est un événement qui dure tout au long de la partie <
 Au moment de la création de la partie, 3 entrées du village sont générées sous les arbres :
 - une entre 0 et 300 blocs
 - une entre 300 et 500 blocs
-- une entre 500 et 1000 blocs
+- une entre 500 et 1000 blocs <br>
 [Haganezuka](../roles/slayer/haganezuka) reçoit les coordonnées précises de toutes les entrées 
 
 Lors de leur entrée au village les [Sabre du soleil](/demonslayer-uhc/divers/sabre) des Slayers et SOLO sont automatiquement réparés
