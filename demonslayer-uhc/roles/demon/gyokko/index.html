@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.706388880059" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.706389497688" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.706388880059" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.706389497688" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.706388880059" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.706389497688" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -228,7 +228,7 @@ Il connaît l&#x27;identité du <a href="../muzan/">Muzan</a></p>
         <div class="pr-5 ml-3 w-full">
             <h5>Effets</h5>
 <p>Gyokko possède l&#x27;effet <strong>Weakness 1</strong> de jour et <strong>Force 1</strong> la nuit <br>
-Il possède également <strong>7 coeurs</strong></p>
+Il possède également <strong>7 coeurs</strong> maximum</p>
         </div>
     </div>
 </div>
@@ -246,7 +246,8 @@ Il possède également <strong>7 coeurs</strong></p>
         </div>
         <div class="pr-5 ml-3 w-full">
 <p>À sa <strong>mort</strong>, Gyokko est re-téléporté à l&#x27;un des <strong>parterres de fleurs</strong> encore présent sur la carte, <strong>3 fois</strong> dans la partie mais <strong>perd 1 coeur permanant</strong> à chaque réaparition <br>
-Si tous les <strong>parterres de fleurs</strong> viennent à être détruits, Gyokko respawnera alors directement sur <a href="../doma/">Doma</a>. Si <a href="../doma/">Doma</a> est déjà mort à ce moment, Gyokko respawnera aléatoirement sur la map</p>
+<br>
+Si tous les <strong>parterres de fleurs</strong> viennent à être détruits, Gyokko respawnera alors directement sur <a href="../doma/">Doma</a>. Si <a href="../doma/">Doma</a> est mort, Gyokko respawnera aléatoirement sur la map</p>
         </div>
     </div>
 </div>
@@ -264,7 +265,9 @@ Si tous les <strong>parterres de fleurs</strong> viennent à être détruits, Gy
         <div class="pr-5 ml-3 w-full">
             <h5>Commandes</h5>
 <p>Gyokko peut choisir à n’importe quel moment de “<strong>quitter ses pots</strong>” et de passer en “<strong>Forme de combat</strong>” avec la commande <code v-pre>/ds pot</code> <br>
-Cette forme lui octroie <strong>Résistance 1</strong> et <strong>Force 2</strong> de nuit, <strong>10 coeurs</strong> et deux compétences : <strong>Cage d’eau</strong> et <strong>Jet de poissons</strong> mais ne peut plus réapparaître. Cette transformation est définitive</p>
+<br>
+Cette forme lui octroie <strong>Résistance 1</strong> et <strong>Force 2</strong> de nuit, <strong>10 coeurs maximum</strong> et deux compétences : <strong>Cage d’eau</strong> et <strong>Jet de poissons</strong> mais ne peut plus réapparaître <br>
+Cette transformation est définitive</p>
         </div>
     </div>
 </div>
@@ -283,8 +286,7 @@ Cette forme lui octroie <strong>Résistance 1</strong> et <strong>Force 2</stron
             <h5>Items</h5>
 <p>À l&#x27;annonce des rôles Gyokko reçoit un livre <strong>Depth strider 2</strong> et un livre <strong>Aqua affinity + Respiration 3</strong> <br>
 <br>
-Lors de sa transfomation en “<strong>Forme de combat</strong>” Gyokko reçoit une <cite><strong>Bulle</strong></cite> permettant d&#x27;activer sa &quot;<strong>Cage d&#x27;eau</strong>&quot; utilisable <strong>une fois par épisode</strong><br>
-Il reçoit également un <cite><strong>Poisson</strong></cite> permettant d&#x27;activer son &quot;<strong>Jet de poissons</strong>&quot; utilisable <strong>une fois par épisode</strong></p>
+Lors de sa transfomation en “<strong>Forme de combat</strong>” Gyokko reçoit un <cite><strong>Poisson</strong></cite> permettant d&#x27;activer sa &quot;<strong>Cage d&#x27;eau</strong>&quot; avec <strong>clic gauche</strong> et son &quot;<strong>Jet de poissons</strong>&quot; avec <strong>clic droit</strong></p>
         </div>
     </div>
 </div>
@@ -293,11 +295,13 @@ Il reçoit également un <cite><strong>Poisson</strong></cite> permettant d&#x27
 <template #title>Cage d&#x27;eau</template>
 <p>Forme une bulle d&#x27;eau de <strong>15 blocs</strong> de rayon autour du <strong>joueur ciblé</strong> <br>
 <strong>Tous les joueurs</strong> présents dans la cage se voient affligés des effets <strong>Slowness 1</strong> et <strong>Blindness 1</strong>, excepté Gyokko <br>
-La cage dure 1 minute</p>
+La cage dure <strong>1 minute et 30 secondes</strong> <br>
+Utilisable <strong>une fois par épisode</strong></p>
 </doc-tab>
 <doc-tab id="jet-de-poissons">
 <template #title>Jet de poissons</template>
-<p>Crée une <strong>vague déferlante</strong> de poissons <strong>infligeant des dégats</strong> sur son passage</p>
+<p>Crée une <strong>vague déferlante</strong> de poissons <strong>infligeant des dégats</strong> sur son passage <br>
+Utilisable <strong>une fois par épisode</strong></p>
 </doc-tab>
 </doc-tabs>
 
