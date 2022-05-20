@@ -17,4 +17,4 @@ La Lame d'éradication est un [Sabre du soleil](./sabre) un peut spécial :
 - Il est **incassable**
 - Son effet se cumule aux autres [Sabres du soleil](./sabre)
 - Comme les autres [Sabres du soleil](./sabre), il n'offre son **effet** qu'aux **Slayers et SOLO**
-- Si son **détenteur vient à périr** la Lame d'éradication **retournera à un Toori** aléatoire et [Yoriichi](../roles/solo/yoriichi) recevra de nouveau ses coordonnées
+- Si son **détenteur vient à périr**, la Lame d'éradication **retournera à un Toori** aléatoire et [Yoriichi](../roles/solo/yoriichi) recevra de nouveau ses coordonnées
