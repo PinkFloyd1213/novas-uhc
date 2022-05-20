@@ -9,7 +9,7 @@ order: 950
 Au bout de 45 minutes de jeu l'événement Lame d'éradication se déclenche <br>
 <br>
 L'événement fait apparaître un Toori au dessus d'un coffre contenant la lame en question <br>
-Le Toori apparaît aléatoirement à des coordonnées précise : soit en 400:400, -400:400, 400:-400 ou -400:-400 <br>
+Le Toori apparaît aléatoirement à des coordonnées précise : soit en 400/400, -400/400, 400/-400 ou -400/-400 <br>
 [Yoriichi](../roles/solo/yoriichi) obtient les coordonnées précises du Toori à l'activation de l'événement
 
 La Lame d'éradication est un [Sabre du soleil](./sabre) un peut spécial :
