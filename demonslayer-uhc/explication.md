@@ -31,6 +31,8 @@ Les **morts sont gardées secrètes** tout au long de la partie, le message de m
 !!!
 !!!success
 Certains rôles sont également autorisés à crafter un [Sabre du soleil](./divers/sabre) <br>
+!!!
+!!!warning
 Tous les items de rôles, [Sabre du soleil](./divers/sabre) et bottes de [Giyu](./roles/slayer/giyu), [Sabito](./roles/slayer/sabito), [Urokodaki](./roles/slayer/urokodaki) et [Gyokko](./roles/demon/gyokko) sont **supprimés à la mort de leur détenteurs**
 !!!
 !!!info
