@@ -1,6 +1,6 @@
 ---
 label: Le château de l'infini
-icon: ":hammer_and_pick:"
+icon: ":japanese_castle:"
 order: 850
 ---
 
