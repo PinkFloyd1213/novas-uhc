@@ -38,7 +38,9 @@ Lorsque Nezuko se trouve à **proximité de Tanjiro** et qu'il ne possède que *
 Octroie **Force 2** et **Résistance 1** à Nezuko <br>
 <br>
 Si Nezuko reste plus de **1 minute et 30 secondes** en Rage (indiqué par un timer), elle perd le contrôle et se retrouve **verouillée en Forme Mini** pendant **5 minutes** avec l'effet **Nausée** pendant **1 minute** <br>
-Nezuko peut à tout moment **désactiver** sa **Rage** pour **éviter ces malus**
+Nezuko peut à tout moment **désactiver** sa **Rage** pour **éviter ces malus** <br>
+<br>
+La **Rage** possède un **cooldown de 30 minutes**
 +++
 
 !!!light Particularités
