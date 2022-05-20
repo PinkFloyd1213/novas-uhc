@@ -1,10 +1,10 @@
 ---
-label: Sabre du soleil
+label: Sabres du soleil
 icon: ":round_pushpin:"
 order: 1000
 ---
 
-# Sabre du soleil
+# Sabres du soleil
 
 
 Certains rôles offrent la possibilité de crafter un Sabre du soleil
