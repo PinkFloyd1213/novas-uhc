@@ -20,6 +20,6 @@ Ce qui a pour effet de **briser** tous les [Sabres du soleil](/demonslayer-uhc/d
 
 En conséquence l'objectif des **Slayers** est de **protéger les forgerons** du village
 
-Si un **Démon pénètre dans le village**, les **Piliers** en seront informés **30 secondes plus tard**
+Si un **Démon pénètre dans le village**, les **Piliers** en seront informés **10 secondes plus tard**
 
 Seuls **2 Démons** et **4 Slayers** peuvent se trouver en même temps dans le village. Si **un autre Démon ou Slayer** pénètre dans le village, **un joueur du même camp sera expulsé** (de préférence celui qui est resté le plus longtemps dans le village). Les joueurs **SOLO ne sont pas affectés** par cette limite
