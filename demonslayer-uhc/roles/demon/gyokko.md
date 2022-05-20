@@ -36,7 +36,7 @@ Cette transformation est définitive
 !!!warning Items
 À l'annonce des rôles Gyokko reçoit un livre **Depth strider 2** et un livre **Aqua affinity + Respiration 3** <br>
 <br>
-Lors de sa transfomation en “**Forme de combat**” Gyokko reçoit un ""**Poisson**"" permettant d'activer sa "**Cage d'eau**" avec **clic gauche** et son "**Jet de poissons**" avec **clic droit**
+Lors de sa transfomation en “**Forme de combat**” Gyokko reçoit un "**Poisson**" permettant d'activer sa "**Cage d'eau**" avec **clic gauche** et son "**Jet de poissons**" avec **clic droit**
 !!!
 
 +++ Cage d'eau
