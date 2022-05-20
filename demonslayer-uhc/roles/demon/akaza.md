@@ -11,18 +11,18 @@ Akaza est la 3ème lune supérieure et un artiste martial très puissant
 ```
 
 !!!primary
-Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](./muzan/) change de camp <br>
-Il connaît l'identité du [Muzan](./muzan/)
+Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](./muzan) change de camp <br>
+Il connaît l'identité du [Muzan](./muzan)
 !!!
 
 !!!success Effets
 - Il possède l'effet **Weakness 1** de jour et **Force 2** la nuit
 - Akaza perd son effet de **Force** pendant 5 secondes si il vient à frapper un rôle féminin
-- Il obtient les effets **Résistance 3** et **Speed 1** en dessous de 3.5 coeurs
+- Il obtient les effets **Résistance 3** et **Speed 1** en dessous de **3.5 coeurs**
 !!!
 
 !!!warning Items
-À l'annonce des rôles Akaza reçoit un **Flocon** qui lui permet d'activer sa compétence "**Compas**" <br>
+À l'annonce des rôles Akaza reçoit un "**Flocon**" qui lui permet d'activer sa compétence "**Compas**" <br>
 Le compas peut être utilisé **une fois tous les deux épisodes** et pendant une durée de **1 min**
 !!!
 
