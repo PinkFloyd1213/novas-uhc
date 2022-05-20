@@ -12,14 +12,14 @@ Kokushibo est la lune n°1 et le plus puissant des démons après Muzan
 
 !!!primary 
 Comme toute les lunes supérieures il possède l'effet **Weakness 1** à proximité d'autres lunes mais n'as plus effet si [Muzan](./muzan) change de camp <br>
-Il connaît l'identité du [Muzan](./muzan/) <br>
-Il reçoit les messages du [Muzan](./muzan/), mais ne **peut pas** y **répondre**
+Il connaît l'identité du [Muzan](./muzan) <br>
+Il reçoit les messages du [Muzan](./muzan), mais ne **peut pas** y **répondre**
 !!!
 
 !!!success Effets
 - Il possède l'effet **Weakness 1** de jour et **Force 2** la nuit
 - Kokushibo possède l'effet **Speed 1** quand il est à plus de 3.5 coeurs et **Résistance 1** en dessous de 3.5 coeurs
-- Lors de la pleine lune sa **Force 2** devient **Force 3**
+- Lors de la pleine lune il obtient l'effet **Force 3**
 !!!
 
 !!!warning Items
