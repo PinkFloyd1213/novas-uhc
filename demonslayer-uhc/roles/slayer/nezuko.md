@@ -42,7 +42,3 @@ Nezuko peut à tout moment **désactiver** sa **Rage** pour **éviter ces malus*
 <br>
 La **Rage** possède un **cooldown de 30 minutes**
 +++
-
-!!!light Particularités
-
-!!!
