@@ -14,8 +14,8 @@ Pour communiquer, les joueurs sont obligés de se connecter sur le logiciel Mumb
 La partie  est rythmée sous forme d'épisodes de 20 minutes avec 10 minutes de jour et 10 minutes de nuit
 
 Le mode de jeu voit s'affronter 3 camps :
-- Les démons
-- Les slayers (ou chasseurs de démons)
+- Les démons, composé de :large_orange_diamond:Lunes supérieures et de :small_orange_diamond:Démons inférieurs
+- Les slayers, composé de :large_blue_diamond:Piliers et de :small_blue_diamond:Chasseurs
 - Les SOLO (joueurs qui doivent gagner seuls)
 
 À l'annonce des rôles à 20 minutes de jeu, chaque joueur se voit attribué un rôle et son objectif est de survivre jusqu'à la fin de la partie et faire gagner son camp
