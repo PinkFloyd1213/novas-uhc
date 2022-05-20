@@ -20,16 +20,17 @@ Nezuko possède **Force 1** la nuit
 
 !!!warning Items
 À l’annonce des rôles, Nezuko reçoit son "**Lierre**" qui, en effectuant un **clic gauche**, active sa forme "**Mini**" et la forme "**Maxi**" avec **clic droit** <br>
+<br>
 Nezuko reçoit également une "**Fiole de sang**" pour **activer/désactiver** sa "**Rage**". La **Rage** est uniquement activable lorsque **Tanjiro est à proximité** et **en dessous de 4 coeurs**
 !!!
 
 +++ Forme Mini
-Obtient l'effet **Speed 2** mais ne possède que **6 coeurs maximum**
-Dure **2 minutes**
-Utilisable **1 fois** par épisode
+Obtient l'effet **Speed 2** mais ne possède que **6 coeurs maximum** <br>
+Dure **2 minutes** <br>
+Utilisable **1 fois** par épisode 
 +++ Forme Maxi
-Obtient **2 coeurs supplémentaires**
-Dure **2 minutes**
+Obtient **2 coeurs supplémentaires** <br>
+Dure **2 minutes** <br>
 Utilisable **1 fois** par épisode
 +++ Rage
 Lorsque Nezuko se trouve à **proximité de Tanjiro** et qu'il ne possède que **4 coeurs ou moins**, elle a la possibilité d'**activer** sa **Rage** <br>
