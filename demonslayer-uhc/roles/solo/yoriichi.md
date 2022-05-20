@@ -11,7 +11,7 @@ Yoriichi est l'inventeur du soufle originel et son unique utilisateur
 ```
 
 !!!primary
-Yoriichi a la possibilité de crafter un "**Sabre du soleil**" <br>
+Yoriichi a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre) <br>
 <br>
 Lorsque l'**événement** se déclenche, Yoriichi **obtient les coordonnées** de la "**Lame d'éradication**" <br>
 <br>
