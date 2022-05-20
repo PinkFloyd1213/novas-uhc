@@ -31,13 +31,14 @@ Camp <d style="color:red;">démons</d> : possède l'effet **Weakness 1** et **Sp
 !!!
 
 !!!warning Items
-À l’annonce des rôles, Kaigaku reçoit un "**Anneau électrique**" qui lui permet d'activer sa "**Zone de combat**" <br>
-Il reçoit également un "**Éclair**" qui lui permet d'activer différents pouvoir selon son camp
+À l’annonce des rôles, Kaigaku reçoit un "**Anneau électrique**" qui lui permet d'activer sa "**Zone de combat**" avec **clic gauche** et la compétence "**Éclair**" avec **clic droit**
 !!!
 
 +++ Zone de Combat
 Tous les joueurs, excepté Kaigaku, prennent des **dégats en continu** dans une zone de **40 blocs de rayon**, centrée sur Kaigaku à son activation <br>
-La zone inflige davantage de dégats si Kaigaku choisit le camp <d style="color:red;">démons</d>
+La zone inflige davantage de dégats si Kaigaku choisit le camp <d style="color:red;">démons</d> <br>
+Dure **1 minute** <br>
+Utilisable **une fois** tous les **deux épisodes**
 +++ Éclair
 Camp <d style="color:lime;">slayers</d> : peut “**foudroyer**” un joueur au choix, **3 fois** dans la partie <br>
 <br>
