@@ -24,7 +24,7 @@ La couleur de la lame est définie aléatoirement une fois le sabre pris en main
 <br>
 Les Sabres du soleil ont une durabilité de 20 coups, après quoi il seront brisés et les joueurs le bénéficieront plus leurs effets. <br>
 Après qu'un Sabre ait été brisé il est possible de le réparer de deux façons :
-- Le faire réparer par [Haganezuka](../role/slayer/haganezuka)
+- Le faire réparer par [Haganezuka](/demonslayer-uhc/role/slayer/haganezuka)
 - Aller au [village des forgerons](./village)
 <br>
 <br>
