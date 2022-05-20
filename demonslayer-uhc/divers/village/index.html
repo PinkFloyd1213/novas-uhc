@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.706388341542" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.706388880059" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.706388341542" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.706388880059" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.706388341542" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.706388880059" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -205,6 +205,8 @@ Au moment de la création de la partie, 3 entrées du village sont générées s
 <p>L&#x27;objectif des Démons est de tuer tous les forgerons du village <br>
 Ce qui a pour effet de briser tous les <a href="/demonslayer-uhc/divers/sabre/">Sabres du soleil</a> ainsi que de condamner l&#x27;accès au village</p>
 <p>En conséquence l&#x27;objectif des Slayers est de protéger les forgerons du village</p>
+<p>Si un Démon pénètre dans le village, les Piliers en seront informés 30 secondes plus tard</p>
+<p>Seuls 2 Démons et 4 Slayers peuvent se trouver en même temps dans le village. Si un autre Démon ou Slayer pénètre dans le village, un joueur du même camp sera expulsé (de préférence celui qui est resté le plus longtemps dans le village). Les joueurs SOLO ne sont pas affectés par cette limite</p>
 
                                 
                                 <!-- Required only on API pages -->
