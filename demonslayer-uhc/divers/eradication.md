@@ -6,7 +6,15 @@ order: 950
 
 # Lame d'éradication
 
+Au bout de 45 minutes de jeu l'événement Lame d'éradication se déclenche <br>
+<br>
+L'événement fait apparaître un Toori au dessus d'un coffre contenant la lame en question <br>
+Le Toori apparaît aléatoirement à des coordonnées précise : soit en 400:400, -400:400, 400:-400 ou -400:-400 <br>
+[Yoriichi](../roles/solo/yoriichi) obtient le coordonnées précise du Toori à l'activation de l'événement
 
-en cours de création
-Lame d’éradication -> Tôris aux 4 coins de la map <br>
-si joueur mort la lame retourne à un Tôri aléatoire <br>
+La Lame d'éradication est un Sabre du soleil un peut spécial :
+- Il offre l'effet Force +1
+- Il est incassable
+- Son effet se cumule aux autres Sabres du soleil
+- Comme les autres Sabres du soleil, il n'offre son effet qu'aux Slayers et SOLO
+- Si son détenteur vient à périr la Lame d'éradication retournera à un Toori aléatoire
