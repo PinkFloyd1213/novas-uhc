@@ -11,12 +11,12 @@ Daki & Gyutaro sont "la" 6ème lune supérieure
 ```
 
 !!!primary
-Comme toute les lunes supérieures ils possèdent l'effet **Weakness 1** à proximité d'autres lunes (sauf entre eux), mais n'ont plus effet si [Muzan](./muzan) change de camp <br>
+Comme toute les lunes supérieures ils possèdent l'effet **Weakness 1** à proximité d'autres lunes (sauf entre eux), mais n'a plus effet si [Muzan](./muzan) change de camp <br>
 Ils se connaissent entre eux et sont informés de l'identité du [Muzan](./muzan)
 !!!
 
 !!!info 
-Si l'un des membre du duo vient à **mourrir** il réapparaîtra après **5 minutes** avec **un coeur permanant en moins** <br>
+Si l'un des membre du duo vient à **mourrir** il réapparaîtra après **5 minutes** avec **un coeur maximum en moins** <br>
 Pour les **vaincre**, il est nécéssaire de les tuer, tous les deux, dans **ce laps de temps**
 !!!
 
@@ -30,15 +30,17 @@ Ils obtiennent également l'effet **Résistance 1** à proximité l'un de l'autr
 !!!
 
 !!!warning Items
-À l’annonce des rôles, <d style="color:lime;">Gyutaro</d> reçoit une "**Faucille**" qui lui permet d'activer sa compétence "**Faucilles sanguinolentes**". Utilisable toute les 15 minutes <br>
+À l’annonce des rôles, <d style="color:lime;">Gyutaro</d> reçoit une "**Faucille**" qui lui permet d'activer sa compétence "**Faucilles sanguinolentes**"<br>
 <br>
-À l’annonce des rôles, <d style="color:fuchsia;">Daki</d> reçoit un "**Obi**" qui lui permet d'activer sa compétence "**Obis**". Utilisable toute les 15 minutes
+À l’annonce des rôles, <d style="color:fuchsia;">Daki</d> reçoit un "**Obi**" qui lui permet d'activer sa compétence "**Obis**". 
 !!!
 
 +++ <d style="color:lime;">Faucilles sanguinolentes</d>
-Attaque à distance infligeant des **dégats** et l'effet **Wither 1** pendant **10 secondes** si elle touche un joueur
+Attaque à distance infligeant des **dégats** et l'effet **Wither 1** pendant **10 secondes** si elle touche un joueur <br>
+Utilisable toute les 15 minutes
 +++ <d style="color:fuchsia;">Obis</d>
 Attaque à distance infligeant des **dégats** et **repousse** la cible
+Utilisable toute les 15 minutes
 +++
 
 !!!danger Commandes
@@ -50,15 +52,3 @@ Le joueur mort peut envoyer des messages à son duo avec la commande ```/ds mort
 <br>
 <d style="color:fuchsia;">Daki</d> gagne **un coeur permanant** à chaque **kill** qu'elle effectue 
 !!!
-
-
-
-
-
-
-
-
-
-
-
-
