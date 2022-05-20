@@ -21,7 +21,7 @@ Si Doma **tue un rôle féminin** il gagne **un coeur** supplémentaire ainsi qu
 !!!
 
 !!!warning Items
-À l’annonce des rôles, Doma reçoit son "**Glaçon**" qui, en effectuant un clic gauche, active la compétence "**Blizzard**" et la compétence "**Pantins de glace**" avec clic droit
+À l’annonce des rôles, Doma reçoit son "**Glaçon**" qui, en effectuant un **clic gauche**, active la compétence "**Blizzard**" et la compétence "**Pantins de glace**" avec **clic droit**
 !!!
 
 +++ Blizzard
@@ -41,24 +41,3 @@ Au cours de la partie, Doma peut invoquer **4 pantins** individuellement
 !!!danger Commandes
 Doma peut **activer ou désactiver** la formation de glace à ses pieds avec la commande ```/ds glace ```
 !!!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
