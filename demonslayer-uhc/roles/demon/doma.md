@@ -21,7 +21,7 @@ Si Doma **tue un rôle féminin** il gagne **un coeur** supplémentaire ainsi qu
 !!!
 
 !!!warning Items
-À l’annonce des rôles, Doma reçoit sa "**Flocon**" qui, en effectuant un clic gauche, active la compétence "**Blizzard**" et la compétence "**Pantins de glace**" avec clic droit
+À l’annonce des rôles, Doma reçoit son "**Glaçon**" qui, en effectuant un clic gauche, active la compétence "**Blizzard**" et la compétence "**Pantins de glace**" avec clic droit
 !!!
 
 +++ Blizzard
