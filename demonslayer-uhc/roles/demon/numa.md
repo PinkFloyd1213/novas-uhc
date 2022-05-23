@@ -23,12 +23,12 @@ Numa possède l'effet **Weakness 1** de jour et **Force 1** la nuit
 !!!
 
 +++ Marais
-Activable **de nuit seulement**
-Numa devient **invisible** mais émet des **particules noire** à ses pieds
-Utisable **toute les nuits**
+Activable **de nuit seulement** <br>
+Numa devient **invisible** mais émet des **particules noire** à ses pieds <br>
+Utilisable **toute les nuits** <br>
 +++ Crissement
-Rend le **joueur ciblé** **sourd et muet** (sur Mumble)
-Dure **45 secondes**
+Rend le **joueur ciblé** **sourd et muet** (sur Mumble) <br>
+Dure **45 secondes** <br>
 Utilisable **toute les nuits**
 +++
 
