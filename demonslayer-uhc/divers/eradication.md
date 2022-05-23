@@ -1,10 +1,10 @@
 ---
-label: Lame d'éradication
+label: La Lame d'éradication
 icon: ":shinto_shrine:"
 order: 950
 ---
 
-# Lame d'éradication
+# La Lame d'éradication
 !!!light
 Au bout de **45 minutes de jeu** l'événement : "Lame d'éradication" se déclenche <br>
 !!!
