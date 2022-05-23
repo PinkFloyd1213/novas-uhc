@@ -7,7 +7,7 @@ order: 250
 # Le démon du marais
 
 ```txt
-Le démon du marais
+Le démon du marais est un démon qui a la capacité de traverser le sol et les murs
 ```
 
 !!!primary
