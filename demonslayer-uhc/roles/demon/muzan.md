@@ -11,7 +11,7 @@ Muzan est l'empereur de tous les démons et est l'ennemi n°1 des Slayers
 ```
 
 !!!primary
-Connaît l'identité de toutes les **lunes supérieures** <br>
+Reçoit la liste de toutes les **lunes supérieures** (après le choix de [Kaigaku](./Kaigaku)) <br>
 Muzan **régénère 5 coeurs** à chaque **kill**
 !!!
 
@@ -36,9 +36,11 @@ Le démon choisit doit tuer le joueur ayant le **rôle** indiqué par son contra
 Il sera récompensé par un effet de **Résistance +1**
 +++ Infection
 Lors de son infection le joueur est **téléporté** aléatoirement sur la map. Il est **immobilisé pendant 3 minutes**. <br>
+<br>
 Après les **3 minutes**, le joueur se voit affecté le rôle "**Infection**". Ce rôle est définit dans la composition de la partie et choisit parmis les démons inférieurs <br>
 Il perd également tout item et effets liés à son précédent rôle <br>
-Si le **Muzan meurt** pendant ces **3 minutes**, alors le joueur infecté se voit attribuer le rôle : "**Démon Ultime**" et obtiendra **tous les effets** que le **Muzan** possédait avant sa mort. Il devra également gagner en SOLO
+<br>
+Si le **Muzan meurt** pendant ces **3 minutes**, alors le joueur infecté se voit attribuer le rôle : "**Démon Ultime**" et obtiendra **tous les effets** que le **Muzan** possédait avant sa mort. Il devra également gagner en **SOLO**
 +++
 
 !!!warning Conditions spéciales
