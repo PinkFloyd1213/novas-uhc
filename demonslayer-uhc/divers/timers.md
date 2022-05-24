@@ -4,7 +4,7 @@ icon: ":stopwatch:"
 order: 1050
 ---
 
-# Timers
+# Timers par défaut
 
 
 Voici la liste des **horaires** des différents **événements** de la partie (Par défaut)
