@@ -18,6 +18,8 @@ Voici la liste des **horaires** des différents **événements** de la partie (P
 
 <d style="color:red;"> 45 minutes </d> - Apparition de la [Lame d'éradication](./eradication)
 
+<d style="color:red;"> 1H </d> - Possibilité pour [Nakime](../roles/demon/nakime) d'effectuer la **réunion des lunes supérieures**
+
 <d style="color:red;"> 1H25 </d> - Révélation de l'indentité de [Nezuko](../roles/slayer/nezuko) et du porteur de [l'Amaryllis bleue](./ab) à [Muzan](../roles/demon/muzan)
 
 <d style="color:red;"> 1H40 </d> - Déclenchement du [Château de l'infini](./cdi)
