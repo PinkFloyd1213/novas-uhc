@@ -41,13 +41,16 @@ Il perd également tout item et effets liés à son précédent rôle <br>
 Si le **Muzan meurt** pendant ces **3 minutes**, alors le joueur infecté se voit attribuer le rôle : "**Démon Ultime**" et obtiendra **tous les effets** que le **Muzan** possédait avant sa mort. Il devra également gagner en SOLO
 +++
 
-!!!warning Particularités
+!!!warning Conditions spéciales
 Muzan devient solitaire si il tue [Nezuko](../slayer/nezuko) ou le porteur "**l'Amaryllis bleue**" <br>
 Si l'une des deux conditions est remplie alors Muzan obtiendra les effets **Force 3** et **Résistance 2** **permanants**, et devra gagner seul <br>
 Le malus de **Weakness** entre démons est également retiré de toutes les Lunes encore en vie
 Muzan **ne peut plus infecter** si il devient **SOLO**
 !!!
 
+!!!light Particularités
+Au bout de **1H25** de jeu, **les identités** de [Nezuko](../slayer/nezuko) et du porteur de [l'Amaryllis bleue]((/demonslayer-uhc/divers/ab) sont révélés à Muzan
+!!!
 
 
 
