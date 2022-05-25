@@ -15,7 +15,7 @@ Pour communiquer, les joueurs sont obligés de se connecter sur le logiciel **Mu
 !!!primary
 Le mode de jeu voit s'affronter 3 camps :
 - **Les démons**, composés de :large_orange_diamond:Lunes supérieures et de :small_orange_diamond:Démons inférieurs
-- **Les slayers**, composés de :large_blue_diamond:Piliers et de :small_blue_diamond:Chasseurs
+- **Les slayers**, composés de :large_blue_diamond:Piliers et de :small_blue_diamond:Pourfendeurs
 - **Les SOLO** (joueurs qui doivent gagner seuls)
 !!!
 !!!info
