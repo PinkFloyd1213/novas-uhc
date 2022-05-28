@@ -25,13 +25,15 @@ Il reçoit les messages du [Muzan](./muzan), mais ne **peut pas** y **répondre*
 !!!warning Items
 À l'annonce des rôles, Kokushibo reçoit son "**Sabre de la lune**". Celui-ci lui permet d'utiliser la compétence "**Frappe de la Lune**" avec un clic droit. <br>
 <br>
-Il reçopit également un **livre** "**Knockback 2**"
+Il reçopit également un livre enchanté : "**Knockback 2**"
 !!!
 
 +++ Sabre de la lune
 **Épée en dimant** **incassable** et enchantée avec **Sharpness 3**
 +++ Frappe de la Lune
-Portée de 8 blocs
+Frappe le **joueur ciblé** et inflige **1 coeur** de dégâts
+Portée de **8 blocs**
+Utilisable toute les **2 secondes**
 +++
 
 !!!danger Commandes
