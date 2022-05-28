@@ -24,7 +24,7 @@ Il possède également **7 coeurs** maximum
 À sa **mort**, Gyokko est re-téléporté à l'un des [Parterres de fleurs](/demonslayer-uhc/divers/parterre) encore présent sur la carte, **3 fois** dans la partie 
 Il **perd 1 coeur maximum** à chaque réaparition en contrepartie <br>
 <br>
-Si tous les **parterres de fleurs** viennent à être détruits, Gyokko respawnera alors directement sur [Doma](./doma). Si [Doma](./doma) est mort, Gyokko respawnera **aléatoirement** sur la map
+Si tous les **parterres de fleurs** viennent à être détruits, Gyokko respawnera alors directement sur [Doma](./doma). Si [Doma](./doma) est mort, Gyokko respawnera **aléatoirement** sur la map (au delà de 400 blocs)
 !!!
 
 !!!danger Commandes
