@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707075253851" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707075573463" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707075253851" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707075573463" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707075253851" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707075573463" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -230,8 +230,8 @@ Il reçoit les messages du <a href="../muzan/">Muzan</a>, mais ne <strong>peut p
             <h5>Effets</h5>
 <ul>
 <li>Il possède l&#x27;effet <strong>Weakness 1</strong> de jour et <strong>Force 2</strong> la nuit</li>
-<li>Kokushibo possède l&#x27;effet <strong>Speed 1</strong> quand il est à plus de 3.5 coeurs et <strong>Résistance 1</strong> en dessous de 3.5 coeurs</li>
-<li>Lors de la pleine lune il obtient l&#x27;effet <strong>Force 3</strong></li>
+<li>Kokushibo possède l&#x27;effet <strong>Speed 1</strong> quand il est à plus de <strong>3.5 coeurs</strong> et <strong>Résistance 1</strong> en dessous de <strong>3.5 coeurs</strong></li>
+<li>Lors de la <strong>Pleine lune</strong> il obtient l&#x27;effet <strong>Force 3</strong></li>
 </ul>
         </div>
     </div>
@@ -249,10 +249,22 @@ Il reçoit les messages du <a href="../muzan/">Muzan</a>, mais ne <strong>peut p
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>Items</h5>
-<p>À l&#x27;annonce des rôles, Kokushibo reçoit son &quot;<strong>Sabre de la lune</strong>&quot;. Celui-ci lui permet de faire une attaque à distance avec un clic droit</p>
+<p>À l&#x27;annonce des rôles, Kokushibo reçoit son &quot;<strong>Sabre de la lune</strong>&quot;. Celui-ci lui permet d&#x27;utiliser la compétence &quot;<strong>Frappe de la Lune</strong>&quot; avec un clic droit. <br>
+<br>
+Il reçopit également un <strong>livre</strong> &quot;<strong>Knockback 2</strong>&quot;</p>
         </div>
     </div>
 </div>
+<doc-tabs>
+<doc-tab id="sabre-de-la-lune">
+<template #title>Sabre de la lune</template>
+<p><strong>Épée en dimant</strong> <strong>incassable</strong> et enchantée avec <strong>Sharpness 3</strong></p>
+</doc-tab>
+<doc-tab id="frappe-de-la-lune">
+<template #title>Frappe de la Lune</template>
+<p>Portée de 8 blocs</p>
+</doc-tab>
+</doc-tabs>
 <div class="flex mb-6">
     <div class="shrink-0 w-1 rounded-tl rounded-bl bg-red-500"></div>
     <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
