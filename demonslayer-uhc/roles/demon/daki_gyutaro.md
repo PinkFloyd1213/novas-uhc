@@ -11,7 +11,7 @@ Daki & Gyutaro sont "la" 6ème lune supérieure
 ```
 
 !!!primary
-Comme toute les lunes supérieures ils possèdent l'effet **Weakness 1** à proximité d'autres lunes (sauf entre eux), mais n'a plus effet si [Muzan](./muzan) change de camp <br>
+Comme toute les lunes supérieures ils possèdent l'effet **Weakness 1** à proximité d'autres lunes (**sauf entre eux**), mais n'a plus effet si [Muzan](./muzan) change de camp <br>
 Ils se connaissent entre eux et sont informés de l'identité du [Muzan](./muzan)
 !!!
 
@@ -21,7 +21,7 @@ Pour les **vaincre**, il est nécéssaire de les tuer, tous les deux, dans **ce 
 !!!
 
 !!!success Effets
-Daki & Gyutaro possèdent l'effet **Weakness 1** de jour et **Force 2** la nuit <br>
+**Daki & Gyutaro** possèdent l'effet **Weakness 1** de jour et **Force 2** la nuit <br>
 Ils obtiennent également l'effet **Résistance 1** à proximité l'un de l'autre <br>
 <br>
 <d style="color:lime;">Gyutaro</d> possède **Speed 1** de nuit <br>
@@ -36,11 +36,13 @@ Ils obtiennent également l'effet **Résistance 1** à proximité l'un de l'autr
 !!!
 
 +++ <d style="color:lime;">Faucilles sanguinolentes</d>
-Attaque à distance infligeant des **dégats** et l'effet **Wither 1** pendant **10 secondes** si elle touche un joueur <br>
-Utilisable toute les 15 minutes
+Attaque à distance infligeant **2 coeurs de dégats** et l'effet **Wither 1** pendant **10 secondes** au joueur ciblé <br>
+L'attaque a une portée de **15 blocs** <br>
+Utilisable toute les **15 minutes**
 +++ <d style="color:fuchsia;">Obis</d>
-Attaque à distance infligeant des **dégats** et **repousse** la cible
-Utilisable toute les 15 minutes
+Attaque à distance infligeant **2.5 coeurs de dégats** et **repousse de 7 blocs** la cible <br>
+L'attaque a une portée de **15 blocs** <br>
+Utilisable toute les **15 minutes**
 +++
 
 !!!danger Commandes
@@ -48,7 +50,7 @@ Le joueur mort peut envoyer des messages à son duo avec la commande ```/ds mort
 !!!
 
 !!!light Particularités
-<d style="color:lime;">Gyutaro</d> a **25% de chance** d'infliger l'effet **Wither 1** pendant 1 seconde à **chaque coup** <br>
+<d style="color:lime;">Gyutaro</d> a **25% de chance** d'infliger l'effet **Wither 1** pendant **1 seconde** à **chaque coup** <br>
 <br>
-<d style="color:fuchsia;">Daki</d> gagne **un coeur permanant** à chaque **kill** qu'elle effectue 
+<d style="color:fuchsia;">Daki</d> gagne **un coeur maximum** supplémentaire à chaque **kill** qu'elle effectue 
 !!!
