@@ -26,14 +26,15 @@ Elle possède également les effets **Speed 1**, **Force 2** et **Résistance 1*
 !!!
 
 +++ Disperse
-Permet de **disperser** tous les joueurs autour d'elle **2 fois** dans la partie
+Permet de **disperser** tous les joueurs autour d'elle (dans un rayon de 50 blocs) **2 fois** dans la partie
 +++ Oeil de Nakime
-Nakime reçoit les **coordonnées et rôles** de **3 slayers** désignés aléatoirement <br>
+Nakime reçoit les **coordonnées et rôles** de **3 slayers** désignés aléatoirement. Le message est présenté sous la forme :<br>
+```<rôle slayer> se trouve en <X:Y:Z> ``` <br>
 Peut être utilisé **2 fois** dans la partie
 +++
 
 !!!danger Commandes
-Nakime peut effectuer la **réunion des lunes supérieures** quand elle est à proximité de [Muzan](./muzan) avec la commande ```/ds reunion``` une fois dans la partie à partir de **1H** de jeu
+Nakime peut effectuer la **réunion des lunes supérieures** quand elle est à proximité de [Muzan](./muzan) (5 blocs ou moins) avec la commande ```/ds reunion``` une fois dans la partie à partir de **1H** de jeu
 !!!
 
 
