@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707077854199" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707078039379" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707077854199" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707078039379" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707077854199" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707078039379" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -253,11 +253,12 @@ Elle possède également les effets <strong>Speed 1</strong>, <strong>Force 2</s
 <doc-tabs>
 <doc-tab id="disperse">
 <template #title>Disperse</template>
-<p>Permet de <strong>disperser</strong> tous les joueurs autour d&#x27;elle <strong>2 fois</strong> dans la partie</p>
+<p>Permet de <strong>disperser</strong> tous les joueurs autour d&#x27;elle (dans un rayon de 50 blocs) <strong>2 fois</strong> dans la partie</p>
 </doc-tab>
 <doc-tab id="oeil-de-nakime">
 <template #title>Oeil de Nakime</template>
-<p>Nakime reçoit les <strong>coordonnées et rôles</strong> de <strong>3 slayers</strong> désignés aléatoirement <br>
+<p>Nakime reçoit les <strong>coordonnées et rôles</strong> de <strong>3 slayers</strong> désignés aléatoirement. Le message est présenté sous la forme :<br>
+<code v-pre>&lt;rôle slayer&gt; se trouve en &lt;X:Y:Z&gt; </code> <br>
 Peut être utilisé <strong>2 fois</strong> dans la partie</p>
 </doc-tab>
 </doc-tabs>
@@ -274,7 +275,7 @@ Peut être utilisé <strong>2 fois</strong> dans la partie</p>
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>Commandes</h5>
-<p>Nakime peut effectuer la <strong>réunion des lunes supérieures</strong> quand elle est à proximité de <a href="../muzan/">Muzan</a> avec la commande <code v-pre>/ds reunion</code> une fois dans la partie à partir de <strong>1H</strong> de jeu</p>
+<p>Nakime peut effectuer la <strong>réunion des lunes supérieures</strong> quand elle est à proximité de <a href="../muzan/">Muzan</a> (5 blocs ou moins) avec la commande <code v-pre>/ds reunion</code> une fois dans la partie à partir de <strong>1H</strong> de jeu</p>
         </div>
     </div>
 </div>
