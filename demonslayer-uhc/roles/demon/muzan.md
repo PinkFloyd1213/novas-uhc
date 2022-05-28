@@ -11,7 +11,7 @@ Muzan est l'empereur de tous les démons et est l'ennemi n°1 des Slayers
 ```
 
 !!!primary
-Reçoit la liste de toutes les **lunes supérieures** (après le choix de [Kaigaku](./Kaigaku)) <br>
+Reçoit la liste de toutes les :large_orange_diamond:**lunes supérieures** (après le choix de [Kaigaku](./Kaigaku)) <br>
 Muzan **régénère 5 coeurs** à chaque **kill**
 !!!
 
