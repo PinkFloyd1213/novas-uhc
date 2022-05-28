@@ -10,7 +10,7 @@ order: 1050
 Voici la liste des **horaires** des différents **événements** de la partie (Par défaut)
 
 !!!danger
-<d style="color:red;"> Création de la partie </d> - Génération du [Village des forgerons](./village)
+<d style="color:red;"> Création de la partie </d> - Génération du [Village des forgerons](./village) et des [Parterres de fleurs](./parterre)
 
 <d style="color:red;"> 20 minutes </d> - Annonce des [rôles](../roles)
 
