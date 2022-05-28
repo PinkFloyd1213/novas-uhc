@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707079769768" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707080377614" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707079769768" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707080377614" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707079769768" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707080377614" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -277,8 +277,8 @@ Camp <d style="color:red;">démons</d> : possède l&#x27;effet <strong>Weakness 
 <doc-tabs>
 <doc-tab id="zone-de-combat">
 <template #title>Zone de Combat</template>
-<p>Tous les joueurs, excepté Kaigaku, prennent des <strong>dégats en continu</strong> dans une zone de <strong>40 blocs de rayon</strong>, centrée sur Kaigaku à son activation <br>
-La zone inflige davantage de dégats si Kaigaku choisit le camp <d style="color:red;">démons</d> <br>
+<p>Tous les joueurs, excepté Kaigaku, prennent des <strong>dégats en continu</strong> (1 demi-coeur toute les 1.5 secondes) dans une zone de <strong>30 blocs de rayon</strong>, centrée sur Kaigaku à son activation <br>
+La zone inflige davantage de dégats (1 demi-coeur par seconde) si Kaigaku choisit le camp <d style="color:red;">démons</d> <br>
 Dure <strong>1 minute</strong> <br>
 Utilisable <strong>une fois</strong> tous les <strong>deux épisodes</strong></p>
 </doc-tab>
