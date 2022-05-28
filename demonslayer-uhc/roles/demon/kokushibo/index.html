@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707075573463" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707077182889" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707075573463" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707077182889" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707075573463" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707077182889" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -251,7 +251,7 @@ Il reçoit les messages du <a href="../muzan/">Muzan</a>, mais ne <strong>peut p
             <h5>Items</h5>
 <p>À l&#x27;annonce des rôles, Kokushibo reçoit son &quot;<strong>Sabre de la lune</strong>&quot;. Celui-ci lui permet d&#x27;utiliser la compétence &quot;<strong>Frappe de la Lune</strong>&quot; avec un clic droit. <br>
 <br>
-Il reçopit également un <strong>livre</strong> &quot;<strong>Knockback 2</strong>&quot;</p>
+Il reçopit également un livre enchanté : &quot;<strong>Knockback 2</strong>&quot;</p>
         </div>
     </div>
 </div>
@@ -262,7 +262,9 @@ Il reçopit également un <strong>livre</strong> &quot;<strong>Knockback 2</stro
 </doc-tab>
 <doc-tab id="frappe-de-la-lune">
 <template #title>Frappe de la Lune</template>
-<p>Portée de 8 blocs</p>
+<p>Frappe le <strong>joueur ciblé</strong> et inflige <strong>1 coeur</strong> de dégâts
+Portée de <strong>8 blocs</strong>
+Utilisable toute les <strong>2 secondes</strong></p>
 </doc-tab>
 </doc-tabs>
 <div class="flex mb-6">
