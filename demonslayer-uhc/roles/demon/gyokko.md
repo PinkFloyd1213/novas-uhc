@@ -21,9 +21,10 @@ Il possède également **7 coeurs** maximum
 !!!
 
 !!!info
-À sa **mort**, Gyokko est re-téléporté à l'un des **parterres de fleurs** encore présent sur la carte, **3 fois** dans la partie mais **perd 1 coeur permanant** à chaque réaparition <br>
+À sa **mort**, Gyokko est re-téléporté à l'un des [Parterres de fleurs](/demonslayer-uhc/divers/parterre) encore présent sur la carte, **3 fois** dans la partie 
+Il **perd 1 coeur maximum** à chaque réaparition en contrepartie <br>
 <br>
-Si tous les **parterres de fleurs** viennent à être détruits, Gyokko respawnera alors directement sur [Doma](./doma). Si [Doma](./doma) est mort, Gyokko respawnera aléatoirement sur la map
+Si tous les **parterres de fleurs** viennent à être détruits, Gyokko respawnera alors directement sur [Doma](./doma). Si [Doma](./doma) est mort, Gyokko respawnera **aléatoirement** sur la map
 !!!
 
 !!!danger Commandes
@@ -45,6 +46,6 @@ Forme une bulle d'eau de **15 blocs** de rayon autour du **joueur ciblé** <br>
 La cage dure **1 minute et 30 secondes** <br>
 Utilisable **une fois par épisode**
 +++ Jet de poissons 
-Crée une **vague déferlante** de poissons **infligeant des dégats** sur son passage <br>
+Crée une **vague déferlante** de poissons **infligeant 3 coeurs de dégats** sur son passage <br>
 Utilisable **une fois par épisode** 
 +++
