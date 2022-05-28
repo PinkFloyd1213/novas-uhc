@@ -25,9 +25,11 @@ Ce pouvoir peut être utilisé toute les **15 minutes**
 !!!
 
 +++ Mode division
-Hantengu obtient l'effet **Speed 2** de nuit et octroie les effets **Résistance 1**, **Force 2** et **NoFall** de nuit aux [Démons simples](./demon_simple)
+Hantengu obtient l'effet **Speed 2** de nuit <br>
+Octroie les effets **Résistance 1**, **Force 2** et **NoFall** de nuit aux [Démons simples](./demon_simple)
 +++ Mode concentration
-Hantengu obtient les effets **Résistance 2** et **Force 2** de nuit et octroie l'effet **Speed 1** de nuit aux [Démons simples](./demon_simple)
+Hantengu obtient les effets **Résistance 2** et **Force 2** de nuit <br>
+Octroie l'effet **Speed 1** de nuit aux [Démons simples](./demon_simple)
 +++
 
 !!!light Particularités
