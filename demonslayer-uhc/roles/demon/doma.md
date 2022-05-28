@@ -25,11 +25,11 @@ Si Doma **tue un rôle féminin** il gagne **un coeur** supplémentaire ainsi qu
 !!!
 
 +++ Blizzard
-Lors de l'utilisation de la compétence, inflige les effets **Wither 1** et **Blindness 1** pendant **20 secondes** au joueur ciblé 
-Le Blizzard peut être utilisé **deux fois** dans la partie
+Inflige les effets **Wither 1** et **Blindness 1** pendant **20 secondes** au joueur ciblé <br>
+Utilisable **une fois** tous les **3 épisodes**
 +++ Pantins
-Lors de son invoquation, le Pantin de glace **attaquera en continu** le **joueur ciblé** pendant **30 secondes**
-Au cours de la partie, Doma peut invoquer **4 pantins** individuellement
+Invoque un Pantin de glace qui **attaquera en continu** le **joueur ciblé** pendant **30 secondes**
+Doma peut invoquer **4 pantins** individuellement au total
 +++
 
 !!!light Particularités
