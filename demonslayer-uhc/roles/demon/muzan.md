@@ -51,7 +51,7 @@ Muzan **ne peut plus infecter** si il devient **SOLO**
 !!!
 
 !!!light Particularités
-Au bout de **1H25** de jeu, **les identités** de [Nezuko](../slayer/nezuko) et du porteur de [l'Amaryllis bleue](/demonslayer-uhc/divers/ab) sont révélés à Muzan
+Au bout de **1H25** de jeu, **les identités** de [Nezuko](../slayer/nezuko) et du porteur de [l'Amaryllis bleue](/demonslayer-uhc/divers/ab) sont révélées à Muzan
 !!!
 
 
