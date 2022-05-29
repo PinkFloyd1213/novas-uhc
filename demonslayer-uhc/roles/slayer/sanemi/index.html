@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707150893144" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707151056615" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707150893144" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707151056615" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707150893144" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707151056615" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -250,12 +250,12 @@
 <doc-tabs>
 <doc-tab id="brise">
 <template #title>Brise</template>
-<p><strong>Repousse</strong> au loin <strong>tous les joueurs</strong> à <strong>proximité</strong> de Sanemi <br>
+<p><strong>Repousse</strong> au loin (20 blocs) <strong>tous les joueurs</strong> dans un <strong>rayon de 15 blocs</strong> autour de Sanemi <br>
 Utilisable <strong>1 fois</strong> tous les <strong>deux épisodes</strong></p>
 </doc-tab>
 <doc-tab id="grenades-incendiaires">
 <template #title>Grenades incendiaires</template>
-<p>Provoque une <strong>explosion</strong> et <strong>enflamme</strong> tous les <strong>blocs et joueurs</strong> dans son rayon</p>
+<p>Provoque une <strong>explosion</strong> (2.5 coeur de dégâts et détruit le terrain) et <strong>enflamme</strong> tous les <strong>blocs et joueurs</strong> dans son rayon (5 blocs)</p>
 </doc-tab>
 </doc-tabs>
 <div class="flex mb-6">
