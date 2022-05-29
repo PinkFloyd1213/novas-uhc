@@ -17,7 +17,7 @@ Mitsuri a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/diver
 !!!
 
 !!!success Effets
-Mitsuri possède les effets **Force 1** et **Résistance 1** en présence de son amant
+Mitsuri possède les effets **Force 1** et **Résistance 1** en présence de son amant (15 blocs ou moins)
 !!!
 
 !!!warning Items
