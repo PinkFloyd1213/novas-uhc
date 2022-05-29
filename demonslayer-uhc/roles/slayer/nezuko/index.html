@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707155665122" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707155901199" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707155665122" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707155901199" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707155665122" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707155901199" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -245,7 +245,7 @@
             <h5>Items</h5>
 <p>À l’annonce des rôles, Nezuko reçoit son &quot;<strong>Lierre</strong>&quot; qui, en effectuant un <strong>clic gauche</strong>, active sa forme &quot;<strong>Mini</strong>&quot; et la forme &quot;<strong>Maxi</strong>&quot; avec <strong>clic droit</strong>. Les <strong>formes</strong> ne sont <strong>pas cumulables</strong> <br>
 <br>
-Nezuko reçoit également une &quot;<strong>Fiole de sang</strong>&quot; pour <strong>activer/désactiver</strong> sa &quot;<strong>Rage</strong>&quot;. La <strong>Rage</strong> est uniquement activable lorsque <strong>Tanjiro est à proximité</strong> et <strong>en dessous de 4 coeurs</strong></p>
+Nezuko reçoit également une &quot;<strong>Fiole de sang</strong>&quot; pour <strong>activer/désactiver</strong> sa &quot;<strong>Rage</strong>&quot;. La <strong>Rage</strong> est uniquement activable lorsque <strong>Tanjiro est à proximité</strong> (15 blocs ou moins) et <strong>en dessous de 4 coeurs</strong></p>
         </div>
     </div>
 </div>
@@ -264,7 +264,7 @@ Utilisable <strong>1 fois</strong> par épisode</p>
 </doc-tab>
 <doc-tab id="rage">
 <template #title>Rage</template>
-<p>Lorsque Nezuko se trouve à <strong>proximité de Tanjiro</strong> et qu&#x27;il ne possède que <strong>4 coeurs ou moins</strong>, elle a la possibilité d&#x27;<strong>activer</strong> sa <strong>Rage</strong> <br>
+<p>Lorsque Nezuko se trouve à <strong>proximité de Tanjiro</strong> (15 blocs ou moins) et qu&#x27;il ne possède que <strong>4 coeurs ou moins</strong>, elle a la possibilité d&#x27;<strong>activer</strong> sa <strong>Rage</strong> <br>
 <br>
 Octroie <strong>Force 2</strong> et <strong>Résistance 1</strong> à Nezuko <br>
 <br>
