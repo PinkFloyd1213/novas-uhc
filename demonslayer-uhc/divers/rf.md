@@ -1,6 +1,6 @@
 ---
 label: Les rôles féminins
-icon: ":four_leaf_clover:"
+icon: ":hibiscus:"
 order: 975
 ---
 
