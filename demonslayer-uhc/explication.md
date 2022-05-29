@@ -37,6 +37,7 @@ Tous les **items de rôles**, [Sabre du soleil](./divers/sabre) et **bottes** de
 !!!
 !!!info
 Des **événements** sont aussi présents afin de pimenter la partie :
+- [L'Amaryllis bleue](./divers/ab)
 - [La lame d'éradication](./divers/eradication)
 - [Le village des forgerons](./divers/village)
 - [Le château de l'infini](./divers/cdi)
