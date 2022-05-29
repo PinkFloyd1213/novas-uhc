@@ -20,7 +20,7 @@ Kiriya possède l'effet **Weakness 1** en permanance
 
 !!!warning Items
 À l’annonce des rôles, Kiriya reçoit son "**Corbeau**", qu'il peut activer **3 fois** dans la partie **durant la nuit** <br>
-Ce pouvoir peut également être activé en **illimité** dans le "**Château de l'infini**"
+Ce pouvoir peut également être activé en **illimité** dans le [Château de l'infini](/demonslayer-uhc/divers/cdi)
 !!!
 
 +++ Corbeau
@@ -33,7 +33,7 @@ La forme de corbeau peut être **interrompue** de quatre façons : <br>
 - **Le corbeau est tué par un joueur** <br>
 - **Le corps de kiriya subit des dégats** <br>
 <br>
-Kiriya peut **parler** en forme de corbeau dans le "**Château de l'infini**"
+Kiriya peut **parler** en forme de corbeau dans le [Château de l'infini](/demonslayer-uhc/divers/cdi)
 +++ 
 
 !!!danger Commandes
