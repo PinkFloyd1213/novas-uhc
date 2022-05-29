@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707080377614" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707150033662" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707080377614" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707150033662" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707080377614" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707150033662" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -210,7 +210,7 @@
         </div>
         <div class="pr-5 ml-3 w-full">
 <p>Les Démons Simples sont directement en lien avec <a href="../hantengu/">Hantengu</a>, de ce fait il pourra leur octroyer divers effets <br>
-En conséquence tous les démons simples connaissent l&#x27;identité de <a href="../hantengu/">Hantengu</a></p>
+De plus tous les démons simples connaissent l&#x27;identité de <a href="../hantengu/">Hantengu</a></p>
         </div>
     </div>
 </div>
@@ -256,16 +256,20 @@ En conséquence tous les démons simples connaissent l&#x27;identité de <a href
 <doc-tabs>
 <doc-tab id="sekido">
 <template #title>Sekido</template>
-<p>À l’annonce des rôles, reçoit une &quot;<strong>Corne</strong>&quot; qui, à son activation, <strong>immobilise</strong> un joueur pendant <strong>2 secondes</strong>. Utilisable <strong>une fois par épisode</strong></p>
+<p>À l’annonce des rôles, reçoit une &quot;<strong>Corne</strong>&quot; qui, à son activation, <strong>immobilise</strong> le joueur ciblé pendant <strong>2 secondes</strong> <br>
+Utilisable <strong>une fois par épisode</strong></p>
 </doc-tab>
 <doc-tab id="karaku">
 <template #title>Karaku</template>
-<p>À l’annonce des rôles, Karaku reçoit une &quot;<strong>Feuille</strong>&quot; qui, à son activation, <strong>repousse au loin tous les joueurs</strong> lui faisant face. Si les joueurs viennent à être stoppés par des blocs sur le chemin, ils prendront des <strong>dégats causés par l&#x27;impact</strong>. Utilisable <strong>une fois tous les deux épisodes</strong></p>
+<p>À l’annonce des rôles, Karaku reçoit une &quot;<strong>Feuille</strong>&quot; qui, à son activation, <strong>repousse au loin</strong> (20 blocs) tous les joueurs <strong>lui faisant face</strong> <br>
+Si les joueurs viennent à être stoppés par des blocs sur le chemin, ils prendront des <strong>dégats causés par l&#x27;impact</strong> (4 coeurs si repoussés moins de 10 blocs) <br>
+Utilisable <strong>une fois tous les deux épisodes</strong></p>
 </doc-tab>
 <doc-tab id="urogi">
 <template #title>Urogi</template>
-<p>À l’annonce des rôles, Urogi reçoit des &quot;<strong>Serres</strong>&quot; qui, en effectuant un <strong>clic gauche</strong>, lui octroient les effets <strong>Speed 1</strong>, <strong>Jump boost 2</strong> et <strong>NoFall</strong> pendant <strong>20 secondes</strong>. Utilisable <strong>une fois par épisode</strong>. <br>
-Urogi peut également effectuer des <strong>dash</strong> toute les <strong>30 secondes</strong> en faisant un <strong>clic droit</strong> avec les &quot;<strong>Serres</strong>&quot;</p>
+<p>À l’annonce des rôles, Urogi reçoit des &quot;<strong>Serres</strong>&quot; qui, en effectuant un <strong>clic gauche</strong>, lui octroient les effets <strong>Speed 1</strong>, <strong>Jump boost 2</strong> et <strong>NoFall</strong> pendant <strong>20 secondes</strong> <br>
+Utilisable <strong>une fois par épisode</strong> <br>
+Urogi peut également effectuer des <strong>dash</strong> (8 blocs) toute les <strong>30 secondes</strong> en faisant un <strong>clic droit</strong> avec les &quot;<strong>Serres</strong>&quot;</p>
 </doc-tab>
 </doc-tabs>
 
@@ -360,7 +364,7 @@ Urogi peut également effectuer des <strong>dash</strong> toute les <strong>30 s
 
     <div id="docs-overlay-target"></div>
 
-    <script>window.__DOCS__ = { "title": "Démons Simples", icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
+    <script>window.__DOCS__ = { "title": "Démons Simples x 3", icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="9ec0e13c-1299-4c3f-a5e9-ff39363c6960";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </body>
 </html>
