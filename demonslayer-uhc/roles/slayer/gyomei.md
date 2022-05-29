@@ -15,7 +15,7 @@ Gyomei a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers
 !!!
 
 !!!success Effets
-Gyomei possède l'effet **Resistance 1** permanant
+Gyomei possède l'effet **Résistance 1** permanant
 !!!
 
 !!!warning Items
@@ -27,6 +27,6 @@ et la compétence "**Lancer de rocher**" avec **clic droit**
 **Ramène** le joueur ciblé directement **en face de Gyomei** <br>
 Utilisable **1 fois** par épisode
 +++ Lancer de rocher
-**Projette un rocher** en avant et **inflige des dégats** s'il heurte un joueur
+**Projette un rocher** en avant et **inflige des dégats** (3 coeurs) s'il heurte un joueur
 +++
 
