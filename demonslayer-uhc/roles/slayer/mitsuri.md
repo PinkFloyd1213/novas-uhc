@@ -23,12 +23,14 @@ Mitsuri possède les effets **Force 1** et **Résistance 1** en présence de son
 !!!warning Items
 Le [Sabre du soleil](/demonslayer-uhc/divers/sabre) de Mitsuri est **plus résistant** que les autres (**durabilité de 30 coups** au lieu de 20)<br>
 <br>
-À l’annonce des rôles, Mitsuri reçoit son "**Fouet**" utilisable **1 fois** par épisode
+À l’annonce des rôles, Mitsuri reçoit son "**Fouet**"
 !!!
 
 +++ Fouet
 Ocroie **Force +1** au détriment **d'un coeur maximum en moins** au joueur frappé. <br>
 L'effet dure **30 secondes** <br>
+utilisable **1 fois** par épisode <br>
+<br>
 Au terme de l'effet du fouet, le **coeur manquant revient remplit**
 +++
 
