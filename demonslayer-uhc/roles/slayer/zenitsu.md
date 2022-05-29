@@ -20,11 +20,12 @@ Il possède également **Speed 3** en dessous de **3.5 coeurs**
 !!!
 
 !!!warning Items
-À l’annonce des rôles, Zenitsu reçoit un "**Éclair**" utilisable **une fois** par épisode
+À l’annonce des rôles, Zenitsu reçoit un "**Éclair**"
 !!!
 
 +++ Éclair
-Zenitsu effectue un **dash en avant** et **blesse les joueurs** sur son passage. Le dash produit également un **grand bruit** de foudre
+Zenitsu effectue un **dash en avant** (15 blocs) et **blesse les joueurs** (3.5 coeurs) sur son passage. Le dash produit également un **grand bruit** de foudre <br>
+Utilisable **une fois** par épisode
 +++
 
 !!!light Particularités
