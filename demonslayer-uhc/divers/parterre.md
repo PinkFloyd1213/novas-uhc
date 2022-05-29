@@ -1,7 +1,7 @@
 ---
 label: Parterres de fleurs
 icon: ":cherry_blossom:"
-order: 925
+order: 970
 ---
 
 # Les Parterres de fleurs
