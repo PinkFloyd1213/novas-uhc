@@ -23,11 +23,12 @@ Il connaît l'identité du [Muzan](./muzan)
 
 !!!warning Items
 À l'annonce des rôles Akaza reçoit un "**Flocon**" qui lui permet d'activer sa compétence "**Compas**" <br>
-Le compas peut être utilisé **une fois tous les deux épisodes** et pendant une durée de **1 minute**
 !!!
 
 +++ Compas général
-Lors de l'activation de la compétence, génère un cercle de **40 blocs de rayon** centré sur la position actuelle d'Akaza. Celle-ci délimitée par des **particules bleues** uniquement visible par Akaza (sauf en mode dégats)
+Lors de l'activation de la compétence, génère un cercle de **40 blocs de rayon** centré sur la position actuelle d'Akaza. Celle-ci délimitée par des **particules bleues** uniquement visible par Akaza (sauf en mode dégats) <br>
+<br>
+Le compas peut être utilisé **une fois tous les deux épisodes** et pendant une durée de **1 minute**
 +++ Mode détection 
 Tous les **non-démons** présents dans la zone du compas seront marqués par des **particules bleues** au dessus de leur têtes
 +++ Mode dégats
