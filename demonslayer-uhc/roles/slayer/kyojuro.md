@@ -17,13 +17,14 @@ Kyojuro a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/diver
 !!!warning Items
 À l’annonce des rôles, Kyojuro reçoit un livre **Fire aspect 2** et un livre **Flame 1** <br>
 <br>
-Il reçoit également son "**Coeur de flammes**" utilisable **1 fois** tous les **2 épisodes**
+Il reçoit également son "**Coeur de flammes**"
 !!!
 
 +++ Coeur de flammes
 **Enflamme** tous les **démons** dans un rayon de 7 blocs autour de Kyojuro<br>
 Octroie également l'effet **Speed 1** à Kyojuro pendant la durée de l'effet <br>
-Dure **1 minute**
+Dure **1 minute** <br>
+Utilisable **1 fois** tous les **2 épisodes**
 +++
 
 !!!danger Commandes
