@@ -26,8 +26,8 @@ Kanae obtient l'effet **Speed 1** en présence de [Shinobu](./shinobu) ou [Kanao
 Un joueur ne peut **pas** être boosté **deux épisodes de suite** <br>
 <br>
 Kanae obtient également des effets à **proximité du joueur boosté** (15 blocs ou moins) :
-- **Force 1** durant les épisodes impairs
-- **Résistance 1** durant les épisodes pairs <br>
+- **Force 1** durant les épisodes **impairs**
+- **Résistance 1** durant les épisodes **pairs** <br>
 <br>
 Kanae n'obtient **pas** ces effets si elle se booste **elle-même**
 +++
