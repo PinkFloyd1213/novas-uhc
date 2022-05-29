@@ -38,7 +38,7 @@ Tous les **non-démons** présents dans la zone du compas seront marqués par de
 
 !!!light Particularités
 - Akaza **repousse au loin** (15aine de blocs) ses ennemis quand il les frappe à **mains nues**
-- Il peut détecter les **rôles féminins** en discernant le "Parfum" qu'elles émettent sous forme de **particules** derrière elles, pendant leurs déplacements
+- Il peut détecter les **rôles féminins** en discernant le "Parfum" qu'elles émettent sous forme de **particules roses** derrière elles, pendant leurs déplacements
 !!!
 
 
