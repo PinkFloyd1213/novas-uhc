@@ -28,13 +28,15 @@ Octroie l'effet **Force 1** permanant
 +++ Forme foudre
 Octroie l'effet **Speed 2** permanant
 +++ Vélocité de l'éclair
-Octroie **Speed 3** pendant 45 secondes <br>
+Octroie **Speed 3** pendant **45 secondes** <br>
 Utilisable **1 fois** tous les deux épisodes
 +++
 
 !!!light Particularités
-Jigoro connaît l'identité de [Kaigaku](../demon/kaigaku) si celui-ci choisit le camp démon. <br>
-Il disposera alors de **40 minutes** pour **le tuer**, sans quoi **Jigoro** sera limité à **un coeur permanant** et obtiendra **9 coeurs d'absorption** à durée infinie en contrepartie. <br>
+Jigoro connaît l'**identité** de [Kaigaku](../demon/kaigaku) si celui-ci choisit le camp <d style="color:red;">démons</d> <br>
+Il disposera alors de **40 minutes** pour **le tuer** <br>
+<br>
+Si Jigoro ne parvient pas à tuer [Kaigaku](../demon/kaigaku) dans ce délai il sera limité à **un coeur maximum** et obtiendra **9 coeurs d'absorption** à durée infinie en contrepartie. <br>
 Ces **malus** dureront jusqu'à la **mort de kaigaku**
 !!!
 
