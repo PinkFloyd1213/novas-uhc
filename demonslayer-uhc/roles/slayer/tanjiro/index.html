@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707154275970" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707154679260" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707154275970" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707154679260" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707154275970" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707154679260" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -243,23 +243,23 @@
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>Commandes</h5>
-<p>Tanjiro a accès, <strong>1 fois</strong> dans la partie à partir <strong>de 45 minutes de jeu</strong>, à la commande <code v-pre>/ds aura </code> pour détecter les <strong>auras des joueurs</strong> aux alentours, sous forme de <strong>particules</strong> de différentes <strong>couleurs</strong>, pendant <strong>20 secondes</strong>
-(s&#x27;ils en possèdent une) <br>
-L&#x27;ordre de priorité des auras est de gauche à droite dans le tableau ci-dessous</p>
+<p>Tanjiro a accès, <strong>1 fois</strong> dans la partie à partir <strong>de 45 minutes de jeu</strong>, à la commande <code v-pre>/ds aura </code> pour détecter les <strong>auras des joueurs</strong> aux alentours (s&#x27;ils en possèdent une), sous forme de <strong>particules</strong> de différentes <strong>couleurs</strong>, pendant <strong>20 secondes</strong>
+<br>
+L&#x27;ordre de priorité des auras est de gauche à droite dans le tableau ci-dessous <span class="docs-emoji">&#x2B07;&#xFE0F;</span></p>
         </div>
     </div>
 </div>
 <doc-tabs>
 <doc-tab id="danse-du-dieu-du-feu">
 <template #title>Danse du dieu du feu</template>
-<p><strong>Enflamme</strong> tous les <strong>démons</strong> autour de Tanjiro <br>
+<p><strong>Enflamme</strong> tous les <strong>démons</strong> dans un rayon de 10 blocs autour de Tanjiro <br>
 Octroie également l&#x27;effet <strong>Force 2</strong> à Tanjiro pendant la durée de l&#x27;effet <br>
-Pour toute la partie, Tanjiro a un quota de <strong>10 minutes</strong> de danse qu&#x27;il gère par lui-même <br>
+Pour toute la partie, Tanjiro a un quota de <strong>10 minutes</strong> de danse qu&#x27;il doit gérer par lui-même <br>
 <br>
-À la fin de chaque danse Tanjiro obtient les malus suivants : <strong>7 coeurs maximum</strong>, <strong>Weakness 1</strong> et <strong>Slowness 1</strong> actifs pendant la même durée dans laquelle il est resté en danse <br>
-Si <strong>une danse est relancée</strong> durant les malus, ceux-ci seront <strong>retirés temporairement</strong>. Cependant, à la fin de la danse, les malus se verront alors cumulés <br>
+À la fin de chaque danse Tanjiro obtient les malus suivants : <strong>7 coeurs maximum</strong>, <strong>Weakness 1</strong> et <strong>Slowness 1</strong> pendant la même durée dans laquelle il est resté en danse <br>
+Si <strong>une danse est relancée</strong> durant les malus, ceux-ci seront <strong>retirés temporairement</strong>. Cependant, à la fin de la danse, les malus se verront alors <strong>cumulés</strong> <br>
 <br>
-Si Tanjiro <strong>dépasse son quota</strong> de 10 minutes, il perdra alors <strong>1 coeur permanant</strong> toutes les <strong>10 secondes</strong> pendant la durée de la danse et/ou jusqu&#x27;à sa mort</p>
+Si Tanjiro <strong>dépasse son quota</strong> de 10 minutes, il perdra alors <strong>1 coeur maximum</strong> toutes les <strong>10 secondes</strong> pendant la <strong>durée de la danse</strong> et/ou <strong>jusqu&#x27;à sa mort</strong></p>
 </doc-tab>
 <doc-tab id="aura-noire">
 <template #title>Aura noire</template>
@@ -267,11 +267,11 @@ Si Tanjiro <strong>dépasse son quota</strong> de 10 minutes, il perdra alors <s
 </doc-tab>
 <doc-tab id="aura-bleue">
 <template #title>Aura bleue</template>
-<p>Porteur de l&#x27;<strong>Amaryllis bleue</strong></p>
+<p>Porteur de <a href="/demonslayer-uhc/divers/ab/">l&#x27;Amaryllis bleue</a></p>
 </doc-tab>
 <doc-tab id="aura-rouge">
 <template #title>Aura rouge</template>
-<p><strong>Lune supérieure</strong> ou <strong>Pilier</strong> ou <strong>Démon ayant effectué un kill</strong></p>
+<p><span class="docs-emoji">&#x1F536;</span><strong>Lune supérieure</strong> ou <span class="docs-emoji">&#x1F537;</span><strong>Pilier</strong> ou <strong>Démon ayant effectué un kill</strong></p>
 </doc-tab>
 <doc-tab id="aura-jaune">
 <template #title>Aura jaune</template>
@@ -292,7 +292,7 @@ Si Tanjiro <strong>dépasse son quota</strong> de 10 minutes, il perdra alors <s
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>Particularités</h5>
-<p>Tanjiro peut détecter les <strong>rôles féminins</strong> en discernant le &quot;Parfum&quot; qu&#x27;elles émettent sous forme de <strong>particules</strong> derrière elles, pendant leurs déplacements</p>
+<p>Tanjiro peut détecter les <strong>rôles féminins</strong> en discernant le &quot;Parfum&quot; qu&#x27;elles émettent sous forme de <strong>particules roses</strong> derrière elles, pendant leurs déplacements</p>
         </div>
     </div>
 </div>
