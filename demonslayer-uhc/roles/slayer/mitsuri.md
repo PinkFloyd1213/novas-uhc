@@ -13,21 +13,21 @@ Mitsuri est le pilier de l'amour
 !!!primary
 Mitsuri a la possibilité de crafter un [Sabre du soleil](/demonslayer-uhc/divers/sabre) <br>
 <br>
-À l’annonce des rôles, Mitsuri se voit attribuée un amant, parmis les piliers
+À l’annonce des rôles, Mitsuri se voit attribuée un amant, parmis les **piliers**
 !!!
 
 !!!success Effets
-Mitsuri possède les effets **Force 1** et **Résistance 1** en présence de son couple
+Mitsuri possède les effets **Force 1** et **Résistance 1** en présence de son amant
 !!!
 
 !!!warning Items
-Le Sabre du soleil de Mitsuri est plus résistant que les autres <br>
+Le [Sabre du soleil](/demonslayer-uhc/divers/sabre) de Mitsuri est **plus résistant** que les autres (**durabilité de 30 coups** au lieu de 20)<br>
 <br>
 À l’annonce des rôles, Mitsuri reçoit son "**Fouet**" utilisable **1 fois** par épisode
 !!!
 
 +++ Fouet
-Ocroie **Force 1** au détriment **d'un coeur permanant en moins** au joueur frappé. <br>
+Ocroie **Force +1** au détriment **d'un coeur maximum en moins** au joueur frappé. <br>
 L'effet dure **30 secondes** <br>
 Au terme de l'effet du fouet, le **coeur manquant revient remplit**
 +++
