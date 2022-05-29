@@ -44,7 +44,7 @@ Porteur de [l'Amaryllis bleue](/demonslayer-uhc/divers/ab)
 +++
 
 !!!light Particularités
-Tanjiro peut détecter les **rôles féminins** en discernant le "Parfum" qu'elles émettent sous forme de **particules roses** derrière elles, pendant leurs déplacements
+Tanjiro peut détecter les [Rôles féminins](/demonslayer-uhc/divers/rf) en discernant le "Parfum" qu'elles émettent sous forme de **particules roses** derrière elles, pendant leurs déplacements
 !!!
 
 
