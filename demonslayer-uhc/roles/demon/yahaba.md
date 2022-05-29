@@ -24,7 +24,7 @@ active la compétence "**Inversion**" et la compétence "**Téléportation**" av
 !!!
 
 +++ Inversion
-Téléporte le **joueur ciblé** à **30 blocs** de haut (le joueur ne subira aucun dégats de chute mais une somme de **dégats fixes** en contrepartie) <br>
+Téléporte le **joueur ciblé** à **35 blocs** de haut <br>
 Utilisable **2 fois** par épisode
 +++ Téléportation
 Téléporte le **joueur ciblé** **aléatoirement** sur la map <br>
