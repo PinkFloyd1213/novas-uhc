@@ -37,7 +37,7 @@ Camp <d style="color:red;">démons</d> : possède l'effet **Weakness 1** et **Sp
 +++ Zone de Combat
 Tous les joueurs, excepté Kaigaku, prennent des **dégats en continu** (1 demi-coeur toute les 1.5 secondes) dans une zone de **30 blocs de rayon**, centrée sur Kaigaku à son activation <br>
 La zone inflige davantage de dégats (1 demi-coeur par seconde) si Kaigaku choisit le camp <d style="color:red;">démons</d> <br>
-Dure **1 minute** <br>
+La zone dure **1 minute** et est délimitée par des **particules jaunes**<br>
 Utilisable **une fois** tous les **deux épisodes**
 +++ Éclair
 Camp <d style="color:lime;">slayers</d> : peut “**foudroyer**” un joueur au choix, **3 fois** dans la partie <br>
