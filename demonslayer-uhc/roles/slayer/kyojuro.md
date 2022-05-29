@@ -21,13 +21,13 @@ Il reçoit également son "**Coeur de flammes**" utilisable **1 fois** tous les 
 !!!
 
 +++ Coeur de flammes
-**Enflamme** tous les **démons** à proximité <br>
+**Enflamme** tous les **démons** dans un rayon de 7 blocs autour de Kyojuro<br>
 Octroie également l'effet **Speed 1** à Kyojuro pendant la durée de l'effet <br>
 Dure **1 minute**
 +++
 
 !!!danger Commandes
-Kyojuro peut choisir un joueur à **inspirer** à sa mort, avec la commande ```/ds inspiration <nom du joueur>``` <br>
+Kyojuro peut choisir un joueur à **inspirer**, avec la commande ```/ds inspiration <nom du joueur>``` (ne peut pas être effectué après être mort)<br>
 **À la mort de Kyojuro** le joueur inspiré recevra **2 coeurs permanant** supplémentaires
 !!!
 
