@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707150033662" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707150141467" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707150033662" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707150141467" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707150033662" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707150141467" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -250,11 +250,13 @@
 <doc-tabs>
 <doc-tab id="fouet">
 <template #title>Fouet</template>
-<p>Inflige des <strong>dégats</strong> et <strong>rapproche</strong> le joueur ciblé. Utilisable <strong>une fois par épisode</strong></p>
+<p>Inflige des <strong>dégats</strong> (3 coeurs) et <strong>rapproche</strong> le joueur ciblé (7 blocs max) <br>
+Utilisable <strong>une fois par épisode</strong></p>
 </doc-tab>
 <doc-tab id="grappin">
 <template #title>Grappin</template>
-<p><strong>Propulse</strong> le joueur dans la direction du <strong>bloc ciblé</strong>. Utilisable <strong>une fois par minute</strong></p>
+<p><strong>Propulse</strong> Rui dans la direction du <strong>bloc ciblé</strong> <br>
+Utilisable <strong>une fois par minute</strong></p>
 </doc-tab>
 </doc-tabs>
 <div id='buff' style='visibility: hidden'>
