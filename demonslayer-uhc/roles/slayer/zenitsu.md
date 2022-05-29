@@ -28,5 +28,5 @@ Zenitsu effectue un **dash en avant** et **blesse les joueurs** sur son passage.
 +++
 
 !!!light Particularités
-Zenitsu peut détecter les **rôles féminins** en discernant le "Parfum" qu'elles émettent sous forme de **particules** derrière elles, pendant leurs déplacements
+Zenitsu peut détecter les **rôles féminins** en discernant le "Parfum" qu'elles émettent sous forme de **particules roses** derrière elles, pendant leurs déplacements
 !!!
