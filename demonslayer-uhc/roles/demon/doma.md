@@ -34,7 +34,7 @@ Doma peut invoquer **4 pantins** individuellement au total
 
 !!!light Particularités
 - Doma est **immunisé** à toute forme de **poison**
-- Il peut détecter les **rôles féminins** en discernant le "Parfum" qu'elles émettent sous forme de **particules roses** derrière elles, pendant leurs déplacements
+- Il peut détecter les [Rôles féminins](/demonslayer-uhc/divers/rf) en discernant le "Parfum" qu'elles émettent sous forme de **particules roses** derrière elles, pendant leurs déplacements
 - Doma a la capacité de "**marcher sur l'eau**" en formant de la **glace sous ses pieds**
 !!!
 
