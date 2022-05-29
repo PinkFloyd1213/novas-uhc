@@ -23,9 +23,9 @@ Obanai possède l'effet **Speed 1** permanant
 !!!
 
 !!!light Particularités
-- Obanai est **invisible** à **longue distance** des joueurs <br>
-- Il est visible via de faibles **particules** à **moyenne distance** <br>
-- Il est complètement **visible** à **courte distance** des joueurs
+- Obanai est **invisible** à **longue distance** des joueurs (+ de 20 blocs)<br>
+- Il est visible via de faibles **particules** à **moyenne distance** (entre 7 et 20 blocs)<br>
+- Il est complètement **visible** à **courte distance** des joueurs (moins de 7 blocs)
 !!!
 
 !!!danger Commandes
