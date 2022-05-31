@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707314747967" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707314935114" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707314747967" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707314935114" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707314747967" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707314935114" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -253,11 +253,13 @@ Si Doma <strong>tue un rôle féminin</strong> il gagne <strong>un coeur</strong
 <doc-tab id="blizzard">
 <template #title>Blizzard</template>
 <p>Inflige les effets <strong>Wither 1</strong> et <strong>Blindness 1</strong> pendant <strong>20 secondes</strong> au joueur ciblé <br>
+Portée de <strong>50 blocs</strong> <br>
 Utilisable <strong>une fois</strong> tous les <strong>3 épisodes</strong></p>
 </doc-tab>
 <doc-tab id="pantins">
 <template #title>Pantins</template>
 <p>Invoque un Pantin de glace qui <strong>attaquera en continu</strong> le <strong>joueur ciblé</strong> pendant <strong>30 secondes</strong> <br>
+Portée de <strong>50 blocs</strong> <br>
 Doma peut invoquer <strong>4 pantins</strong> individuellement au total</p>
 </doc-tab>
 </doc-tabs>
