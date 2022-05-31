@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707315083093" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707315171211" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707315083093" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707315171211" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707315083093" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707315171211" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -257,11 +257,12 @@ De plus tous les démons simples connaissent l&#x27;identité de <a href="../han
 <doc-tab id="sekido">
 <template #title>Sekido</template>
 <p>À l’annonce des rôles, reçoit une &quot;<strong>Corne</strong>&quot; qui, à son activation, <strong>immobilise</strong> le joueur ciblé pendant <strong>2 secondes</strong> <br>
+Portée de <strong>50 blocs</strong> <br>
 Utilisable <strong>une fois par épisode</strong></p>
 </doc-tab>
 <doc-tab id="karaku">
 <template #title>Karaku</template>
-<p>À l’annonce des rôles, Karaku reçoit une &quot;<strong>Feuille</strong>&quot; qui, à son activation, <strong>repousse au loin</strong> (20 blocs) tous les joueurs <strong>lui faisant face</strong> <br>
+<p>À l’annonce des rôles, Karaku reçoit une &quot;<strong>Feuille</strong>&quot; qui, à son activation, <strong>repousse au loin</strong> (20 blocs) tous les joueurs <strong>lui faisant face</strong> (8 blocs ou moins en face de lui dans un cône de 180°)<br>
 Si les joueurs viennent à être stoppés par des blocs sur le chemin, ils prendront des <strong>dégats causés par l&#x27;impact</strong> (4 coeurs si repoussés moins de 10 blocs) <br>
 Utilisable <strong>une fois tous les deux épisodes</strong></p>
 </doc-tab>
