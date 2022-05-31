@@ -25,6 +25,7 @@ et la compétence "**Lancer de rocher**" avec **clic droit**
 
 +++ Hook
 **Ramène** le joueur ciblé directement **en face de Gyomei** <br>
+Portée de **30 blocs** <br>
 Utilisable **1 fois** par épisode
 +++ Lancer de rocher
 **Projette un rocher** en avant et **inflige des dégats** (3 coeurs) s'il heurte un joueur
