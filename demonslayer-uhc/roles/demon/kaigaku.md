@@ -41,6 +41,7 @@ La zone dure **1 minute** et est délimitée par des **particules jaunes**<br>
 Utilisable **une fois** tous les **deux épisodes**
 +++ Éclair
 Camp <d style="color:lime;">slayers</d> : peut “**foudroyer**” un joueur au choix, **3 fois** dans la partie <br>
+Portée de **50 blocs** <br>
 <br>
 Camp <d style="color:red;">démons</d> : peut "**foudroyer**" tous les slayers autour de lui dans un zone de **10 blocs de rayon**, une fois dans la partie
 +++
