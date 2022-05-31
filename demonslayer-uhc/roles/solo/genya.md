@@ -47,7 +47,7 @@ Reçoit les **messages du Muzan** <br>
 [Doma](../demon/doma) <br>
 Genya est **immunisé** à toute forme de **poison** <br>
 Genya peut détecter les [Rôles féminins](/demonslayer-uhc/divers/rf) en discernant le "Parfum" qu'elles émettent sous forme de **particules roses** derrière elles, pendant leurs déplacements <br>
-Si genya tue une **femme** il gagne **un coeur** supplémentaire ainsi qu'un bonus de **2% de Force**
+Si genya tue une **femme** il gagne **un coeur maximum** supplémentaire ainsi qu'un bonus de **2% de Force**
 +++ Akaza
 [Akaza](../demon/akaza) <br>
 Genya obtient les effets **Résistance +1** et **Speed +1** en dessous de **3.5 coeurs** <br>
