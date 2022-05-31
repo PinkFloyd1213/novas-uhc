@@ -28,6 +28,7 @@ Numa devient **invisible** mais émet des **particules noire** à ses pieds <br>
 Utilisable **toute les nuits** <br>
 +++ Crissement
 Rend le **joueur ciblé** **sourd et muet** (sur Mumble) <br>
+Portée de **50 blocs** <br>
 Dure **45 secondes** <br>
 Utilisable **une fois par épisode**
 +++
