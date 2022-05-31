@@ -28,6 +28,7 @@ Le [Sabre du soleil](/demonslayer-uhc/divers/sabre) de Mitsuri est **plus résis
 
 +++ Fouet
 Ocroie **Force +1** au détriment **d'un coeur maximum en moins** au joueur frappé. <br>
+Portée de **7 blocs** <br>
 L'effet dure **30 secondes** <br>
 utilisable **1 fois** par épisode <br>
 <br>
