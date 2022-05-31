@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.707315371884" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.2.707315425866" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707315371884" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.2.707315425866" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707315371884" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.707315425866" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -245,14 +245,14 @@ Au cours de la partie Tengen pourra <strong>composer des &quot;Mélodies&quot;</
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>Items</h5>
-<p>À l’annonce des rôles, Tengen reçoit 5 &quot;<strong>Fumigènes</strong>&quot;</p>
+<p>À l’annonce des rôles, Tengen reçoit <strong>5</strong> &quot;<strong>Fumigènes</strong>&quot;</p>
         </div>
     </div>
 </div>
 <doc-tabs>
 <doc-tab id="mélodie">
 <template #title>Mélodie</template>
-<p>Tengen peut “<strong>Composer une mélodie</strong>” en restant <strong>proche d’un démon</strong> pendant <strong>5 minutes</strong>, et si celle-ci est finalisée, il infligera <strong>davantage de dégats</strong> (+25%) à ce démon <br>
+<p>Tengen peut “<strong>Composer une mélodie</strong>” en restant <strong>proche d’un démon</strong> (15 blocs ou moins) pendant <strong>5 minutes</strong>, et si celle-ci est finalisée, il infligera <strong>davantage de dégats</strong> (+25%) à ce démon <br>
 <br>
 Losque <strong>la composition</strong> d&#x27;une mélodie <strong>s&#x27;achève</strong> Tengen recevra un <strong>message</strong> du type : <br>
 <code v-pre>La mélodie pour le démon &lt;rôle démon&gt; a été composée</code> <br>
@@ -261,7 +261,8 @@ Lorsque Tengen <strong>frappe un démon</strong> qui a sa <strong>mélodie compo
 </doc-tab>
 <doc-tab id="fumigène">
 <template #title>Fumigène</template>
-<p><strong>Aveugle</strong> le joueur ciblé pendant <strong>30 secondes</strong> (blindness 1)</p>
+<p><strong>Aveugle</strong> le joueur ciblé pendant <strong>30 secondes</strong> (blindness 1)
+Portée de <strong>50 blocs</strong> <br></p>
 </doc-tab>
 </doc-tabs>
 
