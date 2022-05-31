@@ -27,7 +27,7 @@ Effectue une **charge en avant**, **blessant les joueurs** sur son passage
 +++
 
 !!!light Particularités
-À la fin de **chaque nuit**, Inosuke reçoit un **message** indiquant si il ressent un **petit/moyen/grand frisson** en fonction du **nombre de démons** autour de lui à ce moment <br>
+À la fin de **chaque nuit**, Inosuke reçoit un **message** indiquant si il ressent un **petit/moyen/grand frisson** en fonction du **nombre de démons** autour de lui à ce moment (dans un rayon de 40 blocs)<br>
 - Petit frisson : 1 à 2 démons autour de lui
 - Moyen frisson : 3 à 4 démons autour de lui
 - Grand frisson : plus de 4 démons autour de lui
