@@ -24,9 +24,11 @@ Rui possède l'effet **Weakness 1** de jour et **Force 1** la nuit
 
 +++ Fouet
 Inflige des **dégats** (3 coeurs) et **rapproche** le joueur ciblé (7 blocs max) <br>
+Portée de **50 blocs** <br>
 Utilisable **une fois par épisode**
 +++ Grappin
 **Propulse** Rui dans la direction du **bloc ciblé** <br>
+Portée de **20 blocs** <br>
 Utilisable **une fois par minute**
 +++
 
