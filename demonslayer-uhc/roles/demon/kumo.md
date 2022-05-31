@@ -26,12 +26,15 @@ Ani & Ane possèdent l'effet **Weakness 1** de jour et **Force 1** la nuit
 
 +++ Toile
 **Immobilise** le joueur ciblé pendant **2 secondes** <br>
+Portée de **50 blocs** <br>
 Utilisable **une fois par épisode**
 +++ Entrave 
 Inflige l'effet **Slowness 2** au joueur ciblé pendant **5 secondes** <br>
+Portée de **50 blocs** <br>
 Utilisable **une fois par épisode**
 +++ Grappin
 **Propulse** le joueur dans la direction du **bloc ciblé** <br>
+Portée de **20 blocs** <br>
 Utilisable **une fois par minute**
 +++
 
