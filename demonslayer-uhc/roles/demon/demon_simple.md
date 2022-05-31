@@ -28,9 +28,10 @@ Les Démons Simples possèdent l'effet **Weakness 1** de jour et **Force 1** la 
 
 +++ Sekido
 À l’annonce des rôles, reçoit une "**Corne**" qui, à son activation, **immobilise** le joueur ciblé pendant **2 secondes** <br>
+Portée de **50 blocs** <br>
 Utilisable **une fois par épisode**
 +++ Karaku
-À l’annonce des rôles, Karaku reçoit une "**Feuille**" qui, à son activation, **repousse au loin** (20 blocs) tous les joueurs **lui faisant face** <br>
+À l’annonce des rôles, Karaku reçoit une "**Feuille**" qui, à son activation, **repousse au loin** (20 blocs) tous les joueurs **lui faisant face** (8 blocs ou moins en face de lui dans un cône de 180°)<br>
 Si les joueurs viennent à être stoppés par des blocs sur le chemin, ils prendront des **dégats causés par l'impact** (4 coeurs si repoussés moins de 10 blocs) <br>
 Utilisable **une fois tous les deux épisodes**
 +++ Urogi
