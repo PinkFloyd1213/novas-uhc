@@ -25,8 +25,10 @@ active la compétence "**Inversion**" et la compétence "**Téléportation**" av
 
 +++ Inversion
 Téléporte le **joueur ciblé** à **35 blocs** de haut <br>
+Portée de **50 blocs** <br>
 Utilisable **2 fois** par épisode
 +++ Téléportation
 Téléporte le **joueur ciblé** **aléatoirement** sur la map <br>
+Portée de **50 blocs** <br>
 Utilisable **1 fois** par épisode
 +++
