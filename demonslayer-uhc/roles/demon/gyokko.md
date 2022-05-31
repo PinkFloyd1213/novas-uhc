@@ -44,8 +44,9 @@ Lors de sa transfomation en “**Forme de combat**” Gyokko reçoit un "**Poiss
 Forme une bulle d'eau de **15 blocs** de rayon autour du **joueur ciblé** <br>
 **Tous les joueurs** présents dans la cage se voient affligés des effets **Slowness 1** et **Blindness 1**, excepté Gyokko <br>
 La cage dure **1 minute et 30 secondes** <br>
+Portée de **50 blocs** <br>
 Utilisable **une fois par épisode**
 +++ Jet de poissons 
-Crée une **vague déferlante** de poissons **infligeant 3 coeurs de dégats** sur son passage <br>
+Crée une **vague déferlante** de poissons d'une portée de **12 blocs** et **infligeant 3 coeurs de dégats** sur son passage <br>
 Utilisable **une fois par épisode** 
 +++
