@@ -18,7 +18,7 @@ Ces armes exceptionnelles offrent chacune un **effet différent** selon la **cou
 !!!light
 Un Sabre du soleil se **craft** ainsi :
 
-INSÉRER UNE IMAGE ICI
+![Image du craft d'un sabre](/static/sabre.png)
 
 !!!
 !!!warning
