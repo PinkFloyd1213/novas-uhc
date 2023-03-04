@@ -1,7 +1,7 @@
 ---
 label: Daki
 icon: ":large_orange_diamond:"
-order: 625
+order: 675
 ---
 
 # Daki
