@@ -2,6 +2,7 @@
 label: Daki & Gyutaro 
 icon: ":large_orange_diamond:"
 order: 650
+visibility: hidden
 ---
 
 # Daki & Gyutaro 
