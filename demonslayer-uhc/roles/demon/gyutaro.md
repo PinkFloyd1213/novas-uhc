@@ -35,7 +35,7 @@ Gyutaro possède **Speed 1** de nuit <br>
 !!!
 
 
-+++ <d style="color:lime;">Faucilles sanguinolentes</d>
++++ <d style="color:red;">Faucilles sanguinolentes</d>
 Attaque à distance infligeant **2 coeurs de dégats** et l'effet **Wither 1** pendant **10 secondes** au joueur ciblé <br>
 L'attaque a une portée de **15 blocs** <br>
 Utilisable toute les **15 minutes**
