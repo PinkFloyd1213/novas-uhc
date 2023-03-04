@@ -31,7 +31,7 @@ Daki possède **Speed 1** si elle se trouve éloignée de [Gyutaro](./gyutaro)
 
 
 !!!warning Items
-À l’annonce des rôles, Daki reçoit un "**Obi**" qui lui permet d'activer sa compétence "**Obis**". 
+À l’annonce des rôles, Daki reçoit un "**Obi**" qui lui permet d'activer sa compétence "**Obis**"
 !!!
 
 
