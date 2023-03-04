@@ -43,7 +43,7 @@ Utilisable toute les **15 minutes**
 
 
 !!!danger Commandes
-Lorsque Gyutaro est morte il peut envoyer des messages à [Daki](./daki) avec la commande ```/ds mort <message>```
+Lorsque Gyutaro est mort il peut envoyer des messages à [Daki](./daki) avec la commande ```/ds mort <message>```
 !!!
 
 
