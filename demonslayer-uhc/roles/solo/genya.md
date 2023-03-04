@@ -37,7 +37,7 @@ Obtient l'effet **Force 2** permanant
 [Muzan](../demon/muzan) <br>
 Obtient l'effet **Force 3** permanant
 +++ Démon Ultime
-[Démon Ultime](../demon/muzan)
+[Démon Ultime](../demon/muzan) <br>
 Obtient l'effet **Force +1** permanant
 +++ Kokushibo
 [Kokushibo](../demon/kokushibo) <br>
