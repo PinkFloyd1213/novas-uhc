@@ -11,7 +11,7 @@ Daki est la 6ème lune supérieure avec son frère Gyutaro
 ```
 
 !!!primary
-Comme toute les lunes supérieures elle possède l'effet **Weakness 1** à proximité d'autres lunes (**sauf Gyutaro**), mais n'a plus effet si [Muzan](./muzan) change de camp <br>
+Comme toute les lunes supérieures elle possède l'effet **Weakness 1** à proximité d'autres lunes (**sauf [Gyutaro](./gyutaro)**), mais n'a plus effet si [Muzan](./muzan) change de camp <br>
 Elle connaît l'identité de [Gyutaro](./gyutaro) ansi que de [Muzan](./muzan)
 !!!
 
