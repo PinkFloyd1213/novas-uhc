@@ -46,7 +46,7 @@ Si le **Muzan meurt** pendant ces **3 minutes**, alors le joueur infecté se voi
 !!!warning Conditions spéciales
 Muzan devient **SOLO** si il tue [Nezuko](../slayer/nezuko) ou le porteur "**l'Amaryllis bleue**" <br>
 Si l'**une des deux conditions est remplie** alors Muzan obtiendra les effets **Force 3** et **Résistance 2** **permanants**, et devra gagner seul <br>
-Le malus de **Weakness** entre démons est également retiré de toutes les Lunes encore en vie
+Le malus de **Weakness** entre démons est également retiré de toutes les Lunes encore en vie <br>
 Muzan **ne peut plus infecter** si il devient **SOLO**
 !!!
 
