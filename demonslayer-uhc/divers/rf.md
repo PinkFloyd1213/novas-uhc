@@ -12,7 +12,7 @@ Plusieurs rôles sont amenés à détecter ces rôles donc en voici la liste :
 
 !!!success
 - [Nakime](../roles/demon/nakime)
-- [Daki](../roles/demon/daki_gyutaro)
+- [Daki](../roles/demon/daki)
 - [Kumo Ane](../roles/demon/kumo)
 - [Susamaru](../roles/demon/susamaru)
 - [Shinobu](../roles/slayer/shinobu)
