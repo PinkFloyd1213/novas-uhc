@@ -17,8 +17,10 @@ Elle connaît l'identité de [Gyutaro](./gyutaro) ansi que de [Muzan](./muzan)
 
 
 !!!info 
-~~Si l'un des membre du duo vient à **mourrir** il réapparaîtra après **5 minutes** avec **un coeur maximum en moins** <br>
-Pour les **vaincre**, il est nécéssaire de les tuer, tous les deux, dans **ce laps de temps**~~
+Si [Gyutaro](./gyutaro) est toujours en vie, losque Daki meurre, elle ne droppera que sa tête <br>
+Jusqu'à ce qu'il soit en possession de ladite tête, [Gyutaro](./gyutaro) recevra un compas pointant vers celle-ci (ou le joueur l'ayant dans son inventaire) <br>
+S'il récupère la tête de sa sœur [Gyutaro](./gyutaro) aura la possibilité de la ressusciter en la combinant avec 4 pommes d'or dans une table de craft <br>
+Lors de sa resurection Daki revient avec tout son inventaire mais un cœur maximum en moins
 !!!
 
 
