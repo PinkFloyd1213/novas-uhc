@@ -13,5 +13,5 @@ Il s'agit des **points de réaparition** de [Gyokko](../roles/demon/gyokko)
 !!!
 !!!warning
 **N'importe quel joueur** a la possibilité de "détruire le parterre de fleurs" en **cassant les fleurs** présentes <br>
-Cela a pour effet d'**annuler la réapariton** de [Gyokko](../roles/demon/gyokko) à **ce** parterre
+Cela a pour effet d'**annuler la réapariton** de [Gyokko](../roles/demon/gyokko) à **cet endroit**
 !!!
